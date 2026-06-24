@@ -35,53 +35,74 @@ load_dotenv(dotenv_path=os.path.join(BASE_DIR, ".env"))
 
 def get_ga4_menu_data():
     property_id = os.getenv("GA4_PROPERTY_ID")
-    credentials_path = os.path.join(BASE_DIR, "service-account.json")
     cache_path = os.path.join(BASE_DIR, "assets", "menu_test_data.json")
     
     # Try fetching from GA4
-    if HAS_GA_CLIENT and property_id and os.path.exists(credentials_path):
-        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
-        print(f"Connecting to GA4 Property ID: {property_id}...")
-        try:
-            client = BetaAnalyticsDataClient()
-            request = RunReportRequest(
-                property=f"properties/{property_id}",
-                dimensions=[
-                    Dimension(name="pagePath"),
-                    Dimension(name="customEvent:click_text"),
-                    Dimension(name="customEvent:click_url"),
-                ],
-                metrics=[Metric(name="eventCount")],
-                date_ranges=[DateRange(start_date="2026-06-05", end_date="today")],
-                dimension_filter=FilterExpression(
-                    filter=Filter(
-                        field_name="eventName",
-                        string_filter=Filter.StringFilter(value="menu_link_click")
-                    )
-                ),
-                limit=1000
-            )
-            response = client.run_report(request)
-            data = []
-            for row in response.rows:
-                data.append({
-                    "pagePath": row.dimension_values[0].value,
-                    "click_text": row.dimension_values[1].value,
-                    "click_url": row.dimension_values[2].value,
-                    "count": int(row.metric_values[0].value)
-                })
-            print(f"Successfully fetched {len(data)} records from GA4.")
-            
-            # Save cache/cache file
-            os.makedirs(os.path.dirname(cache_path), exist_ok=True)
-            with open(cache_path, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"Saved local cache to {cache_path}.")
-            return data
-        except Exception as e:
-            print(f"GA4 fetch failed: {e}. Falling back to menu_test_data.json.")
+    if HAS_GA_CLIENT and property_id:
+        from google.oauth2 import service_account
+        
+        credentials = None
+        service_account_json = os.getenv("GA4_SERVICE_ACCOUNT_JSON")
+        
+        if service_account_json:
+            try:
+                info = json.loads(service_account_json)
+                credentials = service_account.Credentials.from_service_account_info(info)
+                print("Using service account credentials from environment variable.")
+            except Exception as e:
+                print(f"Failed to load credentials from environment variable: {e}")
+                
+        if not credentials:
+            credentials_path = os.path.join(BASE_DIR, "service-account.json")
+            if os.path.exists(credentials_path):
+                try:
+                    credentials = service_account.Credentials.from_service_account_file(credentials_path)
+                    print("Using service account credentials from local service-account.json file.")
+                except Exception as e:
+                    print(f"Failed to load credentials from file: {e}")
+                    
+        if credentials:
+            print(f"Connecting to GA4 Property ID: {property_id}...")
+            try:
+                client = BetaAnalyticsDataClient(credentials=credentials)
+                request = RunReportRequest(
+                    property=f"properties/{property_id}",
+                    dimensions=[
+                        Dimension(name="pagePath"),
+                        Dimension(name="customEvent:click_text"),
+                        Dimension(name="customEvent:click_url"),
+                    ],
+                    metrics=[Metric(name="eventCount")],
+                    date_ranges=[DateRange(start_date="2026-06-05", end_date="today")],
+                    dimension_filter=FilterExpression(
+                        filter=Filter(
+                            field_name="eventName",
+                            string_filter=Filter.StringFilter(value="menu_link_click")
+                        )
+                    ),
+                    limit=1000
+                )
+                response = client.run_report(request)
+                data = []
+                for row in response.rows:
+                    data.append({
+                        "pagePath": row.dimension_values[0].value,
+                        "click_text": row.dimension_values[1].value,
+                        "click_url": row.dimension_values[2].value,
+                        "count": int(row.metric_values[0].value)
+                    })
+                print(f"Successfully fetched {len(data)} records from GA4.")
+                
+                # Save cache/cache file
+                os.makedirs(os.path.dirname(cache_path), exist_ok=True)
+                with open(cache_path, "w", encoding="utf-8") as f:
+                    json.dump(data, f, indent=2, ensure_ascii=False)
+                print(f"Saved local cache to {cache_path}.")
+                return data
+            except Exception as e:
+                print(f"GA4 fetch failed: {e}. Falling back to menu_test_data.json.")
     else:
-        print("GA4 property or service account credentials not configured or missing library. Falling back to menu_test_data.json.")
+        print("GA4 property or credentials not configured or missing library. Falling back to menu_test_data.json.")
         
     # Fallback to menu_test_data.json
     if os.path.exists(cache_path):

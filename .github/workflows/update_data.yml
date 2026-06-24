@@ -38,23 +38,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install beautifulsoup4 google-analytics-data python-dotenv
 
-      - name: Create Secrets Files
-        run: |
-          echo '${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}' > service-account.json
-          echo "GA4_PROPERTY_ID=${{ secrets.GA4_PROPERTY_ID }}" > .env
-
       - name: Run Dashboard Generation
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
         run: |
           python generate_dashboard.py
 
       - name: Run Menu Dashboard Generation
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
         run: |
           python generate_menu_dashboard.py
-
-      - name: Clean Secret Files
-        run: |
-          rm -f service-account.json
-          rm -f .env
 
       - name: Commit and Push Changes
         run: |
