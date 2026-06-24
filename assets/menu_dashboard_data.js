@@ -1,17 +1,17 @@
 window.menuDashboardData = {
   "siteStats": {
-    "totalClicks": 11554,
+    "totalClicks": 11635,
     "levelCounts": {
-      "Level 1": 8574,
-      "Level 2": 2398,
+      "Level 1": 8640,
+      "Level 2": 2411,
       "Level 3": 3,
-      "Special": 579
+      "Special": 581
     },
     "templateCounts": {
-      "old": 11017,
-      "new": 537
+      "old": 11093,
+      "new": 542
     },
-    "totalPages": 83,
+    "totalPages": 84,
     "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 74%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n全站訪客最熱衷於查看「行業方案」與「產品介紹」，代表新進站流量主要以尋找系統性的「行業解答」為主。建議在主頁面 Banner 及首屏顯眼處增加按行業導覽的區塊，幫助使用者直接分流至 Cosmos (流通)、Workflow (製造) 或 SmartERP (中小企業)。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 20.5 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n",
     "updateTime": "2026-06-24"
   },
@@ -21,7 +21,7 @@ window.menuDashboardData = {
       "rawText": "level1-方案-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 907,
+      "clicks": 922,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/#"
@@ -31,7 +31,7 @@ window.menuDashboardData = {
       "rawText": "level1-行業-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 550,
+      "clicks": 553,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "javascript:;"
@@ -41,7 +41,7 @@ window.menuDashboardData = {
       "rawText": "level1-關於-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 438,
+      "clicks": 441,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/aboutdsc"
@@ -51,7 +51,7 @@ window.menuDashboardData = {
       "rawText": "level1-聯繫我們-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 412,
+      "clicks": 420,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "javascript:;"
@@ -61,7 +61,7 @@ window.menuDashboardData = {
       "rawText": "level1-案例-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 369,
+      "clicks": 370,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/case"
@@ -71,7 +71,7 @@ window.menuDashboardData = {
       "rawText": "level1-服務-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 356,
+      "clicks": 357,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "javascript:;"
@@ -91,7 +91,7 @@ window.menuDashboardData = {
       "rawText": "level2-AI 解決方案-old",
       "level": "Level 2",
       "template": "old",
-      "clicks": 276,
+      "clicks": 278,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/#"
@@ -111,7 +111,7 @@ window.menuDashboardData = {
       "rawText": "level2-產品與軟體-old",
       "level": "Level 2",
       "template": "old",
-      "clicks": 240,
+      "clicks": 243,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/#"
@@ -131,7 +131,7 @@ window.menuDashboardData = {
       "rawText": "level1-方案-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 188,
+      "clicks": 191,
       "pagePath": "/software/WF/WF",
       "pageName": "Workflow ERP 製造業 (workflow.html)",
       "url": "https://www.digiwin.com.tw/software/CM/CM"
@@ -141,7 +141,7 @@ window.menuDashboardData = {
       "rawText": "level2-智能+應用-old",
       "level": "Level 2",
       "template": "old",
-      "clicks": 149,
+      "clicks": 150,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/#"
@@ -151,7 +151,7 @@ window.menuDashboardData = {
       "rawText": "level1-案例-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 139,
+      "clicks": 143,
       "pagePath": "/case",
       "pageName": "/case",
       "url": "https://www.digiwin.com.tw/case"
@@ -187,6 +187,16 @@ window.menuDashboardData = {
       "url": "https://www.digiwin.com.tw/#"
     },
     {
+      "label": "行業",
+      "rawText": "level1-行業-old",
+      "level": "Level 1",
+      "template": "old",
+      "clicks": 113,
+      "pagePath": "/case",
+      "pageName": "/case",
+      "url": "javascript:;"
+    },
+    {
       "label": "服務",
       "rawText": "level1-服務-old",
       "level": "Level 1",
@@ -201,7 +211,7 @@ window.menuDashboardData = {
       "rawText": "level2-應用領域-old",
       "level": "Level 2",
       "template": "old",
-      "clicks": 109,
+      "clicks": 110,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/#"
@@ -211,20 +221,10 @@ window.menuDashboardData = {
       "rawText": "level2-雲平台/雲應用-old",
       "level": "Level 2",
       "template": "old",
-      "clicks": 109,
+      "clicks": 110,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/#"
-    },
-    {
-      "label": "行業",
-      "rawText": "level1-行業-old",
-      "level": "Level 1",
-      "template": "old",
-      "clicks": 108,
-      "pagePath": "/case",
-      "pageName": "/case",
-      "url": "javascript:;"
     },
     {
       "label": "方案",
@@ -241,7 +241,7 @@ window.menuDashboardData = {
       "rawText": "level1-方案-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 103,
+      "clicks": 105,
       "pagePath": "/dsc/solution/WB002839/AISM",
       "pageName": "SmartERP 中小企業 (smarterp.html)",
       "url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM"
@@ -257,6 +257,16 @@ window.menuDashboardData = {
       "url": "javascript:;"
     },
     {
+      "label": "方案",
+      "rawText": "level1-方案-old",
+      "level": "Level 1",
+      "template": "old",
+      "clicks": 97,
+      "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+      "pageName": "/dsc/project/ServiceCloud/ServiceCloud",
+      "url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#"
+    },
+    {
       "label": "智働家族",
       "rawText": "level2-智働家族-old",
       "level": "Level 2",
@@ -267,21 +277,11 @@ window.menuDashboardData = {
       "url": "https://www.digiwin.com.tw/#"
     },
     {
-      "label": "方案",
-      "rawText": "level1-方案-old",
-      "level": "Level 1",
-      "template": "old",
-      "clicks": 96,
-      "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-      "pageName": "/dsc/project/ServiceCloud/ServiceCloud",
-      "url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#"
-    },
-    {
       "label": "了解智能+全方案",
       "rawText": "level2-了解智能+全方案-old",
       "level": "Level 2",
       "template": "old",
-      "clicks": 92,
+      "clicks": 93,
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "https://www.digiwin.com.tw/#"
@@ -291,10 +291,20 @@ window.menuDashboardData = {
       "rawText": "level1-行業-old",
       "level": "Level 1",
       "template": "old",
-      "clicks": 86,
+      "clicks": 87,
       "pagePath": "/software/WF/WF",
       "pageName": "Workflow ERP 製造業 (workflow.html)",
-      "url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301"
+      "url": "javascript:;"
+    },
+    {
+      "label": "方案",
+      "rawText": "level1-方案-old",
+      "level": "Level 1",
+      "template": "old",
+      "clicks": 82,
+      "pagePath": "/contact/eform",
+      "pageName": "/contact/eform",
+      "url": "https://www.digiwin.com.tw/contact/eform#"
     },
     {
       "label": "流通業",
@@ -305,31 +315,21 @@ window.menuDashboardData = {
       "pagePath": "/",
       "pageName": "首頁 (home.html)",
       "url": "javascript:;"
-    },
-    {
-      "label": "方案",
-      "rawText": "level1-方案-old",
-      "level": "Level 1",
-      "template": "old",
-      "clicks": 81,
-      "pagePath": "/contact/eform",
-      "pageName": "/contact/eform",
-      "url": "https://www.digiwin.com.tw/contact/eform#"
     }
   ],
   "pages": [
     {
       "path": "/",
       "pageName": "首頁 (home.html)",
-      "totalClicks": 5403,
+      "totalClicks": 5443,
       "levelCounts": {
-        "Level 1": 3571,
-        "Level 2": 1492,
+        "Level 1": 3602,
+        "Level 2": 1501,
         "Level 3": 3,
         "Special": 337
       },
       "templateCounts": {
-        "old": 5403,
+        "old": 5443,
         "new": 0
       },
       "items": [
@@ -339,7 +339,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/#",
           "level": "Level 1",
           "template": "old",
-          "clicks": 907,
+          "clicks": 922,
           "isSpecial": false
         },
         {
@@ -348,7 +348,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 550,
+          "clicks": 553,
           "isSpecial": false
         },
         {
@@ -357,7 +357,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/aboutdsc",
           "level": "Level 1",
           "template": "old",
-          "clicks": 438,
+          "clicks": 441,
           "isSpecial": false
         },
         {
@@ -366,7 +366,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 412,
+          "clicks": 420,
           "isSpecial": false
         },
         {
@@ -375,7 +375,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/case",
           "level": "Level 1",
           "template": "old",
-          "clicks": 369,
+          "clicks": 370,
           "isSpecial": false
         },
         {
@@ -384,7 +384,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 356,
+          "clicks": 357,
           "isSpecial": false
         },
         {
@@ -402,7 +402,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/#",
           "level": "Level 2",
           "template": "old",
-          "clicks": 276,
+          "clicks": 278,
           "isSpecial": false
         },
         {
@@ -420,7 +420,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/#",
           "level": "Level 2",
           "template": "old",
-          "clicks": 240,
+          "clicks": 243,
           "isSpecial": false
         },
         {
@@ -438,7 +438,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/#",
           "level": "Level 2",
           "template": "old",
-          "clicks": 149,
+          "clicks": 150,
           "isSpecial": false
         },
         {
@@ -465,7 +465,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/#",
           "level": "Level 2",
           "template": "old",
-          "clicks": 109,
+          "clicks": 110,
           "isSpecial": false
         },
         {
@@ -474,7 +474,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/#",
           "level": "Level 2",
           "template": "old",
-          "clicks": 109,
+          "clicks": 110,
           "isSpecial": false
         },
         {
@@ -492,7 +492,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/#",
           "level": "Level 2",
           "template": "old",
-          "clicks": 92,
+          "clicks": 93,
           "isSpecial": false
         },
         {
@@ -586,20 +586,20 @@ window.menuDashboardData = {
           "isSpecial": true
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 66%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n全站訪客最熱衷於查看「行業方案」與「產品介紹」，代表新進站流量主要以尋找系統性的「行業解答」為主。建議在主頁面 Banner 及首屏顯眼處增加按行業導覽的區塊，幫助使用者直接分流至 Cosmos (流通)、Workflow (製造) 或 SmartERP (中小企業)。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 54030.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 66%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n全站訪客最熱衷於查看「行業方案」與「產品介紹」，代表新進站流量主要以尋找系統性的「行業解答」為主。建議在主頁面 Banner 及首屏顯眼處增加按行業導覽的區塊，幫助使用者直接分流至 Cosmos (流通)、Workflow (製造) 或 SmartERP (中小企業)。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 54430.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/case",
       "pageName": "/case",
-      "totalClicks": 823,
+      "totalClicks": 832,
       "levelCounts": {
-        "Level 1": 605,
+        "Level 1": 614,
         "Level 2": 190,
         "Level 3": 0,
         "Special": 28
       },
       "templateCounts": {
-        "old": 823,
+        "old": 832,
         "new": 0
       },
       "items": [
@@ -609,7 +609,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/case",
           "level": "Level 1",
           "template": "old",
-          "clicks": 139,
+          "clicks": 143,
           "isSpecial": false
         },
         {
@@ -618,7 +618,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 108,
+          "clicks": 113,
           "isSpecial": false
         },
         {
@@ -820,20 +820,20 @@ window.menuDashboardData = {
           "isSpecial": true
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 74%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /case 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 8230.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 74%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /case 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 8320.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/dsc/project/ServiceCloud/ServiceCloud",
       "pageName": "/dsc/project/ServiceCloud/ServiceCloud",
-      "totalClicks": 654,
+      "totalClicks": 657,
       "levelCounts": {
-        "Level 1": 543,
+        "Level 1": 546,
         "Level 2": 92,
         "Level 3": 0,
         "Special": 19
       },
       "templateCounts": {
-        "old": 654,
+        "old": 657,
         "new": 0
       },
       "items": [
@@ -852,7 +852,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
           "level": "Level 1",
           "template": "old",
-          "clicks": 96,
+          "clicks": 97,
           "isSpecial": false
         },
         {
@@ -861,7 +861,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 71,
+          "clicks": 72,
           "isSpecial": false
         },
         {
@@ -906,7 +906,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 42,
+          "clicks": 43,
           "isSpecial": false
         },
         {
@@ -1018,20 +1018,20 @@ window.menuDashboardData = {
           "isSpecial": false
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 83%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/project/ServiceCloud/ServiceCloud 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 6540.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 83%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/project/ServiceCloud/ServiceCloud 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 6570.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/software/WF/WF",
       "pageName": "Workflow ERP 製造業 (workflow.html)",
-      "totalClicks": 609,
+      "totalClicks": 624,
       "levelCounts": {
-        "Level 1": 461,
+        "Level 1": 476,
         "Level 2": 124,
         "Level 3": 0,
         "Special": 24
       },
       "templateCounts": {
-        "old": 609,
+        "old": 624,
         "new": 0
       },
       "items": [
@@ -1041,16 +1041,16 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/software/CM/CM",
           "level": "Level 1",
           "template": "old",
-          "clicks": 188,
+          "clicks": 191,
           "isSpecial": false
         },
         {
           "rawText": "level1-行業-old",
           "label": "行業",
-          "url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
+          "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 86,
+          "clicks": 87,
           "isSpecial": false
         },
         {
@@ -1059,7 +1059,16 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/case",
           "level": "Level 1",
           "template": "old",
-          "clicks": 52,
+          "clicks": 56,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-服務-old",
+          "label": "服務",
+          "url": "javascript:;",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 38,
           "isSpecial": false
         },
         {
@@ -1081,21 +1090,12 @@ window.menuDashboardData = {
           "isSpecial": false
         },
         {
-          "rawText": "level1-服務-old",
-          "label": "服務",
+          "rawText": "level1-活動-old",
+          "label": "活動",
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 36,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-活動-old",
-          "label": "活動",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 29,
+          "clicks": 33,
           "isSpecial": false
         },
         {
@@ -1104,7 +1104,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 25,
+          "clicks": 26,
           "isSpecial": false
         },
         {
@@ -1189,20 +1189,20 @@ window.menuDashboardData = {
           "isSpecial": false
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 76%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n本頁面訪客高度關注「產品優勢」與「製造業 Workflow ERP」細項，顯示訪客均為目標明確的製造業相關人員，對「生產管理與排程控制」的實際功能著眼較深。建議主動推薦「智慧製造案例手冊」或「MES 廠內智能物流解方」來引導轉換。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 6090.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 76%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n本頁面訪客高度關注「產品優勢」與「製造業 Workflow ERP」細項，顯示訪客均為目標明確的製造業相關人員，對「生產管理與排程控制」的實際功能著眼較深。建議主動推薦「智慧製造案例手冊」或「MES 廠內智能物流解方」來引導轉換。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 6240.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/contact/eform",
       "pageName": "/contact/eform",
-      "totalClicks": 445,
+      "totalClicks": 447,
       "levelCounts": {
-        "Level 1": 372,
+        "Level 1": 374,
         "Level 2": 64,
         "Level 3": 0,
         "Special": 9
       },
       "templateCounts": {
-        "old": 445,
+        "old": 447,
         "new": 0
       },
       "items": [
@@ -1221,7 +1221,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/contact/eform#",
           "level": "Level 1",
           "template": "old",
-          "clicks": 81,
+          "clicks": 82,
           "isSpecial": false
         },
         {
@@ -1230,7 +1230,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 42,
+          "clicks": 43,
           "isSpecial": false
         },
         {
@@ -1378,20 +1378,20 @@ window.menuDashboardData = {
           "isSpecial": true
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 84%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /contact/eform 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 4450.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 84%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /contact/eform 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 4470.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/dsc/solution/WB002839/AISM",
       "pageName": "SmartERP 中小企業 (smarterp.html)",
-      "totalClicks": 430,
+      "totalClicks": 436,
       "levelCounts": {
-        "Level 1": 327,
+        "Level 1": 333,
         "Level 2": 89,
         "Level 3": 0,
         "Special": 14
       },
       "templateCounts": {
-        "old": 430,
+        "old": 436,
         "new": 0
       },
       "items": [
@@ -1401,7 +1401,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
           "level": "Level 1",
           "template": "old",
-          "clicks": 103,
+          "clicks": 105,
           "isSpecial": false
         },
         {
@@ -1410,7 +1410,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 59,
+          "clicks": 61,
           "isSpecial": false
         },
         {
@@ -1419,7 +1419,7 @@ window.menuDashboardData = {
           "url": "javascript:;",
           "level": "Level 1",
           "template": "old",
-          "clicks": 38,
+          "clicks": 39,
           "isSpecial": false
         },
         {
@@ -1428,7 +1428,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/case",
           "level": "Level 1",
           "template": "old",
-          "clicks": 32,
+          "clicks": 33,
           "isSpecial": false
         },
         {
@@ -1576,7 +1576,7 @@ window.menuDashboardData = {
           "isSpecial": false
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 76%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n中小企業訪客強烈關注「應用場景」及「是否適合中小企業」，這表示訪客特別注重「導入時間成本」與「是否有同行成功案例」。建議在選單中為其提供一鍵抵達的「30天中小企業快速導入方案」說明頁。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 4300.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 76%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n中小企業訪客強烈關注「應用場景」及「是否適合中小企業」，這表示訪客特別注重「導入時間成本」與「是否有同行成功案例」。建議在選單中為其提供一鍵抵達的「30天中小企業快速導入方案」說明頁。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 4360.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/aboutdsc",
@@ -1680,15 +1680,15 @@ window.menuDashboardData = {
     {
       "path": "/dsc/project/ai-solution/private-ai",
       "pageName": "/dsc/project/ai-solution/private-ai",
-      "totalClicks": 232,
+      "totalClicks": 238,
       "levelCounts": {
-        "Level 1": 172,
-        "Level 2": 50,
+        "Level 1": 174,
+        "Level 2": 54,
         "Level 3": 0,
         "Special": 10
       },
       "templateCounts": {
-        "old": 232,
+        "old": 238,
         "new": 0
       },
       "items": [
@@ -1698,7 +1698,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai?campaign=20GS-%E4%BC%81%E6%A5%ADAI%E5%",
           "level": "Level 1",
           "template": "old",
-          "clicks": 44,
+          "clicks": 46,
           "isSpecial": false
         },
         {
@@ -1711,21 +1711,21 @@ window.menuDashboardData = {
           "isSpecial": false
         },
         {
+          "rawText": "level2-AI 解決方案-old",
+          "label": "AI 解決方案",
+          "url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
+          "level": "Level 2",
+          "template": "old",
+          "clicks": 35,
+          "isSpecial": false
+        },
+        {
           "rawText": "level1-行業-old",
           "label": "行業",
           "url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai?campaign=20GS-%E4%BC%81%E6%A5%ADAI%E5%",
           "level": "Level 1",
           "template": "old",
           "clicks": 32,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level2-AI 解決方案-old",
-          "label": "AI 解決方案",
-          "url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
-          "level": "Level 2",
-          "template": "old",
-          "clicks": 31,
           "isSpecial": false
         },
         {
@@ -1846,7 +1846,7 @@ window.menuDashboardData = {
           "isSpecial": false
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 74%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/project/ai-solution/private-ai 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 2320.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 73%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/project/ai-solution/private-ai 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 2380.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/software/CM/CM",
@@ -1995,15 +1995,15 @@ window.menuDashboardData = {
     {
       "path": "/dsc/solution/WB002741/index",
       "pageName": "/dsc/solution/WB002741/index",
-      "totalClicks": 192,
+      "totalClicks": 193,
       "levelCounts": {
-        "Level 1": 149,
+        "Level 1": 150,
         "Level 2": 37,
         "Level 3": 0,
         "Special": 6
       },
       "templateCounts": {
-        "old": 192,
+        "old": 193,
         "new": 0
       },
       "items": [
@@ -2049,7 +2049,7 @@ window.menuDashboardData = {
           "url": "(無目標網址)",
           "level": "Level 1",
           "template": "old",
-          "clicks": 13,
+          "clicks": 14,
           "isSpecial": false
         },
         {
@@ -2161,20 +2161,20 @@ window.menuDashboardData = {
           "isSpecial": false
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 78%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002741/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 1920.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 78%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002741/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 1930.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/dsc/solution/WB002783/WB00278301",
       "pageName": "/dsc/solution/WB002783/WB00278301",
-      "totalClicks": 178,
+      "totalClicks": 179,
       "levelCounts": {
-        "Level 1": 160,
+        "Level 1": 161,
         "Level 2": 15,
         "Level 3": 0,
         "Special": 3
       },
       "templateCounts": {
-        "old": 178,
+        "old": 179,
         "new": 0
       },
       "items": [
@@ -2202,7 +2202,7 @@ window.menuDashboardData = {
           "url": "(無目標網址)",
           "level": "Level 1",
           "template": "old",
-          "clicks": 24,
+          "clicks": 25,
           "isSpecial": false
         },
         {
@@ -2287,7 +2287,7 @@ window.menuDashboardData = {
           "isSpecial": true
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 90%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002783/WB00278301 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 1780.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 90%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002783/WB00278301 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 1790.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/servicepoint",
@@ -2697,34 +2697,34 @@ window.menuDashboardData = {
     {
       "path": "/dsc/solution/WB002899/WB00289901",
       "pageName": "/dsc/solution/WB002899/WB00289901",
-      "totalClicks": 127,
+      "totalClicks": 107,
       "levelCounts": {
-        "Level 1": 118,
+        "Level 1": 98,
         "Level 2": 9,
         "Level 3": 0,
         "Special": 0
       },
       "templateCounts": {
-        "old": 127,
+        "old": 107,
         "new": 0
       },
       "items": [
         {
           "rawText": "level1-方案-old",
           "label": "方案",
-          "url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
+          "url": "(無目標網址)",
           "level": "Level 1",
           "template": "old",
-          "clicks": 25,
+          "clicks": 23,
           "isSpecial": false
         },
         {
           "rawText": "level1-行業-old",
           "label": "行業",
-          "url": "javascript:;",
+          "url": "(無目標網址)",
           "level": "Level 1",
           "template": "old",
-          "clicks": 25,
+          "clicks": 22,
           "isSpecial": false
         },
         {
@@ -2733,7 +2733,7 @@ window.menuDashboardData = {
           "url": "https://www.digiwin.com.tw/case",
           "level": "Level 1",
           "template": "old",
-          "clicks": 20,
+          "clicks": 17,
           "isSpecial": false
         },
         {
@@ -2751,16 +2751,7 @@ window.menuDashboardData = {
           "url": "(無目標網址)",
           "level": "Level 1",
           "template": "old",
-          "clicks": 11,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-聯繫我們-old",
-          "label": "聯繫我們",
-          "url": "https://www.digiwin.com.tw/contact/eform",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 11,
+          "clicks": 8,
           "isSpecial": false
         },
         {
@@ -2769,7 +2760,16 @@ window.menuDashboardData = {
           "url": "(無目標網址)",
           "level": "Level 1",
           "template": "old",
-          "clicks": 8,
+          "clicks": 5,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-聯繫我們-old",
+          "label": "聯繫我們",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 5,
           "isSpecial": false
         },
         {
@@ -2800,20 +2800,137 @@ window.menuDashboardData = {
           "isSpecial": false
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 93%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002899/WB00289901 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 1270.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 92%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002899/WB00289901 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 1070.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+    },
+    {
+      "path": "/course",
+      "pageName": "/course",
+      "totalClicks": 97,
+      "levelCounts": {
+        "Level 1": 88,
+        "Level 2": 3,
+        "Level 3": 0,
+        "Special": 6
+      },
+      "templateCounts": {
+        "old": 97,
+        "new": 0
+      },
+      "items": [
+        {
+          "rawText": "level1-活動-old",
+          "label": "活動",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 20,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-服務-old",
+          "label": "服務",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 14,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-知識-old",
+          "label": "知識",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 13,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-行業-old",
+          "label": "行業",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 12,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-關於-old",
+          "label": "關於",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 10,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-方案-old",
+          "label": "方案",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 9,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-案例-old",
+          "label": "案例",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 6,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-聯繫我們-old",
+          "label": "聯繫我們",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 4,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level2-產品與軟體-old",
+          "label": "產品與軟體",
+          "url": "javascript:;",
+          "level": "Level 2",
+          "template": "old",
+          "clicks": 3,
+          "isSpecial": false
+        },
+        {
+          "rawText": "search-btn-old",
+          "label": "search-btn",
+          "url": "(無目標網址)",
+          "level": "Special",
+          "template": "old",
+          "clicks": 3,
+          "isSpecial": true
+        },
+        {
+          "rawText": "search-submit-old",
+          "label": "search-submit",
+          "url": "(無目標網址)",
+          "level": "Special",
+          "template": "old",
+          "clicks": 3,
+          "isSpecial": true
+        }
+      ],
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 91%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /course 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 970.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/search",
       "pageName": "/search",
-      "totalClicks": 88,
+      "totalClicks": 90,
       "levelCounts": {
         "Level 1": 77,
         "Level 2": 0,
         "Level 3": 0,
-        "Special": 11
+        "Special": 13
       },
       "templateCounts": {
-        "old": 88,
+        "old": 90,
         "new": 0
       },
       "items": [
@@ -2872,6 +2989,15 @@ window.menuDashboardData = {
           "isSpecial": false
         },
         {
+          "rawText": "search-btn-old",
+          "label": "search-btn",
+          "url": "(無目標網址)",
+          "level": "Special",
+          "template": "old",
+          "clicks": 7,
+          "isSpecial": true
+        },
+        {
           "rawText": "level1-行業-old",
           "label": "行業",
           "url": "(無目標網址)",
@@ -2881,8 +3007,8 @@ window.menuDashboardData = {
           "isSpecial": false
         },
         {
-          "rawText": "search-btn-old",
-          "label": "search-btn",
+          "rawText": "search-submit-old",
+          "label": "search-submit",
           "url": "(無目標網址)",
           "level": "Special",
           "template": "old",
@@ -2897,126 +3023,9 @@ window.menuDashboardData = {
           "template": "old",
           "clicks": 5,
           "isSpecial": false
-        },
-        {
-          "rawText": "search-submit-old",
-          "label": "search-submit",
-          "url": "(無目標網址)",
-          "level": "Special",
-          "template": "old",
-          "clicks": 5,
-          "isSpecial": true
         }
       ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 88%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /search 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 880.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
-    },
-    {
-      "path": "/course",
-      "pageName": "/course",
-      "totalClicks": 85,
-      "levelCounts": {
-        "Level 1": 79,
-        "Level 2": 0,
-        "Level 3": 0,
-        "Special": 6
-      },
-      "templateCounts": {
-        "old": 85,
-        "new": 0
-      },
-      "items": [
-        {
-          "rawText": "level1-活動-old",
-          "label": "活動",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 20,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-知識-old",
-          "label": "知識",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 13,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-服務-old",
-          "label": "服務",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 11,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-關於-old",
-          "label": "關於",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 10,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-行業-old",
-          "label": "行業",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 9,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-方案-old",
-          "label": "方案",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 6,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-案例-old",
-          "label": "案例",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 6,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-聯繫我們-old",
-          "label": "聯繫我們",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 4,
-          "isSpecial": false
-        },
-        {
-          "rawText": "search-btn-old",
-          "label": "search-btn",
-          "url": "(無目標網址)",
-          "level": "Special",
-          "template": "old",
-          "clicks": 3,
-          "isSpecial": true
-        },
-        {
-          "rawText": "search-submit-old",
-          "label": "search-submit",
-          "url": "(無目標網址)",
-          "level": "Special",
-          "template": "old",
-          "clicks": 3,
-          "isSpecial": true
-        }
-      ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 93%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /course 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 850.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 86%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /search 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 900.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/dsc/project/ESG/index",
@@ -3136,6 +3145,105 @@ window.menuDashboardData = {
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 85%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/project/ESG/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 660.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
+      "path": "/dsc/solution/WB002553/WB00255301",
+      "pageName": "/dsc/solution/WB002553/WB00255301",
+      "totalClicks": 63,
+      "levelCounts": {
+        "Level 1": 55,
+        "Level 2": 8,
+        "Level 3": 0,
+        "Special": 0
+      },
+      "templateCounts": {
+        "old": 63,
+        "new": 0
+      },
+      "items": [
+        {
+          "rawText": "level1-行業-old",
+          "label": "行業",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 13,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-案例-old",
+          "label": "案例",
+          "url": "https://www.digiwin.com.tw/case",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 12,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-方案-old",
+          "label": "方案",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 11,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-服務-old",
+          "label": "服務",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 7,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-知識-old",
+          "label": "知識",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 5,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level2-流通業-old",
+          "label": "流通業",
+          "url": "(無目標網址)",
+          "level": "Level 2",
+          "template": "old",
+          "clicks": 5,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-關於-old",
+          "label": "關於",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 4,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-活動-old",
+          "label": "活動",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 3,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level2-AI 解決方案-old",
+          "label": "AI 解決方案",
+          "url": "(無目標網址)",
+          "level": "Level 2",
+          "template": "old",
+          "clicks": 3,
+          "isSpecial": false
+        }
+      ],
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 87%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002553/WB00255301 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 630.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+    },
+    {
       "path": "/dsc/solution/WB002839/barcode",
       "pageName": "/dsc/solution/WB002839/barcode",
       "totalClicks": 62,
@@ -3226,105 +3334,6 @@ window.menuDashboardData = {
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 95%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002839/barcode 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 620.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
-      "path": "/dsc/solution/WB002553/WB00255301",
-      "pageName": "/dsc/solution/WB002553/WB00255301",
-      "totalClicks": 60,
-      "levelCounts": {
-        "Level 1": 52,
-        "Level 2": 8,
-        "Level 3": 0,
-        "Special": 0
-      },
-      "templateCounts": {
-        "old": 60,
-        "new": 0
-      },
-      "items": [
-        {
-          "rawText": "level1-行業-old",
-          "label": "行業",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 13,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-方案-old",
-          "label": "方案",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 11,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-案例-old",
-          "label": "案例",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 9,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-服務-old",
-          "label": "服務",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 7,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-知識-old",
-          "label": "知識",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 5,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level2-流通業-old",
-          "label": "流通業",
-          "url": "(無目標網址)",
-          "level": "Level 2",
-          "template": "old",
-          "clicks": 5,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-關於-old",
-          "label": "關於",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 4,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-活動-old",
-          "label": "活動",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 3,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level2-AI 解決方案-old",
-          "label": "AI 解決方案",
-          "url": "(無目標網址)",
-          "level": "Level 2",
-          "template": "old",
-          "clicks": 3,
-          "isSpecial": false
-        }
-      ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 87%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002553/WB00255301 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 600.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
-    },
-    {
       "path": "/blog/index",
       "pageName": "/blog/index",
       "totalClicks": 57,
@@ -3408,16 +3417,16 @@ window.menuDashboardData = {
     {
       "path": "/service",
       "pageName": "/service",
-      "totalClicks": 56,
+      "totalClicks": 57,
       "levelCounts": {
-        "Level 1": 51,
+        "Level 1": 52,
         "Level 2": 0,
         "Level 3": 0,
         "Special": 5
       },
       "templateCounts": {
         "old": 0,
-        "new": 56
+        "new": 57
       },
       "items": [
         {
@@ -3435,7 +3444,7 @@ window.menuDashboardData = {
           "url": "(無目標網址)",
           "level": "Level 1",
           "template": "new",
-          "clicks": 10,
+          "clicks": 11,
           "isSpecial": false
         },
         {
@@ -4018,6 +4027,69 @@ window.menuDashboardData = {
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**優良：選單層級分佈均衡（L1: 22%, L2: 67%, L3: 0%, 特殊: 11%）**。訪客點擊均勻分佈在各大主要層級，代表導覽命名精確且層級深度符合行為預期。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/project/WB002940/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 360.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
+      "path": "/dsc/industry4/smartFactory",
+      "pageName": "/dsc/industry4/smartFactory",
+      "totalClicks": 33,
+      "levelCounts": {
+        "Level 1": 33,
+        "Level 2": 0,
+        "Level 3": 0,
+        "Special": 0
+      },
+      "templateCounts": {
+        "old": 0,
+        "new": 33
+      },
+      "items": [
+        {
+          "rawText": "level1-方案-new",
+          "label": "方案",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "new",
+          "clicks": 11,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-行業-new",
+          "label": "行業",
+          "url": "https://www.digiwin.com.tw/dsc/industry4/smartFactory#",
+          "level": "Level 1",
+          "template": "new",
+          "clicks": 10,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-服務-new",
+          "label": "服務",
+          "url": "https://www.digiwin.com.tw/dsc/industry4/smartFactory#contact",
+          "level": "Level 1",
+          "template": "new",
+          "clicks": 6,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-案例-new",
+          "label": "案例",
+          "url": "https://www.digiwin.com.tw/dsc/industry4/smartFactory#contact",
+          "level": "Level 1",
+          "template": "new",
+          "clicks": 3,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-活動與學習-new",
+          "label": "活動與學習",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "new",
+          "clicks": 3,
+          "isSpecial": false
+        }
+      ],
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/industry4/smartFactory 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **推進新模板全面上線**：新版選單模板點擊狀況優良，對使用者引導效果顯著。建議將其他尚在使用 Old 樣式的舊頁面全面更新為新模板配置。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+    },
+    {
       "path": "/activity",
       "pageName": "/activity",
       "totalClicks": 32,
@@ -4106,69 +4178,6 @@ window.menuDashboardData = {
         }
       ],
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /software/710.html 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 300.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
-    },
-    {
-      "path": "/dsc/industry4/smartFactory",
-      "pageName": "/dsc/industry4/smartFactory",
-      "totalClicks": 29,
-      "levelCounts": {
-        "Level 1": 29,
-        "Level 2": 0,
-        "Level 3": 0,
-        "Special": 0
-      },
-      "templateCounts": {
-        "old": 0,
-        "new": 29
-      },
-      "items": [
-        {
-          "rawText": "level1-方案-new",
-          "label": "方案",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "new",
-          "clicks": 10,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-行業-new",
-          "label": "行業",
-          "url": "https://www.digiwin.com.tw/dsc/industry4/smartFactory#",
-          "level": "Level 1",
-          "template": "new",
-          "clicks": 7,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-服務-new",
-          "label": "服務",
-          "url": "https://www.digiwin.com.tw/dsc/industry4/smartFactory#contact",
-          "level": "Level 1",
-          "template": "new",
-          "clicks": 6,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-案例-new",
-          "label": "案例",
-          "url": "https://www.digiwin.com.tw/dsc/industry4/smartFactory#contact",
-          "level": "Level 1",
-          "template": "new",
-          "clicks": 3,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-活動與學習-new",
-          "label": "活動與學習",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "new",
-          "clicks": 3,
-          "isSpecial": false
-        }
-      ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/industry4/smartFactory 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **推進新模板全面上線**：新版選單模板點擊狀況優良，對使用者引導效果顯著。建議將其他尚在使用 Old 樣式的舊頁面全面更新為新模板配置。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/dsc/solution/WB002675/WB00267501_1",
@@ -4819,6 +4828,42 @@ window.menuDashboardData = {
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002741/shift 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 190.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
+      "path": "/dsc/Agent-Space/index",
+      "pageName": "/dsc/Agent-Space/index",
+      "totalClicks": 18,
+      "levelCounts": {
+        "Level 1": 14,
+        "Level 2": 4,
+        "Level 3": 0,
+        "Special": 0
+      },
+      "templateCounts": {
+        "old": 18,
+        "new": 0
+      },
+      "items": [
+        {
+          "rawText": "level1-方案-old",
+          "label": "方案",
+          "url": "https://www.digiwin.com.tw/dsc/Agent-Space/index#",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 14,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level2-AI 解決方案-old",
+          "label": "AI 解決方案",
+          "url": "(無目標網址)",
+          "level": "Level 2",
+          "template": "old",
+          "clicks": 4,
+          "isSpecial": false
+        }
+      ],
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 78%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/Agent-Space/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 180.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+    },
+    {
       "path": "/dsc/solution/WB002521/WB00252103",
       "pageName": "/dsc/solution/WB002521/WB00252103",
       "totalClicks": 17,
@@ -4853,42 +4898,6 @@ window.menuDashboardData = {
         }
       ],
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002521/WB00252103 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 170.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
-    },
-    {
-      "path": "/dsc/Agent-Space/index",
-      "pageName": "/dsc/Agent-Space/index",
-      "totalClicks": 17,
-      "levelCounts": {
-        "Level 1": 13,
-        "Level 2": 4,
-        "Level 3": 0,
-        "Special": 0
-      },
-      "templateCounts": {
-        "old": 17,
-        "new": 0
-      },
-      "items": [
-        {
-          "rawText": "level1-方案-old",
-          "label": "方案",
-          "url": "https://www.digiwin.com.tw/dsc/Agent-Space/index#",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 13,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level2-AI 解決方案-old",
-          "label": "AI 解決方案",
-          "url": "(無目標網址)",
-          "level": "Level 2",
-          "template": "old",
-          "clicks": 4,
-          "isSpecial": false
-        }
-      ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 76%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/Agent-Space/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 170.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/blog/erp/3623.html",
@@ -4999,51 +5008,6 @@ window.menuDashboardData = {
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**優良：選單層級分佈均衡（L1: 20%, L2: 80%, L3: 0%, 特殊: 0%）**。訪客點擊均勻分佈在各大主要層級，代表導覽命名精確且層級深度符合行為預期。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002675/WB00267501_3 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 150.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
-      "path": "/dsc/solution/WB002839/merchandise",
-      "pageName": "/dsc/solution/WB002839/merchandise",
-      "totalClicks": 14,
-      "levelCounts": {
-        "Level 1": 11,
-        "Level 2": 3,
-        "Level 3": 0,
-        "Special": 0
-      },
-      "templateCounts": {
-        "old": 14,
-        "new": 0
-      },
-      "items": [
-        {
-          "rawText": "level1-案例-old",
-          "label": "案例",
-          "url": "https://www.digiwin.com.tw/case",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 6,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-行業-old",
-          "label": "行業",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 5,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level2-流通業-old",
-          "label": "流通業",
-          "url": "(無目標網址)",
-          "level": "Level 2",
-          "template": "old",
-          "clicks": 3,
-          "isSpecial": false
-        }
-      ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 79%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002839/merchandise 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 140.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
-    },
-    {
       "path": "/dsc/METIS/ChatFile/index",
       "pageName": "/dsc/METIS/ChatFile/index",
       "totalClicks": 14,
@@ -5078,51 +5042,6 @@ window.menuDashboardData = {
         }
       ],
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**優良：選單層級分佈均衡（L1: 50%, L2: 50%, L3: 0%, 特殊: 0%）**。訪客點擊均勻分佈在各大主要層級，代表導覽命名精確且層級深度符合行為預期。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/METIS/ChatFile/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 140.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
-    },
-    {
-      "path": "/dsc/solution/WB002839/solution",
-      "pageName": "/dsc/solution/WB002839/solution",
-      "totalClicks": 14,
-      "levelCounts": {
-        "Level 1": 14,
-        "Level 2": 0,
-        "Level 3": 0,
-        "Special": 0
-      },
-      "templateCounts": {
-        "old": 14,
-        "new": 0
-      },
-      "items": [
-        {
-          "rawText": "level1-服務-old",
-          "label": "服務",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 6,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-方案-old",
-          "label": "方案",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 4,
-          "isSpecial": false
-        },
-        {
-          "rawText": "level1-行業-old",
-          "label": "行業",
-          "url": "(無目標網址)",
-          "level": "Level 1",
-          "template": "old",
-          "clicks": 4,
-          "isSpecial": false
-        }
-      ],
-      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002839/solution 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 140.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/blog/10/index/3337.html",
@@ -5222,6 +5141,42 @@ window.menuDashboardData = {
         }
       ],
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002839/manufacture 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 120.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+    },
+    {
+      "path": "/dsc/solution/WB002839/merchandise",
+      "pageName": "/dsc/solution/WB002839/merchandise",
+      "totalClicks": 11,
+      "levelCounts": {
+        "Level 1": 11,
+        "Level 2": 0,
+        "Level 3": 0,
+        "Special": 0
+      },
+      "templateCounts": {
+        "old": 11,
+        "new": 0
+      },
+      "items": [
+        {
+          "rawText": "level1-案例-old",
+          "label": "案例",
+          "url": "https://www.digiwin.com.tw/case",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 6,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-行業-old",
+          "label": "行業",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 5,
+          "isSpecial": false
+        }
+      ],
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002839/merchandise 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 110.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/dsc/solution/WB003006/index",
@@ -5456,6 +5411,42 @@ window.menuDashboardData = {
         }
       ],
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 62%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002741/health 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 80.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+    },
+    {
+      "path": "/dsc/solution/WB002839/solution",
+      "pageName": "/dsc/solution/WB002839/solution",
+      "totalClicks": 8,
+      "levelCounts": {
+        "Level 1": 8,
+        "Level 2": 0,
+        "Level 3": 0,
+        "Special": 0
+      },
+      "templateCounts": {
+        "old": 8,
+        "new": 0
+      },
+      "items": [
+        {
+          "rawText": "level1-方案-old",
+          "label": "方案",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 4,
+          "isSpecial": false
+        },
+        {
+          "rawText": "level1-行業-old",
+          "label": "行業",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 4,
+          "isSpecial": false
+        }
+      ],
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002839/solution 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 80.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/software/721.html",
@@ -5834,6 +5825,33 @@ window.menuDashboardData = {
         }
       ],
       "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB002741/mobile 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 40.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
+    },
+    {
+      "path": "/dsc/solution/WB003302/v2/index",
+      "pageName": "/dsc/solution/WB003302/v2/index",
+      "totalClicks": 4,
+      "levelCounts": {
+        "Level 1": 4,
+        "Level 2": 0,
+        "Level 3": 0,
+        "Special": 0
+      },
+      "templateCounts": {
+        "old": 4,
+        "new": 0
+      },
+      "items": [
+        {
+          "rawText": "level1-行業-old",
+          "label": "行業",
+          "url": "(無目標網址)",
+          "level": "Level 1",
+          "template": "old",
+          "clicks": 4,
+          "isSpecial": false
+        }
+      ],
+      "aiReport": "### 📊 選單好用度評估 (Usability Review)\n**良好：分類入口清晰，但下探意願偏低（Level 1 點擊佔比 100%）**。訪客大多點擊第一層分類，而點入第二、三層細項的次數偏少。可能原因是下拉式選單在部分瀏覽器懸停展開不夠流暢，或是子選單文字視覺對比度低、導引性差。建議微調 CSS 懸停延遲，或增加箭頭圖示導引選單展開。\n\n### 🧠 使用者意圖預測 (User Intent Prediction)\n該路徑 /dsc/solution/WB003302/v2/index 的訪客主要關注與選單文字相關的具體細分業務，應根據點擊量最高的選單項目提供對應的直達落地頁或案例展示。\n\n### 💡 建議改善方法 (Actionable Recommendations)\n- **優化選單樣式**：數據顯示**舊版選單樣式 (Old) 點擊率為新版 (New) 的 40.0 倍**。這通常是由於舊版文字對比度較高或排版更符合既有用戶習慣。建議檢查新舊選單 CSS 樣式，將新版選單（New）的背景對比與懸停動效進行微調以防流量流失。\n- **精簡無效連結**：建議將點擊率長年為 0 的 Level 3 項目進行整併或隱藏，縮短下拉選單的高度，防止選單過長造成滑鼠操作不便而移出。\n- **統一 GTM 事件命名**：建議在未來版本中將所有 GTM Event 內雜亂或無 data-gtm-text 的特殊按鈕（如 `link:#mmenu`）統一重新命名為標準命名（例如 `menu-mobile-open`），以方便數據回填與更直覺的商業分析。\n"
     },
     {
       "path": "/dsc/solution/article/informationsecurity",
