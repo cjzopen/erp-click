@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robots" content="noindex, nofollow">
   <title>GA4 Click Event Analytics & Optimization Dashboard</title>
   <link rel="icon" href="https://www.digiwin.com.tw/images/favicon.svg" type="image/svg+xml">
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
@@ -455,7 +454,7 @@
     <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
       <a href="menu-dashboard.html" class="btn">⇄ 切換導覽選單分析 (Menu Clicks)</a>
       <div class="latest-badge" id="compile-time-badge">
-        <span>數據狀態：已同步 2026-06-05 之後數據</span>
+        <span>數據狀態：已同步 2026-06-05 ~ yyyy-mm-dd 數據</span>
       </div>
     </div>
   </header>
@@ -602,6 +601,12 @@
     }
 
     const data = window.dashboardData;
+
+    // Update sync date range badge if available
+    const badgeSpan = document.querySelector('#compile-time-badge span');
+    if (badgeSpan && data.siteStats && data.siteStats.updateTime) {
+      badgeSpan.innerText = `數據狀態：已同步 2026-06-05 ~ ${data.siteStats.updateTime} 數據`;
+    }
 
     // 2. Populate KPIs
     document.getElementById('kpi-total-clicks').innerText = data.siteStats.totalClicks.toLocaleString();

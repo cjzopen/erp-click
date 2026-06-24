@@ -478,12 +478,16 @@ def main():
     site_all_key_elements.sort(key=lambda x: x["clicks"], reverse=True)
     top_clicked_elements = site_all_key_elements[:15]
     
+    import datetime
+    update_time = datetime.datetime.now().strftime("%Y-%m-%d")
+
     dashboard_data = {
         "siteStats": {
             "totalClicks": site_total_clicks,
             "keyElementsCount": site_key_count,
             "redundantElementsCount": site_redundant_count,
-            "totalPages": len(pages_statistics)
+            "totalPages": len(pages_statistics),
+            "updateTime": update_time
         },
         "topElements": top_clicked_elements,
         "pages": pages_statistics

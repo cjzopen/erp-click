@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robots" content="noindex, nofollow">
   <title>GA4 Navigation Menu Analytics & Optimization Dashboard</title>
   <link rel="icon" href="https://www.digiwin.com.tw/images/favicon.svg" type="image/svg+xml">
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
@@ -681,8 +680,8 @@
     </div>
     <div class="header-actions">
       <a href="dashboard.html" class="btn">⇄ 切換頁面熱圖分析</a>
-      <div class="latest-badge">
-        <span>數據狀態：僅統計 2026-06-05 之後的數據</span>
+      <div class="latest-badge" id="compile-time-badge">
+        <span>數據狀態：已同步 2026-06-05 ~ yyyy-mm-dd 數據</span>
       </div>
     </div>
   </header>
@@ -833,6 +832,13 @@
     if (!window.menuDashboardData) {
       alert('無法加載 assets/menu_dashboard_data.js，請先執行 generate_menu_dashboard.py 數據管道。');
       return;
+    }
+
+    // Update sync date range badge if available
+    const data = window.menuDashboardData;
+    const badgeSpan = document.querySelector('#compile-time-badge span');
+    if (badgeSpan && data.siteStats && data.siteStats.updateTime) {
+      badgeSpan.innerText = `數據狀態：已同步 2026-06-05 ~ ${data.siteStats.updateTime} 數據`;
     }
 
     // 2. Initial Display

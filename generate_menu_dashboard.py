@@ -426,13 +426,17 @@ def main():
         "全站總覽"
     )
     
+    import datetime
+    update_time = datetime.datetime.now().strftime("%Y-%m-%d")
+
     output_data = {
         "siteStats": {
             "totalClicks": site_total_clicks,
             "levelCounts": site_level_counts,
             "templateCounts": site_template_counts,
             "totalPages": len(final_pages_data),
-            "aiReport": site_ai_report
+            "aiReport": site_ai_report,
+            "updateTime": update_time
         },
         "topItems": top_menu_items,
         "pages": final_pages_data
