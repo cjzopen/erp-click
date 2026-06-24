@@ -60,7 +60,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add online/ assets/menu_test_data.json
+          git add assets/ pages/
           # Check if there are differences to commit
           if ! git diff --cached --quiet; then
             git commit -m "chore: auto-update dashboard data [skip ci]"
@@ -75,7 +75,8 @@ jobs:
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'online' # Upload only the compiled online folder to Pages root
+          path: '.' # The repository root is the compiled static files folder
+
 
       - name: Deploy to GitHub Pages
         id: deployment
