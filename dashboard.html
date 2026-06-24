@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GA4 Click Event Analytics & Optimization Dashboard</title>
+  <link rel="icon" href="https://www.digiwin.com.tw/images/favicon.svg" type="image/svg+xml">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <!-- Chart.js from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <style>
+    :root {
+      --bg-color: #0c0c14;
+      --card-bg: rgba(22, 22, 35, 0.65);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --text-main: #f0f0f5;
+      --text-muted: #9595a6;
+      --primary: #ff8a00;
+      --secondary: #e52e71;
+      --accent-grad: linear-gradient(135deg, #ff8a00, #e52e71);
+      --hot-color: #ff4b4b;
+      --med-color: #ff9233;
+      --cold-color: #00e676;
+      --zero-color: #555566;
+      --font-outfit: 'Outfit', 'Noto Sans TC', sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(229, 46, 113, 0.05) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(255, 138, 0, 0.05) 0%, transparent 40%);
+      color: var(--text-main);
+      font-family: var(--font-outfit);
+      line-height: 1.5;
+      min-height: 100vh;
+      padding-bottom: 60px;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 30px 20px;
+    }
+
+    /* Header styling */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 40px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      padding-bottom: 20px;
+    }
+
+    .header-logo {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .header-logo img {
+      height: 40px;
+    }
+
+    .header-title h1 {
+      font-size: 28px;
+      font-weight: 700;
+      background: var(--accent-grad);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 4px;
+    }
+
+    .header-title p {
+      font-size: 14px;
+      color: var(--text-muted);
+    }
+
+    .latest-badge {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .latest-badge span::before {
+      content: "";
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background-color: var(--cold-color);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--cold-color);
+      margin-right: 6px;
+    }
+
+    /* KPI Grid */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+      margin-bottom: 35px;
+    }
+
+    .kpi-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 24px;
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s ease;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    }
+
+    .kpi-card:hover {
+      transform: translateY(-5px);
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .kpi-card::after {
+      content: "";
+      position: absolute;
+      top: -50%;
+      right: -50%;
+      width: 150px;
+      height: 150px;
+      background: radial-gradient(circle, rgba(255,255,255,0.03) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .kpi-label {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+
+    .kpi-value {
+      font-size: 32px;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 6px;
+    }
+
+    .kpi-desc {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    /* Section layouts */
+    .dashboard-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 25px;
+      margin-bottom: 35px;
+    }
+
+    @media (max-width: 1024px) {
+      .dashboard-row {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .card {
+      background: var(--card-bg);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border: 1px solid var(--card-border);
+      border-radius: 18px;
+      padding: 26px;
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+    }
+
+    .card-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #ffffff;
+      border-left: 4px solid var(--primary);
+      padding-left: 12px;
+    }
+
+    .chart-container {
+      position: relative;
+      height: 320px;
+      width: 100%;
+    }
+
+    /* Tables */
+    .table-container {
+      width: 100%;
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+    }
+
+    th {
+      padding: 12px 16px;
+      font-size: 13px;
+      color: var(--text-muted);
+      font-weight: 600;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      text-transform: uppercase;
+    }
+
+    td {
+      padding: 16px;
+      font-size: 14px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      color: #e2e2ee;
+    }
+
+    tr:hover td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .page-title-cell {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .page-title-cell a {
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: 600;
+      transition: color 0.2s;
+    }
+
+    .page-title-cell a:hover {
+      color: var(--primary);
+    }
+
+    .page-path {
+      font-family: monospace;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    /* Buttons */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: #ffffff;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.2s, border-color 0.2s, transform 0.1s;
+      gap: 6px;
+    }
+
+    .btn:hover {
+      background: var(--accent-grad);
+      border-color: transparent;
+      transform: translateY(-1px);
+    }
+
+    .btn:active {
+      transform: translateY(1px);
+    }
+
+    .btn-sm {
+      padding: 6px 12px;
+      font-size: 12px;
+      border-radius: 6px;
+    }
+
+    /* Progress bar */
+    .progress-bar-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 140px;
+    }
+
+    .progress-track {
+      flex: 1;
+      height: 8px;
+      background: rgba(255, 255, 255, 0.06);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: var(--accent-grad);
+      border-radius: 4px;
+    }
+
+    .progress-label {
+      font-size: 12px;
+      font-weight: 700;
+      width: 35px;
+      text-align: right;
+    }
+
+    /* Explorer Panel (Pruner) */
+    .explorer-layout {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 25px;
+      margin-top: 35px;
+    }
+
+    @media (max-width: 900px) {
+      .explorer-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .explorer-sidebar {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 18px;
+      padding: 20px;
+      height: fit-content;
+    }
+
+    .sidebar-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 15px;
+    }
+
+    .sidebar-item {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      padding: 12px 16px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background 0.2s, border-color 0.2s;
+      text-align: left;
+    }
+
+    .sidebar-item:hover, .sidebar-item.active {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: var(--primary);
+    }
+
+    .sidebar-item-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: #ffffff;
+      margin-bottom: 4px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .sidebar-item-meta {
+      font-size: 11px;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+    }
+
+    /* Badges */
+    .tag-badge {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text-muted);
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+
+    .count-badge {
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 10px;
+      color: #ffffff;
+    }
+
+    .count-badge.hot { background-color: var(--hot-color); }
+    .count-badge.med { background-color: var(--med-color); }
+    .count-badge.cold { background-color: var(--cold-color); }
+    .count-badge.zero { background-color: var(--zero-color); color: #c0c0d0; }
+
+    /* Copy tooltip */
+    .tooltip {
+      position: relative;
+      display: inline-block;
+    }
+
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 100px;
+      background-color: #555;
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px;
+      position: absolute;
+      z-index: 1;
+      bottom: 125%;
+      left: 50%;
+      margin-left: -50px;
+      opacity: 0;
+      transition: opacity 0.3s;
+      font-size: 11px;
+    }
+
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <div class="header-logo">
+      <img src="https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png" alt="鼎新數智">
+      <div class="header-title">
+        <h1>頁面點擊與元素效用分析儀表板</h1>
+        <p>GA4 點擊數據可視化與無效元素清理輔助中心</p>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+      <a href="menu-dashboard.html" class="btn">⇄ 切換導覽選單分析 (Menu Clicks)</a>
+      <div class="latest-badge" id="compile-time-badge">
+        <span>數據狀態：已同步 2026-06-05 之後數據</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- KPI Block -->
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-label">總點擊次數</div>
+      <div class="kpi-value" id="kpi-total-clicks" style="color: var(--primary);">0</div>
+      <div class="kpi-desc">2026-06-05 之後 content_click 事件累計</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">分析頁面總數</div>
+      <div class="kpi-value" id="kpi-total-pages">0</div>
+      <div class="kpi-desc">當前專案已配置之 HTML 靜態頁</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">有記錄的點擊元素</div>
+      <div class="kpi-value" id="kpi-key-elements" style="color: var(--cold-color);">0</div>
+      <div class="kpi-desc">至少被點擊 1 次的關鍵互動元素</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">多餘互動元素 (0點擊)</div>
+      <div class="kpi-value" id="kpi-redundant-elements" style="color: var(--hot-color);">0</div>
+      <div class="kpi-desc">零點擊之無效或冗餘互動項目</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">互動元素健康度</div>
+      <div class="kpi-value" id="kpi-utility-rate" style="background: var(--accent-grad); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">0%</div>
+      <div class="kpi-desc">被點擊元素佔總互動元素的佔比</div>
+    </div>
+  </div>
+
+  <!-- Charts Row -->
+  <div class="dashboard-row">
+    <div class="card">
+      <div class="card-title">📈 各頁面總點擊次數分佈</div>
+      <div class="chart-container">
+        <canvas id="clicksChart"></canvas>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">📊 互動元素效用對比 (關鍵 vs 多餘)</div>
+      <div class="chart-container">
+        <canvas id="utilityChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Pages Table Card -->
+  <div class="card" style="margin-bottom: 35px;">
+    <div class="card-title">📁 專案頁面點擊與效用清單</div>
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>頁面名稱與路徑</th>
+            <th>總點擊數</th>
+            <th>關鍵元素 (Clicks > 0)</th>
+            <th>多餘元素 (Clicks = 0)</th>
+            <th>健康度比率</th>
+            <th style="text-align: right;">操作</th>
+          </tr>
+        </thead>
+        <tbody id="pages-table-body">
+          <!-- Dynamically populated -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Top Elements and Explorer split -->
+  <div class="dashboard-row">
+    <!-- Top 15 Clicked Elements -->
+    <div class="card">
+      <div class="card-title">🔥 全站 Top 15 熱門點擊元素</div>
+      <div class="table-container" style="max-height: 480px; overflow-y: auto;">
+        <table>
+          <thead>
+            <tr>
+              <th>排名</th>
+              <th>元素文字</th>
+              <th>標籤</th>
+              <th>點擊次數</th>
+              <th>來源頁面</th>
+            </tr>
+          </thead>
+          <tbody id="top-elements-body">
+            <!-- Dynamically populated -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Explorer (Redundant Elements) -->
+    <div class="card" style="display: flex; flex-direction: column;">
+      <div class="card-title">
+        <span>✂️ 程式碼優化與多餘元素清理中心</span>
+        <span style="font-size: 12px; font-weight: normal; color: var(--text-muted);">選擇頁面並複製 CSS 選擇器，可在編輯器中快速尋找刪除</span>
+      </div>
+      
+      <div class="explorer-layout" style="margin-top: 0; flex: 1;">
+        <!-- Left lists -->
+        <div style="max-height: 420px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px;" id="explorer-page-list">
+          <!-- Dynamically populated page list -->
+        </div>
+        
+        <!-- Right details -->
+        <div style="background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.03); border-radius: 12px; padding: 16px; max-height: 420px; overflow-y: auto;">
+          <h3 id="explorer-selected-title" style="font-size: 15px; margin-bottom: 12px; color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 8px;">請選擇頁面</h3>
+          <div class="table-container">
+            <table>
+              <thead>
+                <tr>
+                  <th>元素文字 label</th>
+                  <th>標籤</th>
+                  <th>CSS 選擇器 selector</th>
+                  <th style="text-align: right;">動作</th>
+                </tr>
+              </thead>
+              <tbody id="explorer-redundant-body">
+                <tr>
+                  <td colspan="4" style="text-align: center; color: var(--text-muted); padding: 40px 0;">請選擇左側頁面以查看其零點擊的多餘互動元素</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Load aggregated data -->
+<script src="assets/dashboard_data.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // 1. Verify dashboardData loaded
+    if (!window.dashboardData) {
+      alert('無法加載 assets/dashboard_data.js，請先執行 generate_dashboard.py。');
+      return;
+    }
+
+    const data = window.dashboardData;
+
+    // 2. Populate KPIs
+    document.getElementById('kpi-total-clicks').innerText = data.siteStats.totalClicks.toLocaleString();
+    document.getElementById('kpi-total-pages').innerText = data.siteStats.totalPages;
+    document.getElementById('kpi-key-elements').innerText = data.siteStats.keyElementsCount.toLocaleString();
+    document.getElementById('kpi-redundant-elements').innerText = data.siteStats.redundantElementsCount.toLocaleString();
+    
+    const totalInteractive = data.siteStats.keyElementsCount + data.siteStats.redundantElementsCount;
+    const utilityRate = totalInteractive > 0 ? Math.round((data.siteStats.keyElementsCount / totalInteractive) * 100) : 0;
+    document.getElementById('kpi-utility-rate').innerText = utilityRate + '%';
+
+    // 3. Render Charts
+    renderCharts(data);
+
+    // 4. Populate Pages Table
+    const pagesTableBody = document.getElementById('pages-table-body');
+    data.pages.forEach(p => {
+      const pageTotal = p.keyCount + p.redundantCount;
+      const rate = pageTotal > 0 ? Math.round((p.keyCount / pageTotal) * 100) : 0;
+      const cleanTitle = p.title.split('：')[0] || p.title;
+
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>
+          <div class="page-title-cell">
+            <a href="./pages/${p.filename}" target="_blank">${cleanTitle}</a>
+            <span class="page-path">${p.path}</span>
+          </div>
+        </td>
+        <td><strong style="color: var(--primary); font-size:15px;">${p.totalClicks}</strong></td>
+        <td><span class="count-badge cold">${p.keyCount}</span></td>
+        <td><span class="count-badge hot">${p.redundantCount}</span></td>
+        <td>
+          <div class="progress-bar-container">
+            <div class="progress-track">
+              <div class="progress-fill" style="width: ${rate}%;"></div>
+            </div>
+            <span class="progress-label">${rate}%</span>
+          </div>
+        </td>
+        <td style="text-align: right;">
+          <a href="./pages/${p.filename}" target="_blank" class="btn btn-sm">開啟熱圖視覺化 🔎</a>
+        </td>
+      `;
+      pagesTableBody.appendChild(tr);
+    });
+
+    // 5. Populate Top Elements
+    const topElementsBody = document.getElementById('top-elements-body');
+    data.topElements.forEach((item, index) => {
+      let intensity = 'cold';
+      if (item.clicks >= 100) intensity = 'hot';
+      else if (item.clicks >= 20) intensity = 'med';
+
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td><strong style="color: #ffffff; font-size: 13px;">#${index + 1}</strong></td>
+        <td><span style="font-weight: 600; color: #ffffff;" title="${item.text}">${item.text}</span></td>
+        <td><span class="tag-badge">${item.tag}</span></td>
+        <td><span class="count-badge ${intensity}">${item.clicks}</span></td>
+        <td><span class="page-path" title="${item.page}">${item.filename}</span></td>
+      `;
+      topElementsBody.appendChild(tr);
+    });
+
+    // 6. Populate Explorer Sidebar & Hook Up Selection
+    const explorerPageList = document.getElementById('explorer-page-list');
+    data.pages.forEach((p, idx) => {
+      const cleanTitle = p.title.split('：')[0] || p.title;
+      const rate = p.keyCount + p.redundantCount > 0 ? Math.round((p.keyCount / (p.keyCount + p.redundantCount)) * 100) : 0;
+      
+      const div = document.createElement('div');
+      div.className = `sidebar-item ${idx === 0 ? 'active' : ''}`;
+      div.setAttribute('data-idx', idx);
+      div.innerHTML = `
+        <div class="sidebar-item-title" title="${cleanTitle}">${cleanTitle}</div>
+        <div class="sidebar-item-meta">
+          <span>多餘元素: <strong style="color:var(--hot-color);">${p.redundantCount}</strong></span>
+          <span>健康度: ${rate}%</span>
+        </div>
+      `;
+      explorerPageList.appendChild(div);
+    });
+
+    // Handle explorer sidebar click
+    explorerPageList.addEventListener('click', (e) => {
+      const item = e.target.closest('.sidebar-item');
+      if (!item) return;
+      
+      // Toggle active class
+      document.querySelectorAll('.sidebar-item').forEach(el => el.classList.remove('active'));
+      item.classList.add('active');
+      
+      const idx = parseInt(item.getAttribute('data-idx'), 10);
+      showRedundantElements(data.pages[idx]);
+    });
+
+    // Load first page by default
+    if (data.pages.length > 0) {
+      showRedundantElements(data.pages[0]);
+    }
+  });
+
+  // Display redundant elements for chosen page
+  function showRedundantElements(page) {
+    document.getElementById('explorer-selected-title').innerText = `${page.title.split('：')[0]} - 多餘互動元素 (${page.redundantCount}個)`;
+    const tbody = document.getElementById('explorer-redundant-body');
+    tbody.innerHTML = '';
+
+    if (page.redundantElements.length === 0) {
+      tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; color: var(--text-muted); padding: 40px 0;">此頁面沒有任何多餘的互動元素！健康度滿分 🎉</td></tr>`;
+      return;
+    }
+
+    page.redundantElements.forEach(item => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td><span style="color:#ffffff; font-weight: 500;">${item.text}</span></td>
+        <td><span class="tag-badge">${item.tag}</span></td>
+        <td><code style="font-family:monospace; color:var(--primary); font-size:12px;">${item.selector}</code></td>
+        <td style="text-align: right;">
+          <div class="tooltip">
+            <button class="btn btn-sm" onclick="copyText(this, '${item.selector}')">複製選擇器</button>
+            <span class="tooltiptext">複製成功!</span>
+          </div>
+        </td>
+      `;
+      tbody.appendChild(tr);
+    });
+  }
+
+  // Clipboard copy helper
+  function copyText(button, text) {
+    navigator.clipboard.writeText(text).then(() => {
+      const tooltipText = button.nextElementSibling;
+      tooltipText.style.visibility = 'visible';
+      tooltipText.style.opacity = '1';
+      
+      setTimeout(() => {
+        tooltipText.style.visibility = 'hidden';
+        tooltipText.style.opacity = '0';
+      }, 1500);
+    });
+  }
+
+  // Render Chart.js
+  function renderCharts(data) {
+    const pageLabels = data.pages.map(p => p.title.split('：')[0].substring(0, 10) + '...');
+    const clickData = data.pages.map(p => p.totalClicks);
+    
+    // Chart 1: Bar chart for Clicks
+    const ctx1 = document.getElementById('clicksChart').getContext('2d');
+    new Chart(ctx1, {
+      type: 'bar',
+      data: {
+        labels: pageLabels,
+        datasets: [{
+          label: '總點擊次數',
+          data: clickData,
+          backgroundColor: 'rgba(255, 138, 0, 0.6)',
+          borderColor: 'rgba(255, 138, 0, 1)',
+          borderWidth: 1.5,
+          borderRadius: 8,
+          hoverBackgroundColor: 'rgba(229, 46, 113, 0.8)',
+          hoverBorderColor: 'rgba(229, 46, 113, 1)'
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            padding: 12,
+            backgroundColor: 'rgba(18, 18, 28, 0.9)',
+            titleFont: { family: 'Outfit', size: 13 },
+            bodyFont: { family: 'Outfit', size: 14 }
+          }
+        },
+        scales: {
+          y: {
+            grid: { color: 'rgba(255, 255, 255, 0.05)' },
+            ticks: { color: '#9595a6', font: { family: 'Outfit' } }
+          },
+          x: {
+            grid: { display: false },
+            ticks: { color: '#9595a6', font: { family: 'Outfit' } }
+          }
+        }
+      }
+    });
+
+    // Chart 2: Stacked Utility Chart
+    const keyData = data.pages.map(p => p.keyCount);
+    const redundantData = data.pages.map(p => p.redundantCount);
+
+    const ctx2 = document.getElementById('utilityChart').getContext('2d');
+    new Chart(ctx2, {
+      type: 'bar',
+      data: {
+        labels: pageLabels,
+        datasets: [
+          {
+            label: '關鍵元素 (有被點擊)',
+            data: keyData,
+            backgroundColor: 'rgba(0, 230, 118, 0.65)',
+            borderColor: 'rgba(0, 230, 118, 1)',
+            borderWidth: 1.5,
+            borderRadius: 6
+          },
+          {
+            label: '多餘元素 (0點擊)',
+            data: redundantData,
+            backgroundColor: 'rgba(255, 75, 75, 0.65)',
+            borderColor: 'rgba(255, 75, 75, 1)',
+            borderWidth: 1.5,
+            borderRadius: 6
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'top',
+            labels: { color: '#e2e2ee', font: { family: 'Outfit', size: 12 } }
+          },
+          tooltip: {
+            padding: 12,
+            backgroundColor: 'rgba(18, 18, 28, 0.9)',
+            titleFont: { family: 'Outfit', size: 13 },
+            bodyFont: { family: 'Outfit', size: 14 }
+          }
+        },
+        scales: {
+          y: {
+            stacked: true,
+            grid: { color: 'rgba(255, 255, 255, 0.05)' },
+            ticks: { color: '#9595a6', font: { family: 'Outfit' } }
+          },
+          x: {
+            stacked: true,
+            grid: { display: false },
+            ticks: { color: '#9595a6', font: { family: 'Outfit' } }
+          }
+        }
+      }
+    });
+  }
+</script>
+</body>
+</html>
