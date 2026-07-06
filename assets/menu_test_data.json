@@ -996,6 +996,12 @@
     "count": 19
   },
   {
+    "pagePath": "/search",
+    "click_text": "search-submit-old",
+    "click_url": "",
+    "count": 19
+  },
+  {
     "pagePath": "/software/CM/CM",
     "click_text": "level2-產品與軟體-old",
     "click_url": "javascript:;",
@@ -1077,12 +1083,6 @@
     "pagePath": "/search",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 18
-  },
-  {
-    "pagePath": "/search",
-    "click_text": "search-submit-old",
-    "click_url": "",
     "count": 18
   },
   {
@@ -1860,6 +1860,12 @@
     "count": 11
   },
   {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-方案-new",
+    "click_url": "",
+    "count": 11
+  },
+  {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level1-知識-old",
     "click_url": "",
@@ -2151,12 +2157,6 @@
     "pagePath": "/course",
     "click_text": "level1-案例-old",
     "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-方案-new",
-    "click_url": "",
     "count": 10
   },
   {
@@ -4460,6 +4460,12 @@
   {
     "pagePath": "/dsc/Agent-Space/index",
     "click_text": "level1-活動與學習-new",
+    "click_url": "",
+    "count": 5
+  },
+  {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-活動與學習-new",
     "click_url": "(not set)",
     "count": 5
   },
@@ -5497,7 +5503,7 @@
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-活動與學習-new",
+    "click_text": "level1-案例-new",
     "click_url": "",
     "count": 4
   },
@@ -5991,12 +5997,6 @@
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-方案-old",
     "click_url": "https://www.digiwin.com.tw/software/T100/",
-    "count": 4
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud",
     "count": 4
   }
 ]
