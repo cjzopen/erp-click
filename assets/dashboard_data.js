@@ -1,16 +1,16 @@
 window.dashboardData = {
   "siteStats": {
-    "totalClicks": 29423,
-    "keyElementsCount": 238,
-    "redundantElementsCount": 223,
+    "totalClicks": 33318,
+    "keyElementsCount": 242,
+    "redundantElementsCount": 219,
     "totalPages": 6,
-    "updateTime": "2026-07-19"
+    "updateTime": "2026-07-26"
   },
   "topElements": [
     {
       "text": "產品優勢-財務模組",
       "tag": "span",
-      "clicks": 2445,
+      "clicks": 2623,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -18,7 +18,7 @@ window.dashboardData = {
     {
       "text": "產品優勢-資材模組",
       "tag": "span",
-      "clicks": 2323,
+      "clicks": 2471,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -26,7 +26,7 @@ window.dashboardData = {
     {
       "text": "產品優勢-研發模組",
       "tag": "span",
-      "clicks": 2032,
+      "clicks": 2181,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -34,7 +34,7 @@ window.dashboardData = {
     {
       "text": "產品優勢-銷售模組",
       "tag": "span",
-      "clicks": 1612,
+      "clicks": 1734,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -42,7 +42,7 @@ window.dashboardData = {
     {
       "text": "應用場景-下一張",
       "tag": "div",
-      "clicks": 1478,
+      "clicks": 1621,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -50,7 +50,7 @@ window.dashboardData = {
     {
       "text": "產品優勢-生產職能模組",
       "tag": "span",
-      "clicks": 1417,
+      "clicks": 1491,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -58,7 +58,7 @@ window.dashboardData = {
     {
       "text": "smarterp-應用場景-下一張",
       "tag": "div",
-      "clicks": 940,
+      "clicks": 1030,
       "page": "SmartERP：專為中小企業打造的AI ERP，模組彈性擴充管理超Smart |鼎新數智",
       "path": "/dsc/solution/WB002839/AISM",
       "filename": "smarterp.html"
@@ -66,7 +66,7 @@ window.dashboardData = {
     {
       "text": "導覽列-解決方案",
       "tag": "a",
-      "clicks": 797,
+      "clicks": 919,
       "page": "智慧ERP解決方案，台灣首選企業資源規劃專家|鼎新數智",
       "path": "/ERP/erp-all.html",
       "filename": "erp-all.html"
@@ -74,7 +74,7 @@ window.dashboardData = {
     {
       "text": "導覽列-量身規劃",
       "tag": "a",
-      "clicks": 715,
+      "clicks": 857,
       "page": "智慧ERP解決方案，台灣首選企業資源規劃專家|鼎新數智",
       "path": "/ERP/erp-all.html",
       "filename": "erp-all.html"
@@ -82,7 +82,15 @@ window.dashboardData = {
     {
       "text": "為何適合製造業-資材部",
       "tag": "div",
-      "clicks": 640,
+      "clicks": 741,
+      "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
+      "path": "/software/WF/WF",
+      "filename": "workflow.html"
+    },
+    {
+      "text": "為何適合製造業-生產部",
+      "tag": "div",
+      "clicks": 721,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -90,23 +98,15 @@ window.dashboardData = {
     {
       "text": "導覽列-數據智慧化",
       "tag": "a",
-      "clicks": 595,
+      "clicks": 694,
       "page": "智慧ERP解決方案，台灣首選企業資源規劃專家|鼎新數智",
       "path": "/ERP/erp-all.html",
       "filename": "erp-all.html"
     },
     {
-      "text": "為何適合製造業-生產部",
-      "tag": "div",
-      "clicks": 578,
-      "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
-      "path": "/software/WF/WF",
-      "filename": "workflow.html"
-    },
-    {
       "text": "為何適合製造業-財務部",
       "tag": "div",
-      "clicks": 507,
+      "clicks": 577,
       "page": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
       "path": "/software/WF/WF",
       "filename": "workflow.html"
@@ -114,7 +114,7 @@ window.dashboardData = {
     {
       "text": "smarterp-應用場景-上一張",
       "tag": "div",
-      "clicks": 487,
+      "clicks": 526,
       "page": "SmartERP：專為中小企業打造的AI ERP，模組彈性擴充管理超Smart |鼎新數智",
       "path": "/dsc/solution/WB002839/AISM",
       "filename": "smarterp.html"
@@ -122,7 +122,7 @@ window.dashboardData = {
     {
       "text": "導覽列-LOGO",
       "tag": "a",
-      "clicks": 437,
+      "clicks": 502,
       "page": "智慧ERP解決方案，台灣首選企業資源規劃專家|鼎新數智",
       "path": "/ERP/erp-all.html",
       "filename": "erp-all.html"
@@ -130,77 +130,476 @@ window.dashboardData = {
   ],
   "pages": [
     {
+      "filename": "erp-all.html",
+      "title": "智慧ERP解決方案，台灣首選企業資源規劃專家|鼎新數智",
+      "path": "/ERP/erp-all.html",
+      "totalClicks": 7587,
+      "keyCount": 62,
+      "redundantCount": 3,
+      "keyElements": [
+        {
+          "text": "導覽列-解決方案",
+          "tag": "a",
+          "clicks": 919,
+          "selector": "a.swiper-slide.nav-btn"
+        },
+        {
+          "text": "導覽列-量身規劃",
+          "tag": "a",
+          "clicks": 857,
+          "selector": "a.swiper-slide.nav-btn"
+        },
+        {
+          "text": "導覽列-數據智慧化",
+          "tag": "a",
+          "clicks": 694,
+          "selector": "a.swiper-slide.nav-btn"
+        },
+        {
+          "text": "導覽列-LOGO",
+          "tag": "a",
+          "clicks": 502,
+          "selector": "a.navbar-brand.d-none"
+        },
+        {
+          "text": "導覽列-常見問題",
+          "tag": "a",
+          "clicks": 449,
+          "selector": "a.swiper-slide.nav-btn"
+        },
+        {
+          "text": "常見問題-如何選擇適合我們公司的ERP",
+          "tag": "div",
+          "clicks": 401,
+          "selector": "div.QA"
+        },
+        {
+          "text": "常見問題-鼎新ERP的優勢有哪些",
+          "tag": "div",
+          "clicks": 338,
+          "selector": "div.QA"
+        },
+        {
+          "text": "常見問題-ERP系統導入需要多長的時間",
+          "tag": "div",
+          "clicks": 313,
+          "selector": "div.QA"
+        },
+        {
+          "text": "導覽列-預約Demo",
+          "tag": "a",
+          "clicks": 244,
+          "selector": "a.swiper-slide.nav-btn"
+        },
+        {
+          "text": "常見問題-如何評估ERP導入後的效益",
+          "tag": "div",
+          "clicks": 197,
+          "selector": "div.QA"
+        },
+        {
+          "text": "常見問題-什麼是ERP系統",
+          "tag": "div",
+          "clicks": 188,
+          "selector": "div.QA"
+        },
+        {
+          "text": "常見問題-ERP系統的售後服務與持續升級服務",
+          "tag": "div",
+          "clicks": 181,
+          "selector": "div.QA"
+        },
+        {
+          "text": "常見問題-ERP系統能確保我的資訊安全嗎",
+          "tag": "div",
+          "clicks": 160,
+          "selector": "div.QA"
+        },
+        {
+          "text": "主視覺-預約諮詢服務",
+          "tag": "a",
+          "clicks": 140,
+          "selector": "a.btn.act-btn"
+        },
+        {
+          "text": "量身規劃企業規模-中小型企業SmartERP",
+          "tag": "a",
+          "clicks": 117,
+          "selector": "a.act-item"
+        },
+        {
+          "text": "量身規劃製造業-more",
+          "tag": "a",
+          "clicks": 106,
+          "selector": "a.btn-link.btn-more"
+        },
+        {
+          "text": "量身規劃製造業-機械業",
+          "tag": "a",
+          "clicks": 106,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "量身規劃製造業-工程業",
+          "tag": "a",
+          "clicks": 91,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "AiGP區-中小企業SmartERP",
+          "tag": "a",
+          "clicks": 86,
+          "selector": "a.btn-AIGP.btn-AIGP02"
+        },
+        {
+          "text": "量身規劃流通業-食品業",
+          "tag": "a",
+          "clicks": 83,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "量身規劃製造業-電子業",
+          "tag": "a",
+          "clicks": 72,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "量身規劃企業規模-小微型企業A1",
+          "tag": "a",
+          "clicks": 71,
+          "selector": "a.act-item"
+        },
+        {
+          "text": "量身規劃流通業-more",
+          "tag": "a",
+          "clicks": 69,
+          "selector": "a.btn-link.btn-more"
+        },
+        {
+          "text": "AiGP區-製造業Workflow",
+          "tag": "a",
+          "clicks": 63,
+          "selector": "a.btn-AIGP.btn-AIGP04"
+        },
+        {
+          "text": "量身規劃-分頁依企業規模選擇",
+          "tag": "div",
+          "clicks": 59,
+          "selector": "div.tab-nav.tab-nav02"
+        },
+        {
+          "text": "量身規劃製造業-金屬業",
+          "tag": "a",
+          "clicks": 57,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "量身規劃製造業-汽機車業",
+          "tag": "a",
+          "clicks": 52,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "量身規劃企業規模-中大型製造業WorkflowERPGP",
+          "tag": "a",
+          "clicks": 50,
+          "selector": "a.act-item"
+        },
+        {
+          "text": "導覽列-手機選單展開鈕",
+          "tag": "div",
+          "clicks": 49,
+          "selector": "div.toggle-arrow.d-block"
+        },
+        {
+          "text": "量身規劃企業規模-集團型企業T100",
+          "tag": "a",
+          "clicks": 49,
+          "selector": "a.act-item"
+        },
+        {
+          "text": "量身規劃製造業-塑膠業",
+          "tag": "a",
+          "clicks": 45,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "導覽列-電話0800009890",
+          "tag": "a",
+          "clicks": 43,
+          "selector": "a.swiper-slide.nav-btn"
+        },
+        {
+          "text": "量身規劃流通業-餐飲業",
+          "tag": "a",
+          "clicks": 43,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "全程價值服務-了解更多",
+          "tag": "a",
+          "clicks": 41,
+          "selector": "a.btn.act-btn"
+        },
+        {
+          "text": "AiGP區-企業流程BPM",
+          "tag": "a",
+          "clicks": 39,
+          "selector": "a.btn-AIGP.btn-AIGP01"
+        },
+        {
+          "text": "量身規劃製造業-醫材業",
+          "tag": "a",
+          "clicks": 38,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "AI助理切換鈕-2",
+          "tag": "span",
+          "clicks": 36,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "量身規劃-我想諮詢專人",
+          "tag": "a",
+          "clicks": 35,
+          "selector": "a.btn.act-btn"
+        },
+        {
+          "text": "常見問題推薦閱讀-ERP系統挑選4大方向",
+          "tag": "a",
+          "clicks": 35,
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "AiGP區-立即諮詢AiGP應用",
+          "tag": "a",
+          "clicks": 34,
+          "selector": "a.btn-center.btn-scroll"
+        },
+        {
+          "text": "全方位管理應用-進銷存管理",
+          "tag": "a",
+          "clicks": 34,
+          "selector": "a.act-item.act-item01"
+        },
+        {
+          "text": "量身規劃流通業-網購業",
+          "tag": "a",
+          "clicks": 33,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "量身規劃-分頁依行業選擇",
+          "tag": "div",
+          "clicks": 31,
+          "selector": "div.tab-nav.tab-nav01"
+        },
+        {
+          "text": "全方位管理應用-生產製造管理",
+          "tag": "a",
+          "clicks": 30,
+          "selector": "a.act-item.act-item02"
+        },
+        {
+          "text": "全方位管理應用-財務會計管理",
+          "tag": "a",
+          "clicks": 27,
+          "selector": "a.act-item.act-item07"
+        },
+        {
+          "text": "AI助理切換鈕-3",
+          "tag": "span",
+          "clicks": 27,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "AiGP區-人資管理HRM",
+          "tag": "a",
+          "clicks": 26,
+          "selector": "a.btn-AIGP.btn-AIGP03"
+        },
+        {
+          "text": "AI助理切換鈕-4",
+          "tag": "span",
+          "clicks": 25,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "量身規劃流通業-連鎖通路",
+          "tag": "a",
+          "clicks": 21,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "AI助理切換鈕-1",
+          "tag": "span",
+          "clicks": 19,
+          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
+        },
+        {
+          "text": "常見問題推薦閱讀-ERP是什麼？",
+          "tag": "a",
+          "clicks": 18,
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "量身規劃企業規模-中大型流通業CosmosERP",
+          "tag": "a",
+          "clicks": 17,
+          "selector": "a.act-item"
+        },
+        {
+          "text": "量身規劃流通業-設備代理",
+          "tag": "a",
+          "clicks": 16,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "量身規劃流通業-服飾業",
+          "tag": "a",
+          "clicks": 16,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "全方位管理應用-客戶關係管理",
+          "tag": "a",
+          "clicks": 16,
+          "selector": "a.act-item.act-item04"
+        },
+        {
+          "text": "全方位管理應用-人力資源管理",
+          "tag": "a",
+          "clicks": 13,
+          "selector": "a.act-item.act-item05"
+        },
+        {
+          "text": "全方位管理應用-研發資源管理",
+          "tag": "a",
+          "clicks": 13,
+          "selector": "a.act-item.act-item06"
+        },
+        {
+          "text": "全方位管理應用-企業流程Ｅ化",
+          "tag": "a",
+          "clicks": 13,
+          "selector": "a.act-item.act-item08"
+        },
+        {
+          "text": "常見問題推薦閱讀-ERP廠商挑選原則",
+          "tag": "a",
+          "clicks": 12,
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "常見問題推薦閱讀-導入ERP的注意事項",
+          "tag": "a",
+          "clicks": 11,
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "量身規劃流通業-美妝業",
+          "tag": "a",
+          "clicks": 8,
+          "selector": "a.act-btn"
+        },
+        {
+          "text": "全方位管理應用-企業資安防護",
+          "tag": "a",
+          "clicks": 7,
+          "selector": "a.act-item.act-item03"
+        }
+      ],
+      "redundantElements": [
+        {
+          "text": "導覽列-LOGO",
+          "tag": "a",
+          "selector": "a.logo.d-block"
+        },
+        {
+          "text": "常見問題推薦閱讀-資訊安全服務",
+          "tag": "a",
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "常見問題推薦閱讀-用戶服務平台",
+          "tag": "a",
+          "selector": "a.btn-link"
+        }
+      ]
+    },
+    {
       "filename": "t100.html",
       "title": "T100 企業智慧ERP雲平台|鼎新數智",
       "path": "/software/T100/",
-      "totalClicks": 225,
+      "totalClicks": 267,
       "keyCount": 11,
       "redundantCount": 0,
       "keyElements": [
         {
           "text": "t100-走向產業互聯-符合智慧製造的組織架構",
           "tag": "a",
-          "clicks": 63,
+          "clicks": 70,
           "selector": "a.btn.t100-btn-outline"
         },
         {
           "text": "t100-實現智慧生產-智能化企業營運模式",
           "tag": "a",
-          "clicks": 29,
+          "clicks": 34,
           "selector": "a.btn.t100-btn-outline"
         },
         {
           "text": "t100-nav-實現智慧製造",
           "tag": "a",
-          "clicks": 22,
+          "clicks": 24,
           "selector": "a.nav-link.t100-section-nav-link"
         },
         {
           "text": "t100-協同開發平台與移動化管理-縱向與橫向高度整合",
           "tag": "a",
-          "clicks": 21,
-          "selector": "a.btn.t100-btn-outline"
-        },
-        {
-          "text": "t100-企業價值服務體系-心服務價值體系",
-          "tag": "a",
-          "clicks": 17,
+          "clicks": 23,
           "selector": "a.btn.t100-btn-outline"
         },
         {
           "text": "t100-nav-智慧企業營運",
           "tag": "a",
-          "clicks": 14,
+          "clicks": 19,
           "selector": "a.nav-link.t100-section-nav-link"
+        },
+        {
+          "text": "t100-企業價值服務體系-心服務價值體系",
+          "tag": "a",
+          "clicks": 19,
+          "selector": "a.btn.t100-btn-outline"
         },
         {
           "text": "t100-nav-智慧製造",
           "tag": "a",
-          "clicks": 14,
+          "clicks": 17,
           "selector": "a.nav-link.t100-section-nav-link"
         },
         {
           "text": "t100-nav-協同開發",
           "tag": "a",
-          "clicks": 13,
-          "selector": "a.nav-link.t100-section-nav-link"
-        },
-        {
-          "text": "t100-nav-價值服務體系",
-          "tag": "a",
-          "clicks": 12,
+          "clicks": 17,
           "selector": "a.nav-link.t100-section-nav-link"
         },
         {
           "text": "t100-智慧企業營運-重構產業鏈價值體系",
           "tag": "a",
-          "clicks": 11,
+          "clicks": 17,
           "selector": "a.btn.t100-btn-outline"
+        },
+        {
+          "text": "t100-nav-價值服務體系",
+          "tag": "a",
+          "clicks": 14,
+          "selector": "a.nav-link.t100-section-nav-link"
         },
         {
           "text": "t100-nav-走向產業互聯",
           "tag": "a",
-          "clicks": 9,
+          "clicks": 13,
           "selector": "a.nav-link.t100-section-nav-link"
         }
       ],
@@ -210,224 +609,242 @@ window.dashboardData = {
       "filename": "home.html",
       "title": "鼎新數智-引領企業數位化轉型|智能+應用方案|ERP,ERPⅡ系統應用",
       "path": "/",
-      "totalClicks": 3860,
-      "keyCount": 78,
-      "redundantCount": 184,
+      "totalClicks": 4520,
+      "keyCount": 81,
+      "redundantCount": 181,
       "keyElements": [
         {
           "text": "行業方案-製造",
           "tag": "span",
-          "clicks": 392,
+          "clicks": 443,
           "selector": "span.title"
         },
         {
           "text": "行業方案-電子光電",
           "tag": "span",
-          "clicks": 284,
+          "clicks": 322,
           "selector": "span.title"
         },
         {
           "text": "行業方案-機械",
           "tag": "span",
-          "clicks": 260,
+          "clicks": 310,
           "selector": "span.title"
         },
         {
           "text": "行業方案-工程",
           "tag": "span",
-          "clicks": 203,
-          "selector": "span.title"
-        },
-        {
-          "text": "行業方案-新零售",
-          "tag": "span",
-          "clicks": 182,
+          "clicks": 235,
           "selector": "span.title"
         },
         {
           "text": "行業方案-交通",
           "tag": "span",
-          "clicks": 177,
+          "clicks": 219,
+          "selector": "span.title"
+        },
+        {
+          "text": "行業方案-新零售",
+          "tag": "span",
+          "clicks": 210,
           "selector": "span.title"
         },
         {
           "text": "首頁Banner-第1張",
           "tag": "a",
-          "clicks": 164,
+          "clicks": 187,
           "selector": "a"
         },
         {
           "text": "行業方案-塑膠",
           "tag": "span",
-          "clicks": 153,
+          "clicks": 169,
           "selector": "span.title"
         },
         {
           "text": "行業方案-餐飲",
           "tag": "span",
-          "clicks": 142,
+          "clicks": 164,
           "selector": "span.title"
         },
         {
           "text": "行業方案-食品",
           "tag": "span",
-          "clicks": 135,
+          "clicks": 151,
           "selector": "span.title"
         },
         {
           "text": "關閉工具列",
           "tag": "button",
-          "clicks": 127,
+          "clicks": 145,
           "selector": "button#float-closed"
         },
         {
           "text": "行業方案-醫材",
           "tag": "span",
-          "clicks": 104,
-          "selector": "span.title"
-        },
-        {
-          "text": "行業方案-流通",
-          "tag": "span",
-          "clicks": 100,
+          "clicks": 116,
           "selector": "span.title"
         },
         {
           "text": "行業方案-生技",
           "tag": "span",
-          "clicks": 97,
+          "clicks": 114,
+          "selector": "span.title"
+        },
+        {
+          "text": "行業方案-流通",
+          "tag": "span",
+          "clicks": 110,
           "selector": "span.title"
         },
         {
           "text": "行業方案-美妝",
           "tag": "span",
-          "clicks": 92,
+          "clicks": 108,
           "selector": "span.title"
         },
         {
           "text": "行業方案-服飾",
           "tag": "span",
-          "clicks": 82,
+          "clicks": 97,
           "selector": "span.title"
         },
         {
           "text": "首頁Banner-第2張",
           "tag": "a",
-          "clicks": 70,
+          "clicks": 79,
           "selector": "a"
         },
         {
           "text": "行業方案-網購",
           "tag": "span",
-          "clicks": 70,
+          "clicks": 77,
           "selector": "span.title"
-        },
-        {
-          "text": "加LINE諮詢",
-          "tag": "li",
-          "clicks": 54,
-          "selector": "li"
-        },
-        {
-          "text": "智能管理再進化-企業數位化轉型",
-          "tag": "a",
-          "clicks": 49,
-          "selector": "a"
         },
         {
           "text": "企業快訊分頁-新聞中心",
           "tag": "li",
-          "clicks": 49,
+          "clicks": 68,
           "selector": "li"
         },
         {
-          "text": "首頁Banner-第3張",
-          "tag": "a",
-          "clicks": 42,
-          "selector": "a"
+          "text": "加LINE諮詢",
+          "tag": "li",
+          "clicks": 65,
+          "selector": "li"
         },
         {
           "text": "智能管理再進化-智能+製造",
           "tag": "a",
-          "clicks": 42,
+          "clicks": 55,
+          "selector": "a"
+        },
+        {
+          "text": "智能管理再進化-企業數位化轉型",
+          "tag": "a",
+          "clicks": 54,
+          "selector": "a"
+        },
+        {
+          "text": "首頁Banner-第3張",
+          "tag": "a",
+          "clicks": 53,
           "selector": "a"
         },
         {
           "text": "行業區塊-查看全部",
           "tag": "a",
-          "clicks": 42,
+          "clicks": 50,
           "selector": "a.pbutton"
         },
         {
           "text": "服務入口-行業方案",
           "tag": "a",
-          "clicks": 39,
+          "clicks": 45,
           "selector": "a"
-        },
-        {
-          "text": "服務電話",
-          "tag": "li",
-          "clicks": 38,
-          "selector": "li"
         },
         {
           "text": "企業快訊分頁-典範案例",
           "tag": "li",
-          "clicks": 34,
+          "clicks": 43,
+          "selector": "li"
+        },
+        {
+          "text": "服務電話",
+          "tag": "li",
+          "clicks": 42,
           "selector": "li"
         },
         {
           "text": "企業快訊分頁-專欄文章",
           "tag": "li",
-          "clicks": 33,
+          "clicks": 41,
           "selector": "li"
-        },
-        {
-          "text": "服務入口-智慧工廠",
-          "tag": "a",
-          "clicks": 32,
-          "selector": "a"
         },
         {
           "text": "行業方案-化工",
           "tag": "span",
-          "clicks": 31,
+          "clicks": 40,
           "selector": "span.title"
         },
         {
           "text": "行業方案-印刷",
           "tag": "span",
-          "clicks": 30,
+          "clicks": 39,
           "selector": "span.title"
         },
         {
-          "text": "首頁Banner-第4張",
+          "text": "服務入口-智慧工廠",
           "tag": "a",
-          "clicks": 26,
-          "selector": "a"
-        },
-        {
-          "text": "智能管理再進化-智能+雲端應用",
-          "tag": "a",
-          "clicks": 26,
+          "clicks": 37,
           "selector": "a"
         },
         {
           "text": "行業方案-金融保險",
           "tag": "span",
-          "clicks": 23,
+          "clicks": 36,
           "selector": "span.title"
+        },
+        {
+          "text": "首頁Banner-第4張",
+          "tag": "a",
+          "clicks": 34,
+          "selector": "a"
+        },
+        {
+          "text": "智能管理再進化-智能+雲端應用",
+          "tag": "a",
+          "clicks": 30,
+          "selector": "a"
         },
         {
           "text": "行業方案-設備代理",
           "tag": "span",
-          "clicks": 20,
+          "clicks": 28,
           "selector": "span.title"
+        },
+        {
+          "text": "企業快訊分頁-活動報導",
+          "tag": "li",
+          "clicks": 24,
+          "selector": "li"
+        },
+        {
+          "text": "智能管理再進化-ESG企業永續價值",
+          "tag": "a",
+          "clicks": 23,
+          "selector": "a"
         },
         {
           "text": "行業方案-金屬",
           "tag": "span",
-          "clicks": 20,
+          "clicks": 22,
+          "selector": "span.title"
+        },
+        {
+          "text": "行業方案-紡織成衣",
+          "tag": "span",
+          "clicks": 21,
           "selector": "span.title"
         },
         {
@@ -437,69 +854,51 @@ window.dashboardData = {
           "selector": "span.title"
         },
         {
-          "text": "行業方案-紡織成衣",
-          "tag": "span",
-          "clicks": 19,
-          "selector": "span.title"
-        },
-        {
-          "text": "企業快訊分頁-活動報導",
-          "tag": "li",
-          "clicks": 18,
-          "selector": "li"
-        },
-        {
-          "text": "智能管理再進化-ESG企業永續價值",
-          "tag": "a",
-          "clicks": 17,
-          "selector": "a"
-        },
-        {
           "text": "服務入口-流通趨勢",
           "tag": "a",
-          "clicks": 13,
+          "clicks": 14,
           "selector": "a"
         },
         {
           "text": "服務入口-管理診斷",
           "tag": "a",
-          "clicks": 11,
+          "clicks": 14,
           "selector": "a"
         },
         {
           "text": "留言諮詢",
           "tag": "li",
-          "clicks": 9,
+          "clicks": 12,
           "selector": "li"
         },
         {
-          "text": "耀億工業 / 王贊景 / 執行長-實證影片",
+          "text": "企業快訊-更多近期活動",
           "tag": "a",
-          "clicks": 8,
+          "clicks": 11,
           "selector": "a"
         },
         {
           "text": "企業快訊分頁-近期活動",
           "tag": "li",
-          "clicks": 8,
+          "clicks": 10,
           "selector": "li.active"
         },
         {
-          "text": "企業快訊-更多近期活動",
+          "text": "耀億工業 / 王贊景 / 執行長-實證影片",
           "tag": "a",
-          "clicks": 8,
+          "clicks": 9,
           "selector": "a"
         },
         {
           "text": "智能管理再進化-關稅匯率衝擊評量",
           "tag": "a",
-          "clicks": 7,
+          "clicks": 8,
           "selector": "a"
         },
         {
           "text": "智能管理再進化-流通趨勢",
           "tag": "a",
-          "clicks": 6,
+          "clicks": 7,
           "selector": "a"
         },
         {
@@ -515,6 +914,12 @@ window.dashboardData = {
           "selector": "a.more"
         },
         {
+          "text": "企業快訊-近期活動-【線上首播】數據看得清，經營走更穩",
+          "tag": "a",
+          "clicks": 4,
+          "selector": "a"
+        },
+        {
           "text": "企業快訊-近期活動-AI賦能．數據智造，驅動企業營運與全球供應鏈的全局進化",
           "tag": "a",
           "clicks": 4,
@@ -525,6 +930,12 @@ window.dashboardData = {
           "tag": "a",
           "clicks": 4,
           "selector": "a"
+        },
+        {
+          "text": "行業方案-批發零售流通行業-了解更多",
+          "tag": "a",
+          "clicks": 3,
+          "selector": "a.more"
         },
         {
           "text": "企業快訊-更多專欄文章",
@@ -551,19 +962,13 @@ window.dashboardData = {
           "selector": "a.more"
         },
         {
-          "text": "行業方案-批發零售流通行業-了解更多",
-          "tag": "a",
-          "clicks": 2,
-          "selector": "a.more"
-        },
-        {
           "text": "行業方案-網購電商解決方案-了解更多",
           "tag": "a",
           "clicks": 2,
           "selector": "a.more"
         },
         {
-          "text": "企業快訊-近期活動-【線上首播】數據看得清，經營走更穩",
+          "text": "力肯實業 / 溫銘漢 / 董事長-實證影片",
           "tag": "a",
           "clicks": 2,
           "selector": "a"
@@ -599,6 +1004,12 @@ window.dashboardData = {
           "selector": "a"
         },
         {
+          "text": "行業方案-新零售-新零售介紹",
+          "tag": "a",
+          "clicks": 1,
+          "selector": "a"
+        },
+        {
           "text": "行業方案-食品行業解決方案",
           "tag": "a",
           "clicks": 1,
@@ -629,10 +1040,22 @@ window.dashboardData = {
           "selector": "a.more"
         },
         {
+          "text": "行業方案-醫材行業解決方案-了解更多",
+          "tag": "a",
+          "clicks": 1,
+          "selector": "a.more"
+        },
+        {
           "text": "行業方案-流行時尚鞋服業-了解更多",
           "tag": "a",
           "clicks": 1,
           "selector": "a.more"
+        },
+        {
+          "text": "睿澤企業 / 黃祺娟 / 總經理-深度閱讀",
+          "tag": "a",
+          "clicks": 1,
+          "selector": "a"
         },
         {
           "text": "睿澤企業 / 黃祺娟 / 總經理-實證影片",
@@ -648,12 +1071,6 @@ window.dashboardData = {
         },
         {
           "text": "安得烈實業/劉天靠/董事長-實證影片",
-          "tag": "a",
-          "clicks": 1,
-          "selector": "a"
-        },
-        {
-          "text": "力肯實業 / 溫銘漢 / 董事長-實證影片",
           "tag": "a",
           "clicks": 1,
           "selector": "a"
@@ -786,11 +1203,6 @@ window.dashboardData = {
         },
         {
           "text": "行業方案-新零售解決方案",
-          "tag": "a",
-          "selector": "a"
-        },
-        {
-          "text": "行業方案-新零售-新零售介紹",
           "tag": "a",
           "selector": "a"
         },
@@ -1230,11 +1642,6 @@ window.dashboardData = {
           "selector": "a"
         },
         {
-          "text": "行業方案-醫材行業解決方案-了解更多",
-          "tag": "a",
-          "selector": "a.more"
-        },
-        {
           "text": "行業方案-醫材-行業案例",
           "tag": "a",
           "selector": "a"
@@ -1465,11 +1872,6 @@ window.dashboardData = {
           "selector": "a#toggle"
         },
         {
-          "text": "睿澤企業 / 黃祺娟 / 總經理-深度閱讀",
-          "tag": "a",
-          "selector": "a"
-        },
-        {
           "text": "鴻網(協訊) / 周仁清 / 執行長-深度閱讀",
           "tag": "a",
           "selector": "a"
@@ -1607,203 +2009,195 @@ window.dashboardData = {
       ]
     },
     {
-      "filename": "cosmos.html",
-      "title": "鼎新Cosmos ERP AiGP：流通業專屬的AI升級ERP方案|鼎新數智",
-      "path": "/software/CM/CM",
-      "totalClicks": 1412,
-      "keyCount": 28,
-      "redundantCount": 15,
+      "filename": "workflow.html",
+      "title": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
+      "path": "/software/WF/WF",
+      "totalClicks": 16223,
+      "keyCount": 30,
+      "redundantCount": 11,
       "keyElements": [
+        {
+          "text": "產品優勢-財務模組",
+          "tag": "span",
+          "clicks": 2623,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "產品優勢-資材模組",
+          "tag": "span",
+          "clicks": 2471,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "產品優勢-研發模組",
+          "tag": "span",
+          "clicks": 2181,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "產品優勢-銷售模組",
+          "tag": "span",
+          "clicks": 1734,
+          "selector": "span.swiper-pagination-bullet"
+        },
         {
           "text": "應用場景-下一張",
           "tag": "div",
-          "clicks": 358,
+          "clicks": 1621,
           "selector": "div.swiper-button-next"
         },
         {
-          "text": "成功案例-下一張",
-          "tag": "div",
-          "clicks": 337,
-          "selector": "div.swiper-button-next"
+          "text": "產品優勢-生產職能模組",
+          "tag": "span",
+          "clicks": 1491,
+          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
         },
         {
-          "text": "為何適合流通業-財務人員",
+          "text": "為何適合製造業-資材部",
           "tag": "div",
-          "clicks": 107,
+          "clicks": 741,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合流通業-採購人員",
+          "text": "為何適合製造業-生產部",
           "tag": "div",
-          "clicks": 94,
+          "clicks": 721,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合流通業-銷售人員",
+          "text": "為何適合製造業-財務部",
           "tag": "div",
-          "clicks": 87,
+          "clicks": 577,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合流通業-門市人員",
+          "text": "為何適合製造業-銷售部",
           "tag": "div",
-          "clicks": 82,
+          "clicks": 370,
           "selector": "div.act-item"
         },
         {
           "text": "應用場景-上一張",
           "tag": "div",
-          "clicks": 73,
+          "clicks": 338,
           "selector": "div.swiper-button-prev.swiper-button-disabled"
         },
         {
-          "text": "成功案例-上一張",
+          "text": "為何適合製造業-管理者",
           "tag": "div",
-          "clicks": 57,
-          "selector": "div.swiper-button-prev.swiper-button-disabled"
-        },
-        {
-          "text": "為何適合流通業-倉儲人員",
-          "tag": "div",
-          "clicks": 40,
+          "clicks": 327,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合流通業-總部管理者",
+          "text": "為何適合製造業-研發部",
           "tag": "div",
-          "clicks": 32,
+          "clicks": 209,
           "selector": "div.act-item"
-        },
-        {
-          "text": "nav-產品優勢",
-          "tag": "a",
-          "clicks": 26,
-          "selector": "a.nav-link"
         },
         {
           "text": "nav-成功案例",
           "tag": "a",
-          "clicks": 24,
+          "clicks": 74,
+          "selector": "a.nav-link"
+        },
+        {
+          "text": "nav-產品優勢",
+          "tag": "a",
+          "clicks": 70,
           "selector": "a.nav-link"
         },
         {
           "text": "nav-生成式AI數智員工",
           "tag": "a",
-          "clicks": 10,
+          "clicks": 62,
           "selector": "a.nav-link"
         },
         {
-          "text": "nav-為何適合流通業",
+          "text": "nav-為何適合製造業",
           "tag": "a",
-          "clicks": 8,
+          "clicks": 47,
           "selector": "a.nav-link"
         },
         {
           "text": "應用場景-分頁2",
           "tag": "span",
-          "clicks": 7,
+          "clicks": 34,
           "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "成功案例-振宇五金-ReadMore",
-          "tag": "a",
-          "clicks": 7,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "nav-立即諮詢",
-          "tag": "a",
-          "clicks": 6,
-          "selector": "a.nav-link"
         },
         {
           "text": "應用場景-分頁3",
           "tag": "span",
-          "clicks": 5,
+          "clicks": 23,
           "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "nav-立即諮詢",
+          "tag": "a",
+          "clicks": 17,
+          "selector": "a.nav-link"
         },
         {
           "text": "應用場景-分頁4",
           "tag": "span",
-          "clicks": 5,
+          "clicks": 16,
           "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "應用場景-分頁1",
+          "tag": "span",
+          "clicks": 15,
+          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
         },
         {
           "text": "應用場景-分頁5",
           "tag": "span",
-          "clicks": 5,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "應用場景-分頁7",
-          "tag": "span",
-          "clicks": 5,
+          "clicks": 13,
           "selector": "span.swiper-pagination-bullet"
         },
         {
           "text": "應用場景-分頁6",
           "tag": "span",
-          "clicks": 4,
+          "clicks": 12,
           "selector": "span.swiper-pagination-bullet"
         },
         {
-          "text": "成功案例-豐喜食品-圖片",
+          "text": "成功案例-臺灣輔康-ReadMore",
           "tag": "a",
-          "clicks": 4,
-          "selector": "a.logo-wrap"
-        },
-        {
-          "text": "成功案例-美科實業-ReadMore",
-          "tag": "a",
-          "clicks": 3,
+          "clicks": 11,
           "selector": "a.btn-link"
         },
         {
-          "text": "成功案例-歐亞科技-ReadMore",
-          "tag": "a",
-          "clicks": 3,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "應用場景-分頁1",
+          "text": "應用場景-分頁7",
           "tag": "span",
-          "clicks": 2,
-          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
+          "clicks": 10,
+          "selector": "span.swiper-pagination-bullet"
         },
         {
-          "text": "成功案例-德典生技-ReadMore",
+          "text": "header-立即諮詢",
           "tag": "a",
-          "clicks": 2,
+          "clicks": 7,
+          "selector": "a.btn.act-btn"
+        },
+        {
+          "text": "成功案例-凱明塑膠-ReadMore",
+          "tag": "a",
+          "clicks": 6,
           "selector": "a.btn-link"
         },
         {
-          "text": "成功案例-綠的國際-ReadMore",
+          "text": "成功案例-宇仁醫材-ReadMore",
           "tag": "a",
-          "clicks": 2,
+          "clicks": 5,
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "成功案例-越南萬德福-ReadMore",
+          "tag": "a",
+          "clicks": 5,
           "selector": "a.btn-link"
         }
       ],
       "redundantElements": [
-        {
-          "text": "header-立即諮詢",
-          "tag": "a",
-          "selector": "a.btn.act-btn"
-        },
-        {
-          "text": "成功案例-豐喜食品-ReadMore",
-          "tag": "a",
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "成功案例-大武山牧場-ReadMore",
-          "tag": "a",
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "成功案例-昇曜國際-ReadMore",
-          "tag": "a",
-          "selector": "a.btn-link"
-        },
         {
           "text": "關閉工具列",
           "tag": "button",
@@ -1862,195 +2256,205 @@ window.dashboardData = {
       ]
     },
     {
-      "filename": "workflow.html",
-      "title": "鼎新Workflow ERP AiGP：為製造業量身打造的AI升級ERP|鼎新數智",
-      "path": "/software/WF/WF",
-      "totalClicks": 14757,
+      "filename": "cosmos.html",
+      "title": "鼎新Cosmos ERP AiGP：流通業專屬的AI升級ERP方案|鼎新數智",
+      "path": "/software/CM/CM",
+      "totalClicks": 1633,
       "keyCount": 30,
-      "redundantCount": 11,
+      "redundantCount": 13,
       "keyElements": [
-        {
-          "text": "產品優勢-財務模組",
-          "tag": "span",
-          "clicks": 2445,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "產品優勢-資材模組",
-          "tag": "span",
-          "clicks": 2323,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "產品優勢-研發模組",
-          "tag": "span",
-          "clicks": 2032,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "產品優勢-銷售模組",
-          "tag": "span",
-          "clicks": 1612,
-          "selector": "span.swiper-pagination-bullet"
-        },
         {
           "text": "應用場景-下一張",
           "tag": "div",
-          "clicks": 1478,
+          "clicks": 401,
           "selector": "div.swiper-button-next"
         },
         {
-          "text": "產品優勢-生產職能模組",
-          "tag": "span",
-          "clicks": 1417,
-          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
+          "text": "成功案例-下一張",
+          "tag": "div",
+          "clicks": 373,
+          "selector": "div.swiper-button-next"
         },
         {
-          "text": "為何適合製造業-資材部",
+          "text": "為何適合流通業-採購人員",
           "tag": "div",
-          "clicks": 640,
+          "clicks": 124,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合製造業-生產部",
+          "text": "為何適合流通業-財務人員",
           "tag": "div",
-          "clicks": 578,
+          "clicks": 123,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合製造業-財務部",
+          "text": "為何適合流通業-銷售人員",
           "tag": "div",
-          "clicks": 507,
+          "clicks": 118,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合製造業-銷售部",
+          "text": "為何適合流通業-門市人員",
           "tag": "div",
-          "clicks": 347,
+          "clicks": 95,
           "selector": "div.act-item"
         },
         {
           "text": "應用場景-上一張",
           "tag": "div",
-          "clicks": 312,
+          "clicks": 86,
           "selector": "div.swiper-button-prev.swiper-button-disabled"
         },
         {
-          "text": "為何適合製造業-管理者",
+          "text": "成功案例-上一張",
           "tag": "div",
-          "clicks": 210,
+          "clicks": 65,
+          "selector": "div.swiper-button-prev.swiper-button-disabled"
+        },
+        {
+          "text": "為何適合流通業-倉儲人員",
+          "tag": "div",
+          "clicks": 47,
           "selector": "div.act-item"
         },
         {
-          "text": "為何適合製造業-研發部",
+          "text": "為何適合流通業-總部管理者",
           "tag": "div",
-          "clicks": 193,
+          "clicks": 41,
           "selector": "div.act-item"
-        },
-        {
-          "text": "nav-成功案例",
-          "tag": "a",
-          "clicks": 66,
-          "selector": "a.nav-link"
         },
         {
           "text": "nav-產品優勢",
           "tag": "a",
-          "clicks": 62,
+          "clicks": 28,
+          "selector": "a.nav-link"
+        },
+        {
+          "text": "nav-成功案例",
+          "tag": "a",
+          "clicks": 27,
+          "selector": "a.nav-link"
+        },
+        {
+          "text": "nav-為何適合流通業",
+          "tag": "a",
+          "clicks": 10,
           "selector": "a.nav-link"
         },
         {
           "text": "nav-生成式AI數智員工",
           "tag": "a",
-          "clicks": 54,
-          "selector": "a.nav-link"
-        },
-        {
-          "text": "nav-為何適合製造業",
-          "tag": "a",
-          "clicks": 37,
+          "clicks": 10,
           "selector": "a.nav-link"
         },
         {
           "text": "應用場景-分頁2",
           "tag": "span",
-          "clicks": 31,
+          "clicks": 7,
           "selector": "span.swiper-pagination-bullet"
         },
         {
-          "text": "應用場景-分頁3",
-          "tag": "span",
-          "clicks": 21,
-          "selector": "span.swiper-pagination-bullet"
+          "text": "成功案例-振宇五金-ReadMore",
+          "tag": "a",
+          "clicks": 7,
+          "selector": "a.btn-link"
         },
         {
           "text": "nav-立即諮詢",
           "tag": "a",
-          "clicks": 16,
+          "clicks": 6,
           "selector": "a.nav-link"
+        },
+        {
+          "text": "應用場景-分頁3",
+          "tag": "span",
+          "clicks": 5,
+          "selector": "span.swiper-pagination-bullet"
         },
         {
           "text": "應用場景-分頁4",
           "tag": "span",
-          "clicks": 16,
+          "clicks": 5,
           "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "應用場景-分頁1",
-          "tag": "span",
-          "clicks": 14,
-          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
         },
         {
           "text": "應用場景-分頁5",
           "tag": "span",
-          "clicks": 13,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "應用場景-分頁6",
-          "tag": "span",
-          "clicks": 12,
+          "clicks": 5,
           "selector": "span.swiper-pagination-bullet"
         },
         {
           "text": "應用場景-分頁7",
           "tag": "span",
-          "clicks": 10,
+          "clicks": 5,
           "selector": "span.swiper-pagination-bullet"
         },
         {
-          "text": "成功案例-臺灣輔康-ReadMore",
+          "text": "應用場景-分頁6",
+          "tag": "span",
+          "clicks": 4,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "成功案例-豐喜食品-圖片",
           "tag": "a",
-          "clicks": 9,
+          "clicks": 4,
+          "selector": "a.logo-wrap"
+        },
+        {
+          "text": "成功案例-歐亞科技-ReadMore",
+          "tag": "a",
+          "clicks": 4,
           "selector": "a.btn-link"
         },
         {
-          "text": "成功案例-凱明塑膠-ReadMore",
+          "text": "成功案例-美科實業-ReadMore",
           "tag": "a",
-          "clicks": 5,
+          "clicks": 3,
           "selector": "a.btn-link"
         },
         {
-          "text": "成功案例-越南萬德福-ReadMore",
+          "text": "成功案例-綠的國際-ReadMore",
           "tag": "a",
-          "clicks": 5,
+          "clicks": 3,
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "成功案例-昇曜國際-ReadMore",
+          "tag": "a",
+          "clicks": 3,
           "selector": "a.btn-link"
         },
         {
           "text": "header-立即諮詢",
           "tag": "a",
-          "clicks": 4,
+          "clicks": 2,
           "selector": "a.btn.act-btn"
         },
         {
-          "text": "成功案例-宇仁醫材-ReadMore",
+          "text": "應用場景-分頁1",
+          "tag": "span",
+          "clicks": 2,
+          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
+        },
+        {
+          "text": "成功案例-德典生技-ReadMore",
           "tag": "a",
-          "clicks": 4,
+          "clicks": 2,
           "selector": "a.btn-link"
         }
       ],
       "redundantElements": [
+        {
+          "text": "成功案例-豐喜食品-ReadMore",
+          "tag": "a",
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "成功案例-大武山牧場-ReadMore",
+          "tag": "a",
+          "selector": "a.btn-link"
+        },
         {
           "text": "關閉工具列",
           "tag": "button",
@@ -2112,54 +2516,60 @@ window.dashboardData = {
       "filename": "smarterp.html",
       "title": "SmartERP：專為中小企業打造的AI ERP，模組彈性擴充管理超Smart |鼎新數智",
       "path": "/dsc/solution/WB002839/AISM",
-      "totalClicks": 2729,
-      "keyCount": 27,
-      "redundantCount": 12,
+      "totalClicks": 3088,
+      "keyCount": 28,
+      "redundantCount": 11,
       "keyElements": [
         {
           "text": "smarterp-應用場景-下一張",
           "tag": "div",
-          "clicks": 940,
+          "clicks": 1030,
           "selector": "div.swiper-button-next"
         },
         {
           "text": "smarterp-應用場景-上一張",
           "tag": "div",
-          "clicks": 487,
+          "clicks": 526,
           "selector": "div.swiper-button-prev"
+        },
+        {
+          "text": "smarterp-為何適合中小企業-採購人員",
+          "tag": "div",
+          "clicks": 319,
+          "selector": "div.act-item"
         },
         {
           "text": "smarterp-為何適合中小企業-財會人員",
           "tag": "div",
-          "clicks": 252,
+          "clicks": 288,
           "selector": "div.act-item"
         },
         {
           "text": "smarterp-為何適合中小企業-生產人員",
           "tag": "div",
-          "clicks": 248,
-          "selector": "div.act-item"
-        },
-        {
-          "text": "smarterp-為何適合中小企業-採購人員",
-          "tag": "div",
-          "clicks": 247,
+          "clicks": 263,
           "selector": "div.act-item"
         },
         {
           "text": "smarterp-為何適合中小企業-管理者與其他員工",
           "tag": "div",
-          "clicks": 193,
+          "clicks": 224,
           "selector": "div.act-item"
         },
         {
           "text": "smarterp-nav-成功案例",
           "tag": "a",
-          "clicks": 48,
+          "clicks": 57,
           "selector": "a.nav-link"
         },
         {
           "text": "smarterp-nav-產品優勢",
+          "tag": "a",
+          "clicks": 50,
+          "selector": "a.nav-link"
+        },
+        {
+          "text": "smarterp-nav-生成式AI數智員工",
           "tag": "a",
           "clicks": 45,
           "selector": "a.nav-link"
@@ -2167,32 +2577,32 @@ window.dashboardData = {
         {
           "text": "smarterp-nav-為何適合中小企業",
           "tag": "a",
-          "clicks": 36,
-          "selector": "a.nav-link"
-        },
-        {
-          "text": "smarterp-nav-生成式AI數智員工",
-          "tag": "a",
-          "clicks": 36,
+          "clicks": 41,
           "selector": "a.nav-link"
         },
         {
           "text": "smarterp-nav-立即諮詢",
           "tag": "a",
-          "clicks": 12,
+          "clicks": 14,
           "selector": "a.nav-link"
         },
         {
           "text": "smarterp-header-立即諮詢",
           "tag": "a",
-          "clicks": 9,
+          "clicks": 13,
           "selector": "a.btn.act-btn"
         },
         {
           "text": "smarterp-應用場景-分頁1",
           "tag": "span",
-          "clicks": 8,
+          "clicks": 10,
           "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "smarterp-成功案例-亞果元素-ReadMore",
+          "tag": "a",
+          "clicks": 7,
+          "selector": "a.btn-link"
         },
         {
           "text": "smarterp-產品優勢-電子表單、簽核",
@@ -2201,10 +2611,28 @@ window.dashboardData = {
           "selector": "a.act-item.act-item02"
         },
         {
-          "text": "smarterp-成功案例-亞果元素-ReadMore",
+          "text": "smarterp-產品優勢-電子發票整合",
+          "tag": "a",
+          "clicks": 6,
+          "selector": "a.act-item.act-item03"
+        },
+        {
+          "text": "smarterp-成功案例-旭晟精密-ReadMore",
           "tag": "a",
           "clicks": 6,
           "selector": "a.btn-link"
+        },
+        {
+          "text": "smarterp-成功案例-鈺興豐企業-ReadMore",
+          "tag": "a",
+          "clicks": 6,
+          "selector": "a.btn-link"
+        },
+        {
+          "text": "smarterp-應用場景-分頁2",
+          "tag": "span",
+          "clicks": 5,
+          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
         },
         {
           "text": "smarterp-產品優勢-薪資、考勤系統",
@@ -2213,45 +2641,33 @@ window.dashboardData = {
           "selector": "a.act-item.act-item01"
         },
         {
-          "text": "smarterp-產品優勢-電子發票整合",
-          "tag": "a",
-          "clicks": 5,
-          "selector": "a.act-item.act-item03"
-        },
-        {
-          "text": "smarterp-成功案例-旭晟精密-ReadMore",
-          "tag": "a",
-          "clicks": 5,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "smarterp-成功案例-鈺興豐企業-ReadMore",
-          "tag": "a",
-          "clicks": 5,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "smarterp-應用場景-分頁2",
-          "tag": "span",
-          "clicks": 4,
-          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
-        },
-        {
           "text": "smarterp-產品優勢-條碼管理系統",
           "tag": "a",
-          "clicks": 4,
+          "clicks": 5,
           "selector": "a.act-item.act-item04"
         },
         {
           "text": "smarterp-產品優勢-電商整合系統",
           "tag": "a",
-          "clicks": 4,
+          "clicks": 5,
           "selector": "a.act-item.act-item05"
         },
         {
           "text": "smarterp-應用場景-分頁3",
           "tag": "span",
-          "clicks": 3,
+          "clicks": 4,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "smarterp-應用場景-分頁5",
+          "tag": "span",
+          "clicks": 4,
+          "selector": "span.swiper-pagination-bullet"
+        },
+        {
+          "text": "smarterp-應用場景-分頁7",
+          "tag": "span",
+          "clicks": 4,
           "selector": "span.swiper-pagination-bullet"
         },
         {
@@ -2261,30 +2677,19 @@ window.dashboardData = {
           "selector": "span.swiper-pagination-bullet"
         },
         {
-          "text": "smarterp-應用場景-分頁5",
-          "tag": "span",
-          "clicks": 3,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "smarterp-應用場景-分頁7",
-          "tag": "span",
-          "clicks": 2,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
           "text": "smarterp-成功案例-旭泰玻璃纖維-ReadMore",
           "tag": "a",
-          "clicks": 2,
+          "clicks": 3,
           "selector": "a.btn-link"
-        }
-      ],
-      "redundantElements": [
+        },
         {
           "text": "smarterp-應用場景-分頁6",
           "tag": "span",
+          "clicks": 2,
           "selector": "span.swiper-pagination-bullet"
-        },
+        }
+      ],
+      "redundantElements": [
         {
           "text": "關閉工具列",
           "tag": "button",
@@ -2339,407 +2744,6 @@ window.dashboardData = {
           "text": "訂閱電子報",
           "tag": "li",
           "selector": "li"
-        }
-      ]
-    },
-    {
-      "filename": "erp-all.html",
-      "title": "智慧ERP解決方案，台灣首選企業資源規劃專家|鼎新數智",
-      "path": "/ERP/erp-all.html",
-      "totalClicks": 6440,
-      "keyCount": 64,
-      "redundantCount": 1,
-      "keyElements": [
-        {
-          "text": "導覽列-解決方案",
-          "tag": "a",
-          "clicks": 797,
-          "selector": "a.swiper-slide.nav-btn"
-        },
-        {
-          "text": "導覽列-量身規劃",
-          "tag": "a",
-          "clicks": 715,
-          "selector": "a.swiper-slide.nav-btn"
-        },
-        {
-          "text": "導覽列-數據智慧化",
-          "tag": "a",
-          "clicks": 595,
-          "selector": "a.swiper-slide.nav-btn"
-        },
-        {
-          "text": "導覽列-LOGO",
-          "tag": "a",
-          "clicks": 437,
-          "selector": "a.navbar-brand.d-none"
-        },
-        {
-          "text": "導覽列-常見問題",
-          "tag": "a",
-          "clicks": 382,
-          "selector": "a.swiper-slide.nav-btn"
-        },
-        {
-          "text": "常見問題-如何選擇適合我們公司的ERP",
-          "tag": "div",
-          "clicks": 334,
-          "selector": "div.QA"
-        },
-        {
-          "text": "常見問題-鼎新ERP的優勢有哪些",
-          "tag": "div",
-          "clicks": 281,
-          "selector": "div.QA"
-        },
-        {
-          "text": "常見問題-ERP系統導入需要多長的時間",
-          "tag": "div",
-          "clicks": 260,
-          "selector": "div.QA"
-        },
-        {
-          "text": "導覽列-預約Demo",
-          "tag": "a",
-          "clicks": 213,
-          "selector": "a.swiper-slide.nav-btn"
-        },
-        {
-          "text": "常見問題-如何評估ERP導入後的效益",
-          "tag": "div",
-          "clicks": 170,
-          "selector": "div.QA"
-        },
-        {
-          "text": "常見問題-ERP系統的售後服務與持續升級服務",
-          "tag": "div",
-          "clicks": 158,
-          "selector": "div.QA"
-        },
-        {
-          "text": "常見問題-什麼是ERP系統",
-          "tag": "div",
-          "clicks": 156,
-          "selector": "div.QA"
-        },
-        {
-          "text": "常見問題-ERP系統能確保我的資訊安全嗎",
-          "tag": "div",
-          "clicks": 137,
-          "selector": "div.QA"
-        },
-        {
-          "text": "主視覺-預約諮詢服務",
-          "tag": "a",
-          "clicks": 123,
-          "selector": "a.btn.act-btn"
-        },
-        {
-          "text": "量身規劃製造業-機械業",
-          "tag": "a",
-          "clicks": 90,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃企業規模-中小型企業SmartERP",
-          "tag": "a",
-          "clicks": 87,
-          "selector": "a.act-item"
-        },
-        {
-          "text": "量身規劃製造業-more",
-          "tag": "a",
-          "clicks": 86,
-          "selector": "a.btn-link.btn-more"
-        },
-        {
-          "text": "量身規劃製造業-工程業",
-          "tag": "a",
-          "clicks": 81,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "AiGP區-中小企業SmartERP",
-          "tag": "a",
-          "clicks": 74,
-          "selector": "a.btn-AIGP.btn-AIGP02"
-        },
-        {
-          "text": "量身規劃流通業-食品業",
-          "tag": "a",
-          "clicks": 62,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃企業規模-小微型企業A1",
-          "tag": "a",
-          "clicks": 60,
-          "selector": "a.act-item"
-        },
-        {
-          "text": "AiGP區-製造業Workflow",
-          "tag": "a",
-          "clicks": 56,
-          "selector": "a.btn-AIGP.btn-AIGP04"
-        },
-        {
-          "text": "量身規劃流通業-more",
-          "tag": "a",
-          "clicks": 56,
-          "selector": "a.btn-link.btn-more"
-        },
-        {
-          "text": "量身規劃製造業-電子業",
-          "tag": "a",
-          "clicks": 55,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃製造業-金屬業",
-          "tag": "a",
-          "clicks": 48,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃-分頁依企業規模選擇",
-          "tag": "div",
-          "clicks": 48,
-          "selector": "div.tab-nav.tab-nav02"
-        },
-        {
-          "text": "量身規劃製造業-汽機車業",
-          "tag": "a",
-          "clicks": 47,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃企業規模-中大型製造業WorkflowERPGP",
-          "tag": "a",
-          "clicks": 41,
-          "selector": "a.act-item"
-        },
-        {
-          "text": "導覽列-手機選單展開鈕",
-          "tag": "div",
-          "clicks": 39,
-          "selector": "div.toggle-arrow.d-block"
-        },
-        {
-          "text": "量身規劃製造業-塑膠業",
-          "tag": "a",
-          "clicks": 39,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃企業規模-集團型企業T100",
-          "tag": "a",
-          "clicks": 39,
-          "selector": "a.act-item"
-        },
-        {
-          "text": "導覽列-電話0800009890",
-          "tag": "a",
-          "clicks": 36,
-          "selector": "a.swiper-slide.nav-btn"
-        },
-        {
-          "text": "量身規劃流通業-餐飲業",
-          "tag": "a",
-          "clicks": 34,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "全程價值服務-了解更多",
-          "tag": "a",
-          "clicks": 33,
-          "selector": "a.btn.act-btn"
-        },
-        {
-          "text": "AI助理切換鈕-2",
-          "tag": "span",
-          "clicks": 32,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "AiGP區-企業流程BPM",
-          "tag": "a",
-          "clicks": 31,
-          "selector": "a.btn-AIGP.btn-AIGP01"
-        },
-        {
-          "text": "量身規劃-我想諮詢專人",
-          "tag": "a",
-          "clicks": 31,
-          "selector": "a.btn.act-btn"
-        },
-        {
-          "text": "常見問題推薦閱讀-ERP系統挑選4大方向",
-          "tag": "a",
-          "clicks": 30,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "AiGP區-立即諮詢AiGP應用",
-          "tag": "a",
-          "clicks": 29,
-          "selector": "a.btn-center.btn-scroll"
-        },
-        {
-          "text": "全方位管理應用-進銷存管理",
-          "tag": "a",
-          "clicks": 29,
-          "selector": "a.act-item.act-item01"
-        },
-        {
-          "text": "量身規劃-分頁依行業選擇",
-          "tag": "div",
-          "clicks": 28,
-          "selector": "div.tab-nav.tab-nav01"
-        },
-        {
-          "text": "量身規劃製造業-醫材業",
-          "tag": "a",
-          "clicks": 27,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃流通業-網購業",
-          "tag": "a",
-          "clicks": 25,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "全方位管理應用-生產製造管理",
-          "tag": "a",
-          "clicks": 25,
-          "selector": "a.act-item.act-item02"
-        },
-        {
-          "text": "AI助理切換鈕-3",
-          "tag": "span",
-          "clicks": 25,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "AiGP區-人資管理HRM",
-          "tag": "a",
-          "clicks": 23,
-          "selector": "a.btn-AIGP.btn-AIGP03"
-        },
-        {
-          "text": "全方位管理應用-財務會計管理",
-          "tag": "a",
-          "clicks": 23,
-          "selector": "a.act-item.act-item07"
-        },
-        {
-          "text": "AI助理切換鈕-4",
-          "tag": "span",
-          "clicks": 23,
-          "selector": "span.swiper-pagination-bullet"
-        },
-        {
-          "text": "量身規劃流通業-連鎖通路",
-          "tag": "a",
-          "clicks": 19,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "AI助理切換鈕-1",
-          "tag": "span",
-          "clicks": 18,
-          "selector": "span.swiper-pagination-bullet.swiper-pagination-bullet-active"
-        },
-        {
-          "text": "全方位管理應用-客戶關係管理",
-          "tag": "a",
-          "clicks": 15,
-          "selector": "a.act-item.act-item04"
-        },
-        {
-          "text": "常見問題推薦閱讀-ERP是什麼？",
-          "tag": "a",
-          "clicks": 15,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "量身規劃流通業-服飾業",
-          "tag": "a",
-          "clicks": 14,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "量身規劃企業規模-中大型流通業CosmosERP",
-          "tag": "a",
-          "clicks": 14,
-          "selector": "a.act-item"
-        },
-        {
-          "text": "量身規劃流通業-設備代理",
-          "tag": "a",
-          "clicks": 13,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "全方位管理應用-人力資源管理",
-          "tag": "a",
-          "clicks": 13,
-          "selector": "a.act-item.act-item05"
-        },
-        {
-          "text": "全方位管理應用-企業流程Ｅ化",
-          "tag": "a",
-          "clicks": 12,
-          "selector": "a.act-item.act-item08"
-        },
-        {
-          "text": "全方位管理應用-研發資源管理",
-          "tag": "a",
-          "clicks": 11,
-          "selector": "a.act-item.act-item06"
-        },
-        {
-          "text": "常見問題推薦閱讀-ERP廠商挑選原則",
-          "tag": "a",
-          "clicks": 10,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "常見問題推薦閱讀-導入ERP的注意事項",
-          "tag": "a",
-          "clicks": 10,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "全方位管理應用-企業資安防護",
-          "tag": "a",
-          "clicks": 7,
-          "selector": "a.act-item.act-item03"
-        },
-        {
-          "text": "量身規劃流通業-美妝業",
-          "tag": "a",
-          "clicks": 6,
-          "selector": "a.act-btn"
-        },
-        {
-          "text": "常見問題推薦閱讀-用戶服務平台",
-          "tag": "a",
-          "clicks": 6,
-          "selector": "a.btn-link"
-        },
-        {
-          "text": "常見問題推薦閱讀-資訊安全服務",
-          "tag": "a",
-          "clicks": 5,
-          "selector": "a.btn-link"
-        }
-      ],
-      "redundantElements": [
-        {
-          "text": "導覽列-LOGO",
-          "tag": "a",
-          "selector": "a.logo.d-block"
         }
       ]
     }
