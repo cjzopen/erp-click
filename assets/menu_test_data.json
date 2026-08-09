@@ -3,793 +3,901 @@
     "pagePath": "/",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 1531
+    "count": 1703
   },
   {
     "pagePath": "/",
     "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 1093
+    "count": 1226
   },
   {
     "pagePath": "/",
     "click_text": "level1-案例-old",
     "click_url": "(not set)",
-    "count": 684
+    "count": 770
   },
   {
     "pagePath": "/",
     "click_text": "level1-服務-old",
     "click_url": "(not set)",
-    "count": 657
+    "count": 748
   },
   {
     "pagePath": "/",
     "click_text": "level1-關於-old",
     "click_url": "(not set)",
-    "count": 608
+    "count": 675
   },
   {
     "pagePath": "/",
     "click_text": "phone-nav-old",
     "click_url": "https://www.digiwin.com.tw/#mmenu",
-    "count": 571
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "(not set)",
-    "count": 535
+    "count": 623
   },
   {
     "pagePath": "/",
     "click_text": "level1-活動-old",
     "click_url": "(not set)",
-    "count": 517
+    "count": 597
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 594
   },
   {
     "pagePath": "/",
     "click_text": "level1-知識-old",
     "click_url": "(not set)",
-    "count": 493
+    "count": 553
   },
   {
     "pagePath": "/",
     "click_text": "level2-AI 解決方案-old",
     "click_url": "(not set)",
-    "count": 380
+    "count": 418
   },
   {
     "pagePath": "/",
     "click_text": "level1-方案-old",
     "click_url": "https://www.digiwin.com.tw/#",
-    "count": 363
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
-    "count": 252
+    "count": 402
   },
   {
     "pagePath": "/",
     "click_text": "level2-產品與軟體-old",
     "click_url": "(not set)",
-    "count": 251
+    "count": 283
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "javascript:;",
+    "count": 277
   },
   {
     "pagePath": "/software/WF/WF",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 243
+    "count": 265
   },
   {
     "pagePath": "/",
     "click_text": "level2-智能+應用-old",
     "click_url": "(not set)",
-    "count": 233
+    "count": 258
   },
   {
     "pagePath": "/",
     "click_text": "level1-方案-old",
     "click_url": "",
-    "count": 224
+    "count": 256
   },
   {
     "pagePath": "/",
     "click_text": "level1-關於-old",
     "click_url": "https://www.digiwin.com.tw/aboutdsc",
-    "count": 214
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 199
+    "count": 235
   },
   {
     "pagePath": "/",
     "click_text": "level1-案例-old",
     "click_url": "https://www.digiwin.com.tw/case",
-    "count": 197
+    "count": 216
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 213
   },
   {
     "pagePath": "/",
     "click_text": "level2-OT應用-old",
     "click_url": "(not set)",
-    "count": 184
+    "count": 203
   },
   {
     "pagePath": "/",
     "click_text": "level1-行業-old",
     "click_url": "javascript:;",
-    "count": 177
+    "count": 202
   },
   {
     "pagePath": "/",
     "click_text": "level2-新零售-old",
     "click_url": "(not set)",
-    "count": 171
+    "count": 190
   },
   {
     "pagePath": "/",
     "click_text": "level2-應用領域-old",
     "click_url": "(not set)",
-    "count": 165
+    "count": 185
   },
   {
     "pagePath": "/",
     "click_text": "level2-雲平台/雲應用-old",
     "click_url": "(not set)",
-    "count": 164
+    "count": 184
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 164
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 153
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-服務-old",
-    "click_url": "javascript:;",
-    "count": 151
+    "count": 172
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 148
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 145
+    "count": 168
   },
   {
     "pagePath": "/",
-    "click_text": "level1-關於-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 140
+    "click_text": "level1-服務-old",
+    "click_url": "javascript:;",
+    "count": 167
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 164
   },
   {
     "pagePath": "/",
     "click_text": "level1-方案-old",
     "click_url": "javascript:;",
-    "count": 139
+    "count": 156
   },
   {
-    "pagePath": "/case",
-    "click_text": "level1-行業-old",
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-服務-old",
     "click_url": "(not set)",
-    "count": 138
+    "count": 156
   },
   {
     "pagePath": "/",
     "click_text": "level2-AI 解決方案-old",
     "click_url": "https://www.digiwin.com.tw/#",
-    "count": 135
+    "count": 154
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 152
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-關於-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 148
   },
   {
     "pagePath": "/case",
     "click_text": "level1-服務-old",
     "click_url": "(not set)",
-    "count": 133
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "https://www.digiwin.com.tw/servicepoint",
-    "count": 130
+    "count": 147
   },
   {
     "pagePath": "/",
     "click_text": "logo-old",
     "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 129
+    "count": 144
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "https://www.digiwin.com.tw/servicepoint",
+    "count": 143
   },
   {
     "pagePath": "/",
     "click_text": "level1-行業-old",
     "click_url": "",
-    "count": 128
+    "count": 142
   },
   {
     "pagePath": "/",
     "click_text": "level2-了解智能+全方案-old",
     "click_url": "(not set)",
-    "count": 125
+    "count": 140
   },
   {
     "pagePath": "/case",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 125
+    "count": 137
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 125
+    "count": 129
   },
   {
     "pagePath": "/aboutdsc",
     "click_text": "level1-關於-new",
     "click_url": "(not set)",
-    "count": 113
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 113
+    "count": 125
   },
   {
     "pagePath": "/",
     "click_text": "level1-聯繫我們-old",
     "click_url": "",
-    "count": 110
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "javascript:;",
-    "count": 110
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-行業-old",
-    "click_url": "javascript:;",
-    "count": 107
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "(not set)",
-    "count": 105
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 104
+    "count": 123
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 101
+    "count": 123
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 121
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 120
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "javascript:;",
+    "count": 118
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-服務-old",
+    "click_url": "",
+    "count": 112
   },
   {
     "pagePath": "/",
     "click_text": "level2-智働家族-old",
     "click_url": "(not set)",
-    "count": 100
+    "count": 112
   },
   {
     "pagePath": "/software/WF/WF",
     "click_text": "level1-方案-old",
     "click_url": "",
-    "count": 99
+    "count": 112
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 94
-  },
-  {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 93
+    "pagePath": "/case",
+    "click_text": "level1-行業-old",
+    "click_url": "javascript:;",
+    "count": 111
   },
   {
     "pagePath": "/",
     "click_text": "level2-產品與軟體-old",
     "click_url": "https://www.digiwin.com.tw/#",
-    "count": 92
+    "count": 102
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 102
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 102
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-方案-new",
+    "click_url": "(not set)",
+    "count": 101
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 101
   },
   {
     "pagePath": "/",
     "click_text": "level2-流通業-old",
     "click_url": "(not set)",
-    "count": 91
+    "count": 100
   },
   {
     "pagePath": "/aboutdsc",
     "click_text": "level1-聯絡我們-new",
     "click_url": "(not set)",
-    "count": 89
-  },
-  {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-方案-new",
-    "click_url": "(not set)",
-    "count": 89
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "(not set)",
-    "count": 89
+    "count": 98
   },
   {
     "pagePath": "/case",
     "click_text": "level1-活動-old",
     "click_url": "(not set)",
-    "count": 88
+    "count": 98
   },
   {
-    "pagePath": "/aboutdsc",
+    "pagePath": "/dsc/Agent-Space/index",
     "click_text": "level1-方案-new",
     "click_url": "(not set)",
-    "count": 87
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-服務-old",
-    "click_url": "javascript:;",
-    "count": 87
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 87
+    "count": 98
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 87
+    "count": 98
   },
   {
     "pagePath": "/",
     "click_text": "level1-行業-old",
     "click_url": "https://www.digiwin.com.tw/#",
-    "count": 86
+    "count": 97
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-案例-old",
+    "click_url": "javascript:;",
+    "count": 96
   },
   {
     "pagePath": "/case",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 85
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 85
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-案例-old",
+    "click_text": "level1-服務-old",
     "click_url": "javascript:;",
-    "count": 84
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-知識-old",
-    "click_url": "javascript:;",
-    "count": 84
+    "count": 95
   },
   {
     "pagePath": "/contact/eform",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 83
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
-    "count": 82
+    "count": 94
   },
   {
     "pagePath": "/",
     "click_text": "level1-關於-old",
     "click_url": "",
-    "count": 81
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 81
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 79
+    "count": 93
   },
   {
     "pagePath": "/aboutdsc",
     "click_text": "level1-行業-new",
     "click_url": "(not set)",
-    "count": 79
+    "count": 92
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 92
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 91
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-關於-old",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
-    "count": 77
+    "count": 91
   },
   {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level1-方案-old",
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
-    "count": 76
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "https://www.digiwin.com.tw/servicepoint",
-    "count": 75
+    "count": 91
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
     "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 75
+    "count": 89
   },
   {
     "pagePath": "/",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "https://www.digiwin.com.tw/contact/eform",
-    "count": 72
+    "click_text": "level1-知識-old",
+    "click_url": "javascript:;",
+    "count": 88
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 88
   },
   {
     "pagePath": "/",
     "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
-    "count": 70
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 70
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 69
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-知識-old",
-    "click_url": "",
-    "count": 68
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 68
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
+    "count": 85
   },
   {
     "pagePath": "/contact/eform",
     "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
-    "count": 67
+    "click_url": "https://www.digiwin.com.tw/servicepoint",
+    "count": 83
   },
   {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 67
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-活動-old",
-    "click_url": "",
-    "count": 65
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 65
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
-    "count": 64
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-其他行業-old",
-    "click_url": "(not set)",
-    "count": 63
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-服務-new",
-    "click_url": "(not set)",
-    "count": 63
-  },
-  {
-    "pagePath": "/",
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level1-關於-old",
-    "click_url": "javascript:;",
-    "count": 62
-  },
-  {
-    "pagePath": "/blog/index",
-    "click_text": "level1-知識-old",
     "click_url": "(not set)",
-    "count": 60
+    "count": 83
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
     "click_text": "level1-方案-new",
     "click_url": "",
-    "count": 60
+    "count": 81
   },
   {
-    "pagePath": "/case",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
-    "count": 59
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 81
   },
   {
     "pagePath": "/",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "https://www.digiwin.com.tw/contact/eform",
+    "count": 80
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
     "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/T100/",
-    "count": 58
+    "click_url": "(not set)",
+    "count": 80
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-案例-old",
+    "click_url": "",
+    "count": 76
   },
   {
     "pagePath": "/",
     "click_text": "level1-活動-old",
-    "click_url": "javascript:;",
-    "count": 57
+    "click_url": "",
+    "count": 76
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 75
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
+    "count": 74
   },
   {
     "pagePath": "/",
     "click_text": "level2-智能+應用-old",
-    "click_url": "javascript:;",
-    "count": 57
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 74
   },
   {
     "pagePath": "/",
-    "click_text": "search-btn-old",
+    "click_text": "level1-知識-old",
     "click_url": "",
-    "count": 57
+    "count": 72
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-服務-new",
+    "click_url": "(not set)",
+    "count": 71
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 71
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-關於-old",
+    "click_url": "javascript:;",
+    "count": 70
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
+    "count": 70
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-其他行業-old",
+    "click_url": "(not set)",
+    "count": 70
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "javascript:;",
+    "count": 69
   },
   {
     "pagePath": "/dsc/solution/WB002783/WB00278301",
     "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 57
+    "count": 68
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 67
   },
   {
     "pagePath": "/software/BPM/BPM",
     "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 57
+    "count": 64
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-活動-old",
+    "click_url": "javascript:;",
+    "count": 63
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "javascript:;",
+    "count": 63
   },
   {
     "pagePath": "/software/WF/WF",
     "click_text": "level1-知識-old",
     "click_url": "(not set)",
+    "count": 63
+  },
+  {
+    "pagePath": "/blog/index",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 62
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 62
+  },
+  {
+    "pagePath": "/",
+    "click_text": "search-btn-old",
+    "click_url": "",
+    "count": 61
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-活動與學習-new",
+    "click_url": "(not set)",
+    "count": 61
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/T100/",
+    "count": 60
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-案例-new",
+    "click_url": "(not set)",
+    "count": 59
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/case#mmenu",
+    "count": 59
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 59
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 57
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-OT應用-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 57
+  },
+  {
+    "pagePath": "/activity",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 57
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-應用領域-old",
+    "click_url": "https://www.digiwin.com.tw/#",
     "count": 56
   },
   {
     "pagePath": "/",
     "click_text": "level2-雲平台/雲應用-old",
     "click_url": "javascript:;",
-    "count": 55
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/case#mmenu",
-    "count": 53
+    "count": 56
   },
   {
     "pagePath": "/contact/eform",
     "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 53
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 53
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-活動與學習-new",
-    "click_url": "(not set)",
-    "count": 52
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 52
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-應用領域-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 51
-  },
-  {
-    "pagePath": "/activity",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
-    "count": 51
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-案例-new",
-    "click_url": "(not set)",
-    "count": 50
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 49
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 49
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
-    "count": 48
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-OT應用-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 48
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-方案-old",
-    "click_url": "javascript:;",
-    "count": 48
-  },
-  {
-    "pagePath": "/course",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 48
-  },
-  {
-    "pagePath": "/",
-    "click_text": "search-submit-old",
-    "click_url": "",
-    "count": 47
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/case#",
-    "count": 47
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-流通業-old",
-    "click_url": "javascript:;",
-    "count": 46
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 46
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 46
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-新零售-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 45
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 45
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "(not set)",
-    "count": 45
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
-    "count": 44
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-製造業-old",
-    "click_url": "(not set)",
-    "count": 44
+    "count": 56
   },
   {
     "pagePath": "/aboutdsc",
     "click_text": "level1-關於-new",
     "click_url": "https://www.digiwin.com.tw/aboutdsc",
-    "count": 44
+    "count": 55
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 54
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
+    "count": 53
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-方案-old",
+    "click_url": "javascript:;",
+    "count": 53
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-方案-old",
+    "click_url": "",
+    "count": 53
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
+    "count": 52
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 52
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-流通業-old",
+    "click_url": "javascript:;",
+    "count": 51
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-製造業-old",
+    "click_url": "(not set)",
+    "count": 51
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/case#",
+    "count": 51
+  },
+  {
+    "pagePath": "/course",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 51
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
     "click_text": "level1-行業-new",
     "click_url": "(not set)",
-    "count": 44
+    "count": 51
   },
   {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud",
-    "count": 44
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level2-AI 解決方案-old",
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
-    "count": 44
+    "count": 51
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-案例-old",
     "click_url": "(not set)",
-    "count": 44
+    "count": 51
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-新零售-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 49
+  },
+  {
+    "pagePath": "/",
+    "click_text": "search-submit-old",
+    "click_url": "",
+    "count": 49
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 49
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 49
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
+    "count": 49
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 48
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-案例-old",
+    "click_url": "",
+    "count": 48
   },
   {
     "pagePath": "/",
     "click_text": "level1-活動-old",
     "click_url": "https://www.digiwin.com.tw/course",
-    "count": 43
+    "count": 47
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 47
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-服務-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud",
+    "count": 47
+  },
+  {
+    "pagePath": "/service",
+    "click_text": "level1-聯絡我們-new",
+    "click_url": "https://www.digiwin.com.tw/contact/eform",
+    "count": 47
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-服務-old",
+    "click_url": "",
+    "count": 47
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-服務-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 45
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "javascript:;",
+    "count": 45
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-活動-old",
+    "click_url": "javascript:;",
+    "count": 45
+  },
+  {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-服務-new",
+    "click_url": "(not set)",
+    "count": 45
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
+    "count": 45
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
+    "count": 45
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "(not set)",
+    "count": 45
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-關於-old",
+    "click_url": "https://www.digiwin.com.tw/hr/school/",
+    "count": 44
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-方案-old",
+    "click_url": "",
+    "count": 44
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 44
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-方案-old",
+    "click_url": "",
+    "count": 44
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 44
   },
   {
     "pagePath": "/",
@@ -800,26 +908,26 @@
   {
     "pagePath": "/",
     "click_text": "level2-AI 解決方案-old",
-    "click_url": "javascript:;",
+    "click_url": "",
     "count": 43
   },
   {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-服務-old",
+    "pagePath": "/",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai",
+    "count": 43
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 43
   },
   {
-    "pagePath": "/",
-    "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 42
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 42
+    "pagePath": "/dsc/solution/WB002899/WB00289901",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 43
   },
   {
     "pagePath": "/aboutdsc",
@@ -828,27 +936,21 @@
     "count": 42
   },
   {
-    "pagePath": "/case",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-方案-new",
+    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index#",
     "count": 42
   },
   {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-方案-old",
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-行業-new",
     "click_url": "",
-    "count": 42
-  },
-  {
-    "pagePath": "/dsc/solution/WB002899/WB00289901",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
     "count": 42
   },
   {
     "pagePath": "/service",
     "click_text": "level1-聯絡我們-new",
-    "click_url": "https://www.digiwin.com.tw/contact/eform",
+    "click_url": "(not set)",
     "count": 42
   },
   {
@@ -858,123 +960,99 @@
     "count": 42
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
-    "count": 42
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "(not set)",
-    "count": 42
-  },
-  {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-服務-new",
-    "click_url": "(not set)",
-    "count": 41
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 41
-  },
-  {
     "pagePath": "/software/CM/CM",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 41
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai",
-    "count": 40
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-活動-old",
-    "click_url": "javascript:;",
-    "count": 40
-  },
-  {
-    "pagePath": "/dsc/solution/WB002595/WB00259501",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 40
-  },
-  {
-    "pagePath": "/software/WF/WF",
     "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 40
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-聯繫我們-old",
     "click_url": "(not set)",
-    "count": 40
+    "count": 42
   },
   {
     "pagePath": "/",
     "click_text": "level2-OT應用-old",
     "click_url": "javascript:;",
-    "count": 39
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "",
-    "count": 39
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 39
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "(not set)",
-    "count": 39
-  },
-  {
-    "pagePath": "/dsc/solution/WB002899/WB00289901",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 39
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 39
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-關於-old",
-    "click_url": "https://www.digiwin.com.tw/hr/school/",
-    "count": 38
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "",
-    "count": 38
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-聯絡我們-new",
-    "click_url": "https://www.digiwin.com.tw/servicepoint",
-    "count": 38
+    "count": 41
   },
   {
     "pagePath": "/aboutdsc",
     "click_text": "phone-nav-new",
     "click_url": "",
+    "count": 41
+  },
+  {
+    "pagePath": "/dsc/solution/WB002595/WB00259501",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 41
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 41
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 41
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-應用領域-old",
+    "click_url": "javascript:;",
+    "count": 40
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "",
+    "count": 40
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "",
+    "count": 40
+  },
+  {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-案例-new",
+    "click_url": "(not set)",
+    "count": 40
+  },
+  {
+    "pagePath": "/dsc/solution/WB002899/WB00289901",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 40
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 40
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-聯絡我們-new",
+    "click_url": "https://www.digiwin.com.tw/servicepoint",
+    "count": 39
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-關於-new",
+    "click_url": "",
+    "count": 39
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 38
+  },
+  {
+    "pagePath": "/course",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
     "count": 38
   },
   {
@@ -984,50 +1062,80 @@
     "count": 38
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 38
+    "pagePath": "/",
+    "click_text": "level1-活動-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 37
   },
   {
     "pagePath": "/",
-    "click_text": "level2-應用領域-old",
-    "click_url": "javascript:;",
+    "click_text": "level1-知識-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 37
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-方案-new",
+    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
     "count": 37
   },
   {
     "pagePath": "/contact/eform",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "https://www.digiwin.com.tw/contact/eform",
     "count": 37
+  },
+  {
+    "pagePath": "/course",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 36
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-案例-new",
-    "click_url": "(not set)",
-    "count": 37
-  },
-  {
-    "pagePath": "/service",
-    "click_text": "level1-聯絡我們-new",
-    "click_url": "(not set)",
-    "count": 37
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-方案-old",
+    "click_text": "level1-服務-new",
     "click_url": "",
     "count": 36
   },
   {
-    "pagePath": "/course",
-    "click_text": "level1-知識-old",
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#mmenu",
+    "count": 36
+  },
+  {
+    "pagePath": "/dsc/solution/WB002521/WB00252103",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 36
   },
   {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-服務-old",
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 36
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 36
+  },
+  {
+    "pagePath": "/software/696.html",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 36
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF#",
+    "count": 36
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-智能+應用-old",
     "click_url": "(not set)",
     "count": 36
   },
@@ -1038,64 +1146,130 @@
     "count": 35
   },
   {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-方案-new",
-    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
-    "count": 35
-  },
-  {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-行業-new",
+    "pagePath": "/case",
+    "click_text": "level1-方案-old",
     "click_url": "",
     "count": 35
   },
   {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#mmenu",
+    "pagePath": "/case",
+    "click_text": "level1-服務-old",
+    "click_url": "",
     "count": 35
   },
   {
-    "pagePath": "/dsc/solution/WB002521/WB00252103",
+    "pagePath": "/case",
+    "click_text": "level1-案例-old",
+    "click_url": "javascript:;",
+    "count": 35
+  },
+  {
+    "pagePath": "/dsc/solution/WB002595/WB00259501",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 35
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 35
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 35
+  },
+  {
+    "pagePath": "/search",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 35
   },
   {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
     "count": 35
   },
   {
     "pagePath": "/",
-    "click_text": "level1-活動-old",
-    "click_url": "https://www.digiwin.com.tw/#",
+    "click_text": "level1-服務-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud",
     "count": 34
   },
   {
     "pagePath": "/",
-    "click_text": "level1-知識-old",
-    "click_url": "https://www.digiwin.com.tw/#",
+    "click_text": "level2-製造業-old",
+    "click_url": "javascript:;",
     "count": 34
   },
   {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-聯繫我們-old",
+    "pagePath": "/case",
+    "click_text": "level1-行業-old",
     "click_url": "",
     "count": 34
   },
   {
-    "pagePath": "/course",
-    "click_text": "level1-服務-old",
+    "pagePath": "/contact/eform",
+    "click_text": "level1-知識-old",
     "click_url": "(not set)",
     "count": 34
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
+    "pagePath": "/contact/eform",
+    "click_text": "level1-行業-old",
+    "click_url": "",
     "count": 34
+  },
+  {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-活動與學習-new",
+    "click_url": "",
+    "count": 34
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 34
+  },
+  {
+    "pagePath": "/search",
+    "click_text": "search-submit-old",
+    "click_url": "",
+    "count": 34
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 34
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM#mmenu",
+    "count": 34
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/T100/",
+    "count": 34
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-知識-old",
+    "click_url": "",
+    "count": 34
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-了解智能+全方案-old",
+    "click_url": "https://www.digiwin.com.tw/#",
+    "count": 33
   },
   {
     "pagePath": "/",
@@ -1104,14 +1278,20 @@
     "count": 33
   },
   {
-    "pagePath": "/dsc/Agent-Space/index",
+    "pagePath": "/aboutdsc",
     "click_text": "level1-方案-new",
-    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index#",
+    "click_url": "",
     "count": 33
   },
   {
-    "pagePath": "/dsc/solution/WB002595/WB00259501",
-    "click_text": "level1-行業-old",
+    "pagePath": "/contact/eform",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 33
+  },
+  {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-活動與學習-new",
     "click_url": "(not set)",
     "count": 33
   },
@@ -1122,116 +1302,92 @@
     "count": 33
   },
   {
-    "pagePath": "/software/696.html",
-    "click_text": "level1-方案-old",
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 33
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/T100/",
-    "count": 33
-  },
-  {
     "pagePath": "/",
-    "click_text": "level2-了解智能+全方案-old",
+    "click_text": "level1-聯繫我們-old",
     "click_url": "https://www.digiwin.com.tw/#",
     "count": 32
   },
   {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-方案-new",
-    "click_url": "",
-    "count": 32
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 32
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 32
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 32
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "https://www.digiwin.com.tw/contact/eform",
-    "count": 32
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 32
-  },
-  {
     "pagePath": "/",
-    "click_text": "level2-製造業-old",
+    "click_text": "level2-智働家族-old",
     "click_url": "javascript:;",
-    "count": 31
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-關於-new",
-    "click_url": "",
-    "count": 31
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-案例-old",
-    "click_url": "javascript:;",
-    "count": 31
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 31
+    "count": 32
   },
   {
     "pagePath": "/course",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 31
+    "count": 32
   },
   {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level1-案例-old",
+    "pagePath": "/course",
+    "click_text": "level1-行業-old",
     "click_url": "(not set)",
-    "count": 31
+    "count": 32
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-聯繫我們-old",
+    "click_text": "level1-知識-old",
     "click_url": "(not set)",
-    "count": 31
-  },
-  {
-    "pagePath": "/search",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 31
+    "count": 32
   },
   {
     "pagePath": "/software/CM/CM",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 32
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-行業-old",
+    "click_url": "javascript:;",
+    "count": 32
+  },
+  {
+    "pagePath": "/blog/index",
     "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 31
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-智能+應用-old",
+    "pagePath": "/case",
+    "click_text": "level1-知識-old",
+    "click_url": "javascript:;",
+    "count": 31
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "javascript:;",
+    "count": 31
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-服務-old",
+    "click_url": "",
+    "count": 31
+  },
+  {
+    "pagePath": "/search",
+    "click_text": "search-btn-old",
+    "click_url": "",
+    "count": 31
+  },
+  {
+    "pagePath": "/service",
+    "click_text": "level1-服務-new",
+    "click_url": "(not set)",
+    "count": 31
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-知識-old",
     "click_url": "(not set)",
     "count": 31
   },
@@ -1248,93 +1404,105 @@
     "count": 30
   },
   {
-    "pagePath": "/blog/index",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
+    "pagePath": "/",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
     "count": 30
   },
   {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
+    "pagePath": "/aboutdsc",
+    "click_text": "logo-new",
+    "click_url": "https://www.digiwin.com.tw/images/logo.svg",
     "count": 30
   },
   {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-行業-old",
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-方案-new",
+    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
+    "count": 30
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-方案-old",
     "click_url": "",
     "count": 30
   },
   {
-    "pagePath": "/course",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 30
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
+    "pagePath": "/software/BPM/BPM",
     "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 30
   },
   {
-    "pagePath": "/search",
-    "click_text": "search-submit-old",
-    "click_url": "",
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
     "count": 30
   },
   {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM#mmenu",
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
     "count": 30
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF#",
+    "click_text": "level1-關於-old",
+    "click_url": "",
     "count": 30
   },
   {
-    "pagePath": "/",
-    "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud",
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-聯絡我們-new",
+    "click_url": "",
     "count": 29
   },
   {
-    "pagePath": "/",
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-關於-new",
+    "click_url": "https://www.digiwin.com.tw/aboutdsc.html",
+    "count": 29
+  },
+  {
+    "pagePath": "/case",
     "click_text": "level1-聯繫我們-old",
-    "click_url": "https://www.digiwin.com.tw/#",
-    "count": 29
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-知識-old",
-    "click_url": "javascript:;",
-    "count": 29
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "javascript:;",
+    "click_url": "(not set)",
     "count": 29
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-服務-new",
+    "click_text": "level1-案例-new",
     "click_url": "",
     "count": 29
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-活動與學習-new",
+    "click_text": "phone-nav-new",
+    "click_url": "",
+    "count": 29
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-方案-old",
+    "click_url": "",
+    "count": 29
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "(not set)",
+    "count": 29
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 29
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
     "count": 29
   },
   {
@@ -1344,14 +1512,50 @@
     "count": 29
   },
   {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-活動與學習-new",
-    "click_url": "",
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 29
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
+    "count": 29
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF#mmenu",
+    "count": 29
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
     "count": 28
   },
   {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-雲平台/雲應用-old",
+    "pagePath": "/contact/eform",
+    "click_text": "logo-old",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "count": 28
+  },
+  {
+    "pagePath": "/dsc/industry4/smartFactory",
+    "click_text": "level1-方案-new",
+    "click_url": "(not set)",
+    "count": 28
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 28
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/barcode",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 28
   },
@@ -1362,321 +1566,369 @@
     "count": 28
   },
   {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 28
-  },
-  {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 28
-  },
-  {
-    "pagePath": "/software/BPM/BPM",
+    "pagePath": "/software/WF/WF",
     "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 28
-  },
-  {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
-    "count": 28
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 28
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
-    "count": 28
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-知識-old",
     "click_url": "",
     "count": 28
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF#mmenu",
-    "count": 28
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-智働家族-old",
-    "click_url": "javascript:;",
-    "count": 27
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-關於-new",
-    "click_url": "https://www.digiwin.com.tw/aboutdsc.html",
-    "count": 27
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 27
-  },
-  {
-    "pagePath": "/search",
-    "click_text": "search-btn-old",
-    "click_url": "",
-    "count": 27
-  },
-  {
-    "pagePath": "/service",
-    "click_text": "level1-服務-new",
-    "click_url": "(not set)",
-    "count": 27
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-關於-old",
-    "click_url": "",
-    "count": 27
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 26
   },
   {
     "pagePath": "/blog/index",
     "click_text": "level1-服務-old",
     "click_url": "(not set)",
-    "count": 26
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-活動-old",
-    "click_url": "",
-    "count": 26
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 26
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
-    "count": 26
-  },
-  {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 26
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 26
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "(not set)",
-    "count": 26
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-行業-old",
-    "click_url": "javascript:;",
-    "count": 26
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-聯絡我們-new",
-    "click_url": "",
-    "count": 25
-  },
-  {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-方案-new",
-    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
-    "count": 25
-  },
-  {
-    "pagePath": "/dsc/industry4/smartFactory",
-    "click_text": "level1-方案-new",
-    "click_url": "(not set)",
-    "count": 25
+    "count": 27
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level2-產品與軟體-old",
     "click_url": "javascript:;",
-    "count": 25
+    "count": 27
+  },
+  {
+    "pagePath": "/dsc/solution/WB002675/WB00267501",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 27
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-活動-old",
+    "click_text": "level1-方案-old",
+    "click_url": "",
+    "count": 27
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level2-AI 解決方案-old",
     "click_url": "(not set)",
-    "count": 25
+    "count": 27
   },
   {
     "pagePath": "/dsc/solution/WB002783/WB00278301",
     "click_text": "level1-知識-old",
     "click_url": "(not set)",
-    "count": 25
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 25
+    "count": 27
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "logo-old",
     "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 25
+    "count": 27
   },
   {
-    "pagePath": "/dsc/solution/WB002839/barcode",
-    "click_text": "level1-方案-old",
+    "pagePath": "/service",
+    "click_text": "level1-方案-new",
     "click_url": "(not set)",
-    "count": 25
+    "count": 27
   },
   {
-    "pagePath": "/news",
-    "click_text": "level1-關於-old",
+    "pagePath": "/service",
+    "click_text": "level1-案例-new",
     "click_url": "(not set)",
-    "count": 25
-  },
-  {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "https://www.digiwin.com.tw/contact/eform",
-    "count": 25
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "",
-    "count": 24
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-行業-new",
-    "click_url": "",
-    "count": 24
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "(not set)",
-    "count": 24
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 24
-  },
-  {
-    "pagePath": "/dsc/project/ESG/index",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 24
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 24
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 24
-  },
-  {
-    "pagePath": "/software/696.html",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 24
+    "count": 27
   },
   {
     "pagePath": "/software/708.html",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
-    "count": 24
+    "count": 27
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 24
+    "click_text": "logo-old",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "count": 27
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-活動-old",
+    "pagePath": "/",
+    "click_text": "level2-新零售-old",
     "click_url": "",
-    "count": 24
+    "count": 26
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "",
+    "count": 26
   },
   {
     "pagePath": "/",
     "click_text": "level2-產品與軟體-old",
     "click_url": "https://www.digiwin.com.tw/software/WF/WF",
-    "count": 23
+    "count": 26
   },
   {
     "pagePath": "/aboutdsc",
     "click_text": "level1-案例-new",
     "click_url": "https://www.digiwin.com.tw/case",
-    "count": 23
+    "count": 26
   },
   {
     "pagePath": "/aboutdsc",
-    "click_text": "level1-活動與學習-new",
+    "click_text": "level1-行業-new",
     "click_url": "",
-    "count": 23
+    "count": 26
   },
   {
-    "pagePath": "/blog/index",
+    "pagePath": "/contact/eform",
+    "click_text": "level1-活動-old",
+    "click_url": "",
+    "count": 26
+  },
+  {
+    "pagePath": "/dsc/project/ESG/index",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 26
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
     "click_text": "level1-活動-old",
     "click_url": "(not set)",
-    "count": 23
+    "count": 26
   },
   {
-    "pagePath": "/case",
-    "click_text": "level1-聯繫我們-old",
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-關於-old",
     "click_url": "(not set)",
-    "count": 23
+    "count": 26
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-服務-old",
+    "click_url": "",
+    "count": 26
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 26
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/barcode",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 26
+  },
+  {
+    "pagePath": "/news",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 26
+  },
+  {
+    "pagePath": "/search",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 26
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 26
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "https://www.digiwin.com.tw/contact/eform",
+    "count": 26
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 26
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "",
+    "count": 26
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-OT應用-old",
+    "click_url": "(not set)",
+    "count": 26
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-應用領域-old",
+    "click_url": "",
+    "count": 25
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-服務-old",
+    "click_url": "",
+    "count": 25
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
     "click_text": "level1-關於-new",
     "click_url": "(not set)",
-    "count": 23
+    "count": 25
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level1-方案-old",
+    "click_url": "",
+    "count": 25
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 25
+  },
+  {
+    "pagePath": "/software/696.html",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 25
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "javascript:;",
+    "count": 25
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
+    "count": 25
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-服務-new",
+    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
+    "count": 24
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-活動與學習-new",
+    "click_url": "",
+    "count": 24
+  },
+  {
+    "pagePath": "/blog/index",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 24
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/case#",
+    "count": 24
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 23
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
+    "count": 24
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level1-服務-old",
     "click_url": "javascript:;",
+    "count": 24
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "(not set)",
+    "count": 24
+  },
+  {
+    "pagePath": "/search",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 24
+  },
+  {
+    "pagePath": "/service",
+    "click_text": "level1-活動與學習-new",
+    "click_url": "(not set)",
+    "count": 24
+  },
+  {
+    "pagePath": "/service",
+    "click_text": "level1-行業-new",
+    "click_url": "(not set)",
+    "count": 24
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-服務-old",
+    "click_url": "",
+    "count": 24
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-行業-old",
+    "click_url": "javascript:;",
+    "count": 24
+  },
+  {
+    "pagePath": "/software/717.html",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 24
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-服務-old",
+    "click_url": "javascript:;",
+    "count": 24
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-活動與學習-new",
+    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
+    "count": 23
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "javascript:;",
+    "count": 23
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-案例-old",
+    "click_url": "",
+    "count": 23
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-關於-old",
+    "click_url": "",
+    "count": 23
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "javascript:;",
+    "count": 23
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 23
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
+    "count": 23
+  },
+  {
+    "pagePath": "/dsc/solution/WB002553/WB00255301",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
     "count": 23
   },
   {
@@ -1686,30 +1938,6 @@
     "count": 23
   },
   {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "(not set)",
-    "count": 23
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 23
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 23
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 23
-  },
-  {
     "pagePath": "/dsc/solution/WB002783/WB00278301",
     "click_text": "level2-產品與軟體-old",
     "click_url": "javascript:;",
@@ -1717,32 +1945,20 @@
   },
   {
     "pagePath": "/search",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 23
-  },
-  {
-    "pagePath": "/search",
-    "click_text": "level1-行業-old",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 23
   },
   {
     "pagePath": "/service",
-    "click_text": "level1-案例-new",
-    "click_url": "(not set)",
+    "click_text": "level1-聯絡我們-new",
+    "click_url": "",
     "count": 23
   },
   {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-方案-old",
+    "pagePath": "/service",
+    "click_text": "level1-關於-new",
     "click_url": "(not set)",
-    "count": 23
-  },
-  {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-行業-old",
-    "click_url": "javascript:;",
     "count": 23
   },
   {
@@ -1752,9 +1968,9 @@
     "count": 23
   },
   {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "javascript:;",
+    "pagePath": "/servicepoint",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/servicepoint#mmenu",
     "count": 23
   },
   {
@@ -1765,103 +1981,61 @@
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
-    "count": 23
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-OT應用-old",
-    "click_url": "(not set)",
-    "count": 23
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-應用領域-old",
-    "click_url": "",
-    "count": 22
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-新零售-old",
-    "click_url": "",
-    "count": 22
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-服務-new",
-    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
-    "count": 22
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "logo-new",
-    "click_url": "https://www.digiwin.com.tw/images/logo.svg",
-    "count": 22
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/case#",
-    "count": 22
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-AI 解決方案-old",
+    "click_text": "level1-聯繫我們-old",
     "click_url": "javascript:;",
+    "count": 23
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-關於-new",
+    "click_url": "https://www.digiwin.com.tw/news",
     "count": 22
   },
   {
-    "pagePath": "/contact/eform",
+    "pagePath": "/course",
     "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 22
-  },
-  {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-案例-new",
-    "click_url": "",
-    "count": 22
-  },
-  {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "phone-nav-new",
-    "click_url": "",
-    "count": 22
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-AI 解決方案-old",
     "click_url": "(not set)",
     "count": 22
   },
   {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 22
-  },
-  {
-    "pagePath": "/dsc/solution/WB002553/WB00255301",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 22
-  },
-  {
-    "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 22
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
+    "pagePath": "/course",
     "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 22
   },
   {
-    "pagePath": "/dsc/solution/WB002839/barcode",
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 22
+  },
+  {
+    "pagePath": "/dsc/solution/WB002476/WB00247601",
     "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 22
+  },
+  {
+    "pagePath": "/dsc/solution/WB002595/WB00259501",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 22
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 22
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM#",
+    "count": 22
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/barcode",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 22
   },
@@ -1872,34 +2046,46 @@
     "count": 22
   },
   {
-    "pagePath": "/service",
-    "click_text": "level1-方案-new",
+    "pagePath": "/resources",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 22
   },
   {
     "pagePath": "/servicepoint",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 22
-  },
-  {
-    "pagePath": "/software/WF/WF",
     "click_text": "level1-聯繫我們-old",
-    "click_url": "",
+    "click_url": "(not set)",
     "count": 22
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
+    "pagePath": "/servicepoint",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
     "count": 22
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "logo-old",
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 22
+  },
+  {
+    "pagePath": "/software/PLM/index",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 22
+  },
+  {
+    "pagePath": "/software/mes/mes",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 22
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-方案-old",
     "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 22
+    "count": 21
   },
   {
     "pagePath": "/",
@@ -1908,9 +2094,21 @@
     "count": 21
   },
   {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-活動與學習-new",
-    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
+    "pagePath": "/",
+    "click_text": "level2-OT應用-old",
+    "click_url": "",
+    "count": 21
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-智働家族-old",
+    "click_url": "",
+    "count": 21
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "https://www.digiwin.com.tw/software/T100/",
     "count": 21
   },
   {
@@ -1920,20 +2118,50 @@
     "count": 21
   },
   {
+    "pagePath": "/case",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "(not set)",
+    "count": 21
+  },
+  {
     "pagePath": "/contact/eform",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
+    "count": 21
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "logo-old",
     "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
     "count": 21
   },
   {
-    "pagePath": "/course",
-    "click_text": "level1-關於-old",
+    "pagePath": "/dsc/solution/WB002741/case",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 21
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
     "click_text": "level2-產品與軟體-old",
+    "click_url": "javascript:;",
+    "count": 21
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-案例-old",
+    "click_url": "",
+    "count": 21
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
+    "count": 21
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/solution",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 21
   },
@@ -1944,25 +2172,13 @@
     "count": 21
   },
   {
-    "pagePath": "/service",
-    "click_text": "level1-關於-new",
+    "pagePath": "/search",
+    "click_text": "level1-聯繫我們-old",
     "click_url": "(not set)",
     "count": 21
   },
   {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 21
-  },
-  {
-    "pagePath": "/servicepoint",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/servicepoint#mmenu",
-    "count": 21
-  },
-  {
-    "pagePath": "/software/BPM/BPM",
+    "pagePath": "/search",
     "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 21
@@ -1974,22 +2190,28 @@
     "count": 21
   },
   {
-    "pagePath": "/",
-    "click_text": "level2-OT應用-old",
-    "click_url": "",
-    "count": 20
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM",
+    "count": 21
   },
   {
-    "pagePath": "/",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "https://www.digiwin.com.tw/software/T100/",
-    "count": 20
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/CM/CM",
+    "count": 21
   },
   {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-關於-new",
-    "click_url": "https://www.digiwin.com.tw/news",
-    "count": 20
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-應用領域-old",
+    "click_url": "(not set)",
+    "count": 21
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "(not set)",
+    "count": 21
   },
   {
     "pagePath": "/blog/index",
@@ -1998,105 +2220,105 @@
     "count": 20
   },
   {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-關於-old",
+    "pagePath": "/case",
+    "click_text": "level1-案例-old",
     "click_url": "",
     "count": 20
   },
   {
-    "pagePath": "/course",
-    "click_text": "level1-案例-old",
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-聯絡我們-new",
+    "click_url": "",
+    "count": 20
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-知識-old",
+    "click_url": "",
+    "count": 20
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level2-應用領域-old",
     "click_url": "(not set)",
     "count": 20
   },
   {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 20
-  },
-  {
-    "pagePath": "/dsc/solution/WB002476/WB00247601",
-    "click_text": "level1-行業-old",
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level2-智能+應用-old",
     "click_url": "(not set)",
     "count": 20
   },
   {
-    "pagePath": "/dsc/solution/WB002595/WB00259501",
-    "click_text": "level1-案例-old",
+    "pagePath": "/dsc/solution/WB002553/WB00255301",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 20
   },
   {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-聯繫我們-old",
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level2-產品與軟體-old",
     "click_url": "(not set)",
     "count": 20
   },
   {
     "pagePath": "/dsc/solution/WB002839/solution",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 20
-  },
-  {
-    "pagePath": "/resources",
-    "click_text": "level1-方案-old",
+    "click_text": "level1-行業-old",
     "click_url": "(not set)",
     "count": 20
   },
   {
     "pagePath": "/search",
-    "click_text": "level1-案例-old",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 20
   },
   {
-    "pagePath": "/search",
+    "pagePath": "/servicepoint",
+    "click_text": "logo-old",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "count": 20
+  },
+  {
+    "pagePath": "/software/708.html",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 20
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
     "click_text": "level1-聯繫我們-old",
     "click_url": "(not set)",
     "count": 20
   },
   {
-    "pagePath": "/search",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 20
-  },
-  {
-    "pagePath": "/software/717.html",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "javascript:;",
     "count": 20
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
     "count": 20
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/CM/CM",
-    "count": 20
-  },
-  {
-    "pagePath": "/software/mes/mes",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 20
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-方案-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 19
   },
   {
     "pagePath": "/",
     "click_text": "level1-關於-old",
     "click_url": "https://www.digiwin.com.tw/news",
+    "count": 19
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-了解智能+全方案-old",
+    "click_url": "",
+    "count": 19
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "",
     "count": 19
   },
   {
@@ -2106,94 +2328,106 @@
     "count": 19
   },
   {
-    "pagePath": "/case",
-    "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 19
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "(not set)",
-    "count": 19
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
-    "count": 19
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 19
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-應用領域-old",
-    "click_url": "(not set)",
-    "count": 19
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "(not set)",
-    "count": 19
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/case",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 19
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM#",
-    "count": 19
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/barcode",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 19
-  },
-  {
-    "pagePath": "/search",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 19
-  },
-  {
-    "pagePath": "/service",
-    "click_text": "level1-活動與學習-new",
-    "click_url": "(not set)",
-    "count": 19
-  },
-  {
-    "pagePath": "/service",
-    "click_text": "level1-聯絡我們-new",
-    "click_url": "",
-    "count": 19
-  },
-  {
-    "pagePath": "/service",
+    "pagePath": "/aboutdsc",
     "click_text": "level1-行業-new",
+    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
+    "count": 19
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-OT應用-old",
+    "click_url": "(not set)",
+    "count": 19
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/contact/eform#mmenu",
+    "count": 19
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "(not set)",
+    "count": 19
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
+    "count": 19
+  },
+  {
+    "pagePath": "/dsc/solution/WB002675/WB00267501",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 19
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/index",
+    "count": 19
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 19
+  },
+  {
+    "pagePath": "/dsc/solution/WB002785/WB00278501",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 19
   },
   {
     "pagePath": "/servicepoint",
-    "click_text": "level1-聯繫我們-old",
+    "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 19
   },
   {
-    "pagePath": "/software/PLM/index",
+    "pagePath": "/software/696.html",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 19
+  },
+  {
+    "pagePath": "/software/696.html",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 19
+  },
+  {
+    "pagePath": "/software/710.html",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 19
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 19
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-方案-old",
+    "click_url": "javascript:;",
+    "count": 19
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "",
+    "count": 19
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 18
   },
   {
     "pagePath": "/",
@@ -2203,73 +2437,85 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "",
+    "click_text": "level2-其他行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002899/WB00289901",
     "count": 18
   },
   {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-行業-new",
-    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
-    "count": 18
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-OT應用-old",
+    "pagePath": "/about/prizes",
+    "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 18
   },
   {
-    "pagePath": "/contact/eform",
-    "click_text": "level2-AI 解決方案-old",
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-關於-new",
+    "click_url": "https://www.digiwin.com.tw/about/prizes",
+    "count": 18
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-關於-new",
+    "click_url": "https://www.digiwin.com.tw/hr/school/",
+    "count": 18
+  },
+  {
+    "pagePath": "/blog/erp/3581.html",
+    "click_text": "level1-方案-new",
+    "click_url": "(not set)",
+    "count": 18
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-了解智能+全方案-old",
+    "click_url": "javascript:;",
+    "count": 18
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "javascript:;",
+    "count": 18
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-流通業-old",
     "click_url": "(not set)",
     "count": 18
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-聯絡我們-new",
-    "click_url": "",
+    "click_text": "level1-方案-new",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai",
     "count": 18
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-知識-old",
+    "click_text": "level1-關於-old",
     "click_url": "",
     "count": 18
   },
   {
-    "pagePath": "/dsc/solution/WB002553/WB00255301",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 18
-  },
-  {
-    "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level1-方案-old",
+    "pagePath": "/dsc/solution/WB002741/case",
+    "click_text": "level1-行業-old",
     "click_url": "(not set)",
     "count": 18
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "javascript:;",
     "count": 18
   },
   {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 18
-  },
-  {
-    "pagePath": "/dsc/solution/WB002785/WB00278501",
+    "pagePath": "/dsc/solution/WB002741/mobile",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 18
   },
   {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-案例-old",
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-方案-old",
     "click_url": "",
     "count": 18
   },
@@ -2286,12 +2532,6 @@
     "count": 18
   },
   {
-    "pagePath": "/dsc/solution/WB002839/solution",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 18
-  },
-  {
     "pagePath": "/dsc/solution/WB002899/WB00289901",
     "click_text": "level1-案例-old",
     "click_url": "https://www.digiwin.com.tw/case",
@@ -2304,75 +2544,33 @@
     "count": 18
   },
   {
-    "pagePath": "/software/696.html",
-    "click_text": "level1-案例-old",
+    "pagePath": "/software/731.html",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 18
   },
   {
-    "pagePath": "/software/708.html",
+    "pagePath": "/software/CM/CM",
     "click_text": "level1-行業-old",
-    "click_url": "(not set)",
+    "click_url": "",
     "count": 18
   },
   {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-聯繫我們-old",
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-新零售-old",
     "click_url": "(not set)",
     "count": 18
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
+    "click_text": "level2-產品與軟體-old",
     "click_url": "javascript:;",
     "count": 18
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "",
-    "count": 18
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-應用領域-old",
-    "click_url": "(not set)",
-    "count": 18
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "(not set)",
-    "count": 18
-  },
-  {
     "pagePath": "/",
-    "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 17
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-智働家族-old",
-    "click_url": "",
-    "count": 17
-  },
-  {
-    "pagePath": "/about/prizes",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 17
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-關於-new",
-    "click_url": "https://www.digiwin.com.tw/about/prizes",
-    "count": 17
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-關於-new",
-    "click_url": "https://www.digiwin.com.tw/hr/school/",
+    "click_text": "level1-服務-old",
+    "click_url": "http://dsa.dsc.com.tw/",
     "count": 17
   },
   {
@@ -2383,13 +2581,7 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "javascript:;",
-    "count": 17
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-智能+應用-old",
+    "click_text": "level1-關於-old",
     "click_url": "javascript:;",
     "count": 17
   },
@@ -2400,33 +2592,57 @@
     "count": 17
   },
   {
-    "pagePath": "/contact/eform",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/contact/eform#mmenu",
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-方案-new",
+    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
     "count": 17
   },
   {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
-    "count": 17
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-產品與軟體-old",
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-聯絡我們-new",
     "click_url": "(not set)",
     "count": 17
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-活動-old",
+    "click_url": "",
+    "count": 17
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
     "click_text": "logo-old",
     "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
     "count": 17
   },
   {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/index",
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 17
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "(not set)",
+    "count": 17
+  },
+  {
+    "pagePath": "/dsc/solution/WB002953/WB00295301",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 17
+  },
+  {
+    "pagePath": "/search",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 17
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
     "count": 17
   },
   {
@@ -2437,20 +2653,14 @@
   },
   {
     "pagePath": "/servicepoint",
-    "click_text": "level1-關於-old",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 17
   },
   {
-    "pagePath": "/software/696.html",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 17
-  },
-  {
-    "pagePath": "/software/710.html",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
+    "pagePath": "/servicepoint",
+    "click_text": "level1-知識-old",
+    "click_url": "",
     "count": 17
   },
   {
@@ -2461,50 +2671,20 @@
   },
   {
     "pagePath": "/software/CM/CM",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 17
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
-    "count": 17
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 17
-  },
-  {
-    "pagePath": "/software/CM/CM",
     "click_text": "level2-AI 解決方案-old",
     "click_url": "(not set)",
     "count": 17
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-新零售-old",
-    "click_url": "(not set)",
-    "count": 17
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "javascript:;",
-    "count": 17
-  },
-  {
     "pagePath": "/",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002521/WB00252103",
     "count": 16
   },
   {
     "pagePath": "/",
-    "click_text": "level2-流通業-old",
-    "click_url": "",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002553/WB00255301",
     "count": 16
   },
   {
@@ -2514,8 +2694,14 @@
     "count": 16
   },
   {
-    "pagePath": "/blog/erp/3581.html",
+    "pagePath": "/blog/erp/3247.html",
     "click_text": "level1-方案-new",
+    "click_url": "",
+    "count": 16
+  },
+  {
+    "pagePath": "/blog/erp/3581.html",
+    "click_text": "level1-服務-new",
     "click_url": "(not set)",
     "count": 16
   },
@@ -2526,15 +2712,39 @@
     "count": 16
   },
   {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-關於-old",
+    "pagePath": "/case",
+    "click_text": "level2-OT應用-old",
+    "click_url": "javascript:;",
+    "count": 16
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-新零售-old",
+    "click_url": "javascript:;",
+    "count": 16
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "(not set)",
+    "count": 16
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/contact/eform#",
+    "count": 16
+  },
+  {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-關於-new",
     "click_url": "",
     "count": 16
   },
   {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
+    "pagePath": "/dsc/project/ESG/index",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
     "count": 16
   },
   {
@@ -2544,21 +2754,39 @@
     "count": 16
   },
   {
-    "pagePath": "/dsc/solution/WB002741/case",
-    "click_text": "level1-行業-old",
+    "pagePath": "/dsc/solution/WB002476/WB00247601",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 16
   },
   {
-    "pagePath": "/dsc/solution/WB002741/mobile",
-    "click_text": "level1-方案-old",
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 16
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level2-智能+應用-old",
     "click_url": "(not set)",
+    "count": 16
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
     "count": 16
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-聯繫我們-old",
     "click_url": "https://www.digiwin.com.tw/contact/eform",
+    "count": 16
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level2-應用領域-old",
+    "click_url": "(not set)",
     "count": 16
   },
   {
@@ -2574,9 +2802,9 @@
     "count": 16
   },
   {
-    "pagePath": "/search",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
+    "pagePath": "/servicepoint",
+    "click_text": "level1-方案-old",
+    "click_url": "javascript:;",
     "count": 16
   },
   {
@@ -2587,14 +2815,14 @@
   },
   {
     "pagePath": "/servicepoint",
-    "click_text": "level1-知識-old",
-    "click_url": "",
+    "click_text": "level1-關於-old",
+    "click_url": "javascript:;",
     "count": 16
   },
   {
-    "pagePath": "/servicepoint",
-    "click_text": "logo-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM#",
     "count": 16
   },
   {
@@ -2604,21 +2832,21 @@
     "count": 16
   },
   {
-    "pagePath": "/software/WF/WF",
+    "pagePath": "/software/CM/CM",
     "click_text": "level1-服務-old",
     "click_url": "javascript:;",
     "count": 16
   },
   {
-    "pagePath": "/",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002521/WB00252103",
-    "count": 15
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-了解智能+全方案-old",
+    "click_url": "(not set)",
+    "count": 16
   },
   {
     "pagePath": "/",
-    "click_text": "level1-服務-old",
-    "click_url": "http://dsa.dsc.com.tw/",
+    "click_text": "level2-流通業-old",
+    "click_url": "",
     "count": 15
   },
   {
@@ -2628,15 +2856,15 @@
     "count": 15
   },
   {
-    "pagePath": "/blog/erp/3247.html",
-    "click_text": "level1-方案-new",
-    "click_url": "",
+    "pagePath": "/ERP/financial",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
     "count": 15
   },
   {
-    "pagePath": "/blog/erp/3581.html",
-    "click_text": "level1-服務-new",
-    "click_url": "(not set)",
+    "pagePath": "/case",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "javascript:;",
     "count": 15
   },
   {
@@ -2647,25 +2875,7 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level1-關於-old",
-    "click_url": "javascript:;",
-    "count": 15
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-OT應用-old",
-    "click_url": "javascript:;",
-    "count": 15
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-新零售-old",
-    "click_url": "javascript:;",
-    "count": 15
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-流通業-old",
+    "click_text": "level2-應用領域-old",
     "click_url": "(not set)",
     "count": 15
   },
@@ -2673,6 +2883,12 @@
     "pagePath": "/case",
     "click_text": "level2-流通業-old",
     "click_url": "javascript:;",
+    "count": 15
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "logo-old",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
     "count": 15
   },
   {
@@ -2682,27 +2898,39 @@
     "count": 15
   },
   {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-方案-new",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai",
+    "pagePath": "/contact/eform",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "javascript:;",
     "count": 15
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-聯絡我們-new",
+    "click_text": "level1-案例-new",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 15
+  },
+  {
+    "pagePath": "/dsc/industry4/smartFactory",
+    "click_text": "level1-方案-new",
+    "click_url": "",
+    "count": 15
+  },
+  {
+    "pagePath": "/dsc/project/ESG/index",
+    "click_text": "level1-服務-old",
     "click_url": "(not set)",
     "count": 15
   },
   {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-關於-new",
-    "click_url": "",
+    "pagePath": "/dsc/project/ESG/index",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
     "count": 15
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-活動-old",
-    "click_url": "",
+    "click_text": "level1-行業-old",
+    "click_url": "javascript:;",
     "count": 15
   },
   {
@@ -2718,8 +2946,14 @@
     "count": 15
   },
   {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-行業-old",
+    "pagePath": "/dsc/solution/WB002553/WB00255301",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 15
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-服務-old",
     "click_url": "",
     "count": 15
   },
@@ -2731,13 +2965,19 @@
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-AI 解決方案-old",
+    "click_text": "level2-雲平台/雲應用-old",
     "click_url": "(not set)",
     "count": 15
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-產品與軟體-old",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM#mmenu",
+    "count": 15
+  },
+  {
+    "pagePath": "/resources",
+    "click_text": "level1-服務-old",
     "click_url": "(not set)",
     "count": 15
   },
@@ -2748,39 +2988,57 @@
     "count": 15
   },
   {
-    "pagePath": "/servicepoint",
+    "pagePath": "/software/BPM/BPM",
     "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM",
+    "count": 15
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "logo-old",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "count": 15
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/CM/CM#",
+    "count": 15
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-行業-old",
     "click_url": "javascript:;",
     "count": 15
   },
   {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF#",
     "count": 15
   },
   {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 15
-  },
-  {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-關於-old",
-    "click_url": "javascript:;",
-    "count": 15
-  },
-  {
-    "pagePath": "/software/731.html",
-    "click_text": "level1-方案-old",
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-智働家族-old",
     "click_url": "(not set)",
     "count": 15
   },
   {
     "pagePath": "/",
-    "click_text": "level2-其他行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002899/WB00289901",
+    "click_text": "level1-方案-old",
+    "click_url": "https://a1.digiwin.com/",
+    "count": 14
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/CM/CM",
+    "count": 14
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-OT應用-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/OT-OMS/01/index.html",
     "count": 14
   },
   {
@@ -2790,8 +3048,20 @@
     "count": 14
   },
   {
+    "pagePath": "/ERP/financial",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
     "pagePath": "/aboutdsc",
     "click_text": "level1-服務-new",
+    "click_url": "",
+    "count": 14
+  },
+  {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-案例-new",
     "click_url": "",
     "count": 14
   },
@@ -2803,20 +3073,14 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-應用領域-old",
-    "click_url": "(not set)",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
     "count": 14
   },
   {
     "pagePath": "/case",
     "click_text": "level2-智能+應用-old",
     "click_url": "https://www.digiwin.com.tw/case#",
-    "count": 14
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "(not set)",
     "count": 14
   },
   {
@@ -2833,12 +3097,6 @@
   },
   {
     "pagePath": "/contact/eform",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/contact/eform#",
-    "count": 14
-  },
-  {
-    "pagePath": "/contact/eform",
     "click_text": "level1-案例-old",
     "click_url": "https://www.digiwin.com.tw/case",
     "count": 14
@@ -2850,12 +3108,6 @@
     "count": 14
   },
   {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-案例-new",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 14
-  },
-  {
     "pagePath": "/dsc/METIS/ChatFile/index",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
@@ -2863,37 +3115,25 @@
   },
   {
     "pagePath": "/dsc/industry4/smartFactory",
-    "click_text": "level1-方案-new",
-    "click_url": "",
-    "count": 14
-  },
-  {
-    "pagePath": "/dsc/project/ESG/index",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 14
-  },
-  {
-    "pagePath": "/dsc/project/ESG/index",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 14
-  },
-  {
-    "pagePath": "/dsc/project/ESG/index",
-    "click_text": "level1-行業-old",
+    "click_text": "level1-行業-new",
     "click_url": "(not set)",
     "count": 14
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-行業-old",
+    "click_text": "level1-方案-old",
     "click_url": "javascript:;",
     "count": 14
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level2-OT應用-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level2-了解智能+全方案-old",
     "click_url": "(not set)",
     "count": 14
   },
@@ -2917,37 +3157,91 @@
   },
   {
     "pagePath": "/dsc/solution/WB002553/WB00255301",
-    "click_text": "level1-服務-old",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 14
   },
   {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-行業-old",
+    "pagePath": "/dsc/solution/WB002595/WB00259501",
+    "click_text": "level1-方案-old",
     "click_url": "",
     "count": 14
   },
   {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-智能+應用-old",
+    "pagePath": "/dsc/solution/WB002675/WB00267501",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 14
   },
   {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-產品與軟體-old",
+    "pagePath": "/dsc/solution/WB002741/case",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/case",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002785/WB00278501",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-活動-old",
+    "click_url": "",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-聯繫我們-old",
     "click_url": "javascript:;",
     "count": 14
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
+    "click_text": "level2-OT應用-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level2-新零售-old",
+    "click_url": "(not set)",
     "count": 14
   },
   {
     "pagePath": "/dsc/solution/WB002899/WB00289901",
     "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/dsc/solution/WB002972/index",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/news",
+    "click_text": "level1-知識-old",
     "click_url": "(not set)",
     "count": 14
   },
@@ -2958,15 +3252,27 @@
     "count": 14
   },
   {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM",
+    "pagePath": "/service",
+    "click_text": "phone-nav-new",
+    "click_url": "",
     "count": 14
   },
   {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "logo-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "pagePath": "/servicepoint",
+    "click_text": "level1-服務-old",
+    "click_url": "javascript:;",
+    "count": 14
+  },
+  {
+    "pagePath": "/software/",
+    "click_text": "level1-方案-new",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/software/696.html",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
     "count": 14
   },
   {
@@ -2976,15 +3282,51 @@
     "count": 14
   },
   {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
+    "count": 14
+  },
+  {
     "pagePath": "/software/WF/WF",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "",
+    "count": 14
+  },
+  {
+    "pagePath": "/software/mes/mes",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 14
+  },
+  {
+    "pagePath": "/userservice",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 14
+  },
+  {
+    "pagePath": "/userservice",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
     "count": 14
   },
   {
     "pagePath": "/",
     "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/CM/CM",
+    "click_url": "https://www.digiwin.com.tw/software/717.html",
+    "count": 13
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/METIS/ChatFile/index",
+    "count": 13
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-了解智能+全方案-old",
+    "click_url": "https://www.digiwin.com.tw/ERP/erp-all.html",
     "count": 13
   },
   {
@@ -2994,39 +3336,45 @@
     "count": 13
   },
   {
-    "pagePath": "/ERP/financial",
-    "click_text": "level1-方案-old",
+    "pagePath": "/",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/index",
+    "count": 13
+  },
+  {
+    "pagePath": "/blog/erp/3581.html",
+    "click_text": "level1-方案-new",
+    "click_url": "",
+    "count": 13
+  },
+  {
+    "pagePath": "/blog/erp/3581.html",
+    "click_text": "level1-行業-new",
     "click_url": "(not set)",
     "count": 13
   },
   {
-    "pagePath": "/ERP/financial",
+    "pagePath": "/blog/index",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 13
+  },
+  {
+    "pagePath": "/case",
     "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
+    "count": 13
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level2-產品與軟體-old",
     "click_url": "(not set)",
-    "count": 13
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-案例-new",
-    "click_url": "",
-    "count": 13
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-活動-old",
-    "click_url": "",
-    "count": 13
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "logo-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
     "count": 13
   },
   {
     "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "level1-方案-new",
-    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
+    "click_text": "logo-new",
+    "click_url": "https://www.digiwin.com.tw/images/logo.svg",
     "count": 13
   },
   {
@@ -3036,8 +3384,20 @@
     "count": 13
   },
   {
+    "pagePath": "/dsc/project/ESG/index",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 13
+  },
+  {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-方案-old",
+    "click_text": "level1-案例-old",
+    "click_url": "",
+    "count": 13
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-案例-old",
     "click_url": "javascript:;",
     "count": 13
   },
@@ -3049,30 +3409,18 @@
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "(not set)",
+    "click_text": "level1-知識-old",
+    "click_url": "javascript:;",
+    "count": 13
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "javascript:;",
     "count": 13
   },
   {
     "pagePath": "/dsc/solution/WB002476/WB00247601",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002476/WB00247601",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002553/WB00255301",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002595/WB00259501",
     "click_text": "level1-方案-old",
     "click_url": "",
     "count": 13
@@ -3085,43 +3433,37 @@
   },
   {
     "pagePath": "/dsc/solution/WB002595/WB00259501",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 13
+  },
+  {
+    "pagePath": "/dsc/solution/WB002595/WB00259501",
     "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 13
   },
   {
-    "pagePath": "/dsc/solution/WB002741/case",
-    "click_text": "level1-知識-old",
+    "pagePath": "/dsc/solution/WB002675/WB00267501",
+    "click_text": "level1-服務-old",
     "click_url": "(not set)",
     "count": 13
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "logo-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002785/WB00278501",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-活動-old",
     "click_url": "",
     "count": 13
   },
   {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
+    "count": 13
+  },
+  {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-聯繫我們-old",
+    "click_text": "level1-知識-old",
     "click_url": "",
     "count": 13
   },
@@ -3129,12 +3471,6 @@
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-關於-old",
     "click_url": "",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM#mmenu",
     "count": 13
   },
   {
@@ -3150,15 +3486,9 @@
     "count": 13
   },
   {
-    "pagePath": "/dsc/solution/WB002953/WB00295301",
+    "pagePath": "/dsc/solution/WB002839/barcode",
     "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 13
-  },
-  {
-    "pagePath": "/dsc/solution/WB002972/index",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
+    "click_url": "",
     "count": 13
   },
   {
@@ -3168,33 +3498,21 @@
     "count": 13
   },
   {
-    "pagePath": "/news",
+    "pagePath": "/resources",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 13
+  },
+  {
+    "pagePath": "/servicepoint",
     "click_text": "level1-知識-old",
     "click_url": "(not set)",
     "count": 13
   },
   {
-    "pagePath": "/resources",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 13
-  },
-  {
-    "pagePath": "/service",
-    "click_text": "phone-nav-new",
-    "click_url": "",
-    "count": 13
-  },
-  {
     "pagePath": "/servicepoint",
-    "click_text": "level1-服務-old",
-    "click_url": "javascript:;",
-    "count": 13
-  },
-  {
-    "pagePath": "/software/",
-    "click_text": "level1-方案-new",
-    "click_url": "(not set)",
+    "click_text": "level1-關於-old",
+    "click_url": "https://www.digiwin.com.tw/aboutdsc",
     "count": 13
   },
   {
@@ -3204,38 +3522,32 @@
     "count": 13
   },
   {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/CM/CM#",
+    "pagePath": "/software/717.html",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 13
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "(not set)",
     "count": 13
   },
   {
     "pagePath": "/software/CM/CM",
     "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
-    "count": 13
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-服務-old",
     "click_url": "javascript:;",
     "count": 13
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "(not set)",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
     "count": 13
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level2-智働家族-old",
-    "click_url": "(not set)",
-    "count": 13
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-智能+應用-old",
+    "click_text": "level2-OT應用-old",
     "click_url": "",
     "count": 13
   },
@@ -3254,7 +3566,7 @@
   {
     "pagePath": "/",
     "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/717.html",
+    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
     "count": 12
   },
   {
@@ -3267,18 +3579,6 @@
     "pagePath": "/",
     "click_text": "level1-關於-old",
     "click_url": "https://www.digiwin.com.tw/about/prizes",
-    "count": 12
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-OT應用-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/OT-OMS/01/index.html",
-    "count": 12
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "https://www.digiwin.com.tw/ERP/erp-all.html",
     "count": 12
   },
   {
@@ -3301,13 +3601,37 @@
   },
   {
     "pagePath": "/",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM",
+    "count": 12
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-製造業-old",
+    "click_url": "",
+    "count": 12
+  },
+  {
+    "pagePath": "/",
     "click_text": "phone-nav-old",
     "click_url": "https://www.digiwin.com.tw/?utm_source=chatgpt.com#mmenu",
     "count": 12
   },
   {
+    "pagePath": "/",
+    "click_text": "行業方案-工程",
+    "click_url": "https://www.digiwin.com.tw/#mmenu",
+    "count": 12
+  },
+  {
     "pagePath": "/about/prizes",
     "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 12
+  },
+  {
+    "pagePath": "/blog/erp/3247.html",
+    "click_text": "level1-方案-new",
     "click_url": "(not set)",
     "count": 12
   },
@@ -3319,38 +3643,20 @@
   },
   {
     "pagePath": "/blog/erp/3581.html",
-    "click_text": "level1-方案-new",
-    "click_url": "",
-    "count": 12
-  },
-  {
-    "pagePath": "/blog/erp/3581.html",
-    "click_text": "level1-行業-new",
-    "click_url": "(not set)",
-    "count": 12
-  },
-  {
-    "pagePath": "/blog/index",
-    "click_text": "level1-聯繫我們-old",
+    "click_text": "level1-案例-new",
     "click_url": "(not set)",
     "count": 12
   },
   {
     "pagePath": "/case",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
+    "click_text": "level1-活動-old",
+    "click_url": "",
     "count": 12
   },
   {
     "pagePath": "/case",
     "click_text": "level1-行業-old",
     "click_url": "https://www.digiwin.com.tw/case#",
-    "count": 12
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
     "count": 12
   },
   {
@@ -3366,51 +3672,21 @@
     "count": 12
   },
   {
-    "pagePath": "/contact/eform",
+    "pagePath": "/case",
     "click_text": "level2-產品與軟體-old",
-    "click_url": "(not set)",
+    "click_url": "https://www.digiwin.com.tw/case#",
     "count": 12
   },
   {
     "pagePath": "/contact/eform",
-    "click_text": "level2-產品與軟體-old",
+    "click_text": "level1-方案-old",
     "click_url": "javascript:;",
     "count": 12
   },
   {
-    "pagePath": "/dsc/industry4/smartFactory",
-    "click_text": "level1-行業-new",
+    "pagePath": "/contact/eform",
+    "click_text": "level2-智能+應用-old",
     "click_url": "(not set)",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/project/ESG/index",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-案例-old",
-    "click_url": "javascript:;",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-知識-old",
-    "click_url": "javascript:;",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "javascript:;",
     "count": 12
   },
   {
@@ -3434,6 +3710,12 @@
   {
     "pagePath": "/dsc/project/ai-solution/private-ai",
     "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/METIS/ChatFile/index",
+    "count": 12
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level2-AI 解決方案-old",
     "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai?campaign=20GS-%E4%BC%81%E6%A5%ADAI%E5%",
     "count": 12
   },
@@ -3445,25 +3727,13 @@
   },
   {
     "pagePath": "/dsc/solution/WB002595/WB00259501",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/solution/WB002595/WB00259501",
     "click_text": "level2-雲平台/雲應用-old",
     "click_url": "(not set)",
     "count": 12
   },
   {
-    "pagePath": "/dsc/solution/WB002741/case",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 12
-  },
-  {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-聯繫我們-old",
+    "click_text": "level1-行業-old",
     "click_url": "javascript:;",
     "count": 12
   },
@@ -3481,37 +3751,7 @@
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-應用領域-old",
-    "click_url": "(not set)",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-新零售-old",
-    "click_url": "(not set)",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "(not set)",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "(not set)",
-    "count": 12
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/barcode",
-    "click_text": "level1-行業-old",
+    "click_text": "level2-AI 解決方案-old",
     "click_url": "",
     "count": 12
   },
@@ -3546,6 +3786,12 @@
     "count": 12
   },
   {
+    "pagePath": "/dsc/solution/article/informationsecurity",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
+    "count": 12
+  },
+  {
     "pagePath": "/news",
     "click_text": "level1-服務-old",
     "click_url": "(not set)",
@@ -3558,27 +3804,39 @@
     "count": 12
   },
   {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-關於-old",
-    "click_url": "https://www.digiwin.com.tw/aboutdsc",
-    "count": 12
-  },
-  {
-    "pagePath": "/software/696.html",
-    "click_text": "level1-知識-old",
+    "pagePath": "/resources",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 12
   },
   {
-    "pagePath": "/software/BPM/BPM",
+    "pagePath": "/servicepoint",
+    "click_text": "level1-案例-old",
+    "click_url": "javascript:;",
+    "count": 12
+  },
+  {
+    "pagePath": "/software/696.html",
     "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM#",
+    "click_url": "https://www.digiwin.com.tw/software/696.html#",
+    "count": 12
+  },
+  {
+    "pagePath": "/software/708.html",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
     "count": 12
   },
   {
     "pagePath": "/software/BPM/BPM",
     "click_text": "level1-服務-old",
     "click_url": "",
+    "count": 12
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "(not set)",
     "count": 12
   },
   {
@@ -3589,27 +3847,33 @@
   },
   {
     "pagePath": "/software/CM/CM",
-    "click_text": "level1-方案-old",
-    "click_url": "javascript:;",
-    "count": 12
-  },
-  {
-    "pagePath": "/software/CM/CM",
     "click_text": "level2-產品與軟體-old",
     "click_url": "(not set)",
     "count": 12
   },
   {
+    "pagePath": "/software/PLM/index",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 12
+  },
+  {
     "pagePath": "/software/WF/WF",
-    "click_text": "level2-OT應用-old",
+    "click_text": "level2-產品與軟體-old",
     "click_url": "",
     "count": 12
   },
   {
-    "pagePath": "/userservice",
-    "click_text": "level1-服務-old",
+    "pagePath": "/software/mes/mes",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 12
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/708.html",
+    "count": 11
   },
   {
     "pagePath": "/",
@@ -3620,7 +3884,7 @@
   {
     "pagePath": "/",
     "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002553/WB00255301",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002476/WB00247601",
     "count": 11
   },
   {
@@ -3631,26 +3895,20 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM",
-    "count": 11
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level2-製造業-old",
-    "click_url": "",
-    "count": 11
-  },
-  {
-    "pagePath": "/",
     "click_text": "level3-價值服務-old",
     "click_url": "javascript:;",
     "count": 11
   },
   {
     "pagePath": "/",
-    "click_text": "行業方案-工程",
+    "click_text": "行業方案-電子光電",
     "click_url": "https://www.digiwin.com.tw/#mmenu",
+    "count": 11
+  },
+  {
+    "pagePath": "/ERP/financial",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
     "count": 11
   },
   {
@@ -3666,21 +3924,45 @@
     "count": 11
   },
   {
+    "pagePath": "/aboutdsc",
+    "click_text": "level1-關於-new",
+    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
+    "count": 11
+  },
+  {
+    "pagePath": "/activity",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
     "pagePath": "/blog/erp/3247.html",
-    "click_text": "level1-方案-new",
+    "click_text": "level1-行業-new",
     "click_url": "(not set)",
     "count": 11
   },
   {
     "pagePath": "/blog/erp/3581.html",
-    "click_text": "level1-案例-new",
-    "click_url": "(not set)",
+    "click_text": "phone-nav-new",
+    "click_url": "",
     "count": 11
   },
   {
     "pagePath": "/blog/index",
     "click_text": "level1-知識-old",
     "click_url": "https://www.digiwin.com.tw/blog/index",
+    "count": 11
+  },
+  {
+    "pagePath": "/blog/index",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/blog/index#mmenu",
+    "count": 11
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
     "count": 11
   },
   {
@@ -3691,8 +3973,14 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
+    "click_text": "level2-應用領域-old",
+    "click_url": "https://www.digiwin.com.tw/case#",
+    "count": 11
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-應用領域-old",
+    "click_url": "javascript:;",
     "count": 11
   },
   {
@@ -3703,20 +3991,50 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "https://www.digiwin.com.tw/case#",
-    "count": 11
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-方案-old",
+    "click_text": "level2-雲平台/雲應用-old",
     "click_url": "javascript:;",
     "count": 11
   },
   {
     "pagePath": "/contact/eform",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "(not set)",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
+    "count": 11
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-行業-old",
+    "click_url": "javascript:;",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-服務-old",
+    "click_url": "https://www.digiwin.com.tw/service",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-知識-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "level1-關於-old",
+    "click_url": "javascript:;",
     "count": 11
   },
   {
@@ -3732,9 +4050,9 @@
     "count": 11
   },
   {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/METIS/ChatFile/index",
+    "pagePath": "/dsc/solution/WB002554/WB00255401",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
     "count": 11
   },
   {
@@ -3756,15 +4074,81 @@
     "count": 11
   },
   {
+    "pagePath": "/dsc/solution/WB002595/WB00259501",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "javascript:;",
+    "count": 11
+  },
+  {
     "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level1-案例-old",
+    "click_text": "level2-流通業-old",
     "click_url": "(not set)",
     "count": 11
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-活動-old",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/index?utm_term=%E9%BC%8E%E6%96%B0hr%E7%B3%BB%E7%B5%",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-方案-old",
+    "click_url": "javascript:;",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-案例-old",
     "click_url": "",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level2-OT應用-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level2-新零售-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/mobile",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/shift",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301#",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-案例-old",
+    "click_url": "",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002785/WB00278501",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
     "count": 11
   },
   {
@@ -3775,13 +4159,7 @@
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-知識-old",
-    "click_url": "",
-    "count": 11
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-OT應用-old",
+    "click_text": "level2-其他行業-old",
     "click_url": "(not set)",
     "count": 11
   },
@@ -3800,7 +4178,19 @@
   {
     "pagePath": "/dsc/solution/WB002839/manufacture",
     "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/manufacture",
+    "click_text": "level1-方案-old",
     "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/manufacture#",
+    "count": 11
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/solution",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
     "count": 11
   },
   {
@@ -3810,63 +4200,51 @@
     "count": 11
   },
   {
+    "pagePath": "/dsc/solution/WB002953/WB00295301",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
     "pagePath": "/dsc/solution/WB002972/index",
     "click_text": "level1-服務-old",
     "click_url": "(not set)",
     "count": 11
   },
   {
+    "pagePath": "/dsc/solution/WB002972/index",
+    "click_text": "phone-nav-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002972/index#mmenu",
+    "count": 11
+  },
+  {
     "pagePath": "/dsc/solution/article/informationsecurity",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/resources",
+    "click_text": "level1-知識-old",
+    "click_url": "(not set)",
+    "count": 11
+  },
+  {
+    "pagePath": "/software/696.html",
     "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 11
   },
   {
-    "pagePath": "/resources",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 11
-  },
-  {
-    "pagePath": "/resources",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 11
-  },
-  {
-    "pagePath": "/servicepoint",
-    "click_text": "level1-案例-old",
-    "click_url": "javascript:;",
-    "count": 11
-  },
-  {
-    "pagePath": "/software/696.html",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/696.html#",
-    "count": 11
-  },
-  {
     "pagePath": "/software/BPM/BPM",
     "click_text": "level1-方案-old",
     "click_url": "javascript:;",
-    "count": 11
-  },
-  {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "(not set)",
     "count": 11
   },
   {
     "pagePath": "/software/CM/CM",
     "click_text": "level1-行業-old",
     "click_url": "https://www.digiwin.com.tw/software/CM/CM?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
-    "count": 11
-  },
-  {
-    "pagePath": "/software/CM/CM",
-    "click_text": "level1-行業-old",
-    "click_url": "javascript:;",
     "count": 11
   },
   {
@@ -3896,25 +4274,19 @@
   {
     "pagePath": "/software/WF/WF",
     "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
     "count": 11
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF#",
-    "count": 11
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-產品與軟體-old",
+    "click_text": "level2-應用領域-old",
     "click_url": "",
     "count": 11
   },
   {
-    "pagePath": "/software/mes/mes",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
+    "pagePath": "/solution/ListDetail5983",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
     "count": 11
   },
   {
@@ -3925,20 +4297,14 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level1-方案-old",
-    "click_url": "https://a1.digiwin.com/",
-    "count": 10
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
+    "click_text": "level1-服務-old",
+    "click_url": "https://www.digiwin.com.tw/case",
     "count": 10
   },
   {
     "pagePath": "/",
     "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002476/WB00247601",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
     "count": 10
   },
   {
@@ -3948,38 +4314,8 @@
     "count": 10
   },
   {
-    "pagePath": "/",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/index",
-    "count": 10
-  },
-  {
-    "pagePath": "/",
-    "click_text": "行業方案-電子光電",
-    "click_url": "https://www.digiwin.com.tw/#mmenu",
-    "count": 10
-  },
-  {
-    "pagePath": "/ERP/financial",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
     "pagePath": "/about/prizes",
     "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/aboutdsc",
-    "click_text": "level1-關於-new",
-    "click_url": "https://www.digiwin.com.tw/aboutdsc#",
-    "count": 10
-  },
-  {
-    "pagePath": "/activity",
-    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 10
   },
@@ -3990,21 +4326,15 @@
     "count": 10
   },
   {
-    "pagePath": "/blog/erp/3247.html",
-    "click_text": "level1-行業-new",
+    "pagePath": "/blog/erp/3581.html",
+    "click_text": "level1-活動與學習-new",
     "click_url": "(not set)",
     "count": 10
   },
   {
-    "pagePath": "/blog/erp/3581.html",
-    "click_text": "phone-nav-new",
-    "click_url": "",
-    "count": 10
-  },
-  {
-    "pagePath": "/blog/index",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/blog/index#mmenu",
+    "pagePath": "/case",
+    "click_text": "level1-方案-old",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
     "count": 10
   },
   {
@@ -4015,14 +4345,26 @@
   },
   {
     "pagePath": "/case",
+    "click_text": "level1-活動-old",
+    "click_url": "https://www.digiwin.com.tw/course",
+    "count": 10
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "https://www.digiwin.com.tw/contact/eform",
+    "count": 10
+  },
+  {
+    "pagePath": "/case",
     "click_text": "level2-了解智能+全方案-old",
     "click_url": "(not set)",
     "count": 10
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-應用領域-old",
-    "click_url": "https://www.digiwin.com.tw/case#",
+    "click_text": "level2-其他行業-old",
+    "click_url": "(not set)",
     "count": 10
   },
   {
@@ -4033,26 +4375,8 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "javascript:;",
-    "count": 10
-  },
-  {
-    "pagePath": "/case",
     "click_text": "search-submit-old",
     "click_url": "",
-    "count": 10
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 10
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-行業-old",
-    "click_url": "javascript:;",
     "count": 10
   },
   {
@@ -4068,15 +4392,21 @@
     "count": 10
   },
   {
+    "pagePath": "/course",
+    "click_text": "level1-活動-old",
+    "click_url": "javascript:;",
+    "count": 10
+  },
+  {
     "pagePath": "/dsc/Agent-Space/index",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 10
   },
   {
-    "pagePath": "/dsc/Agent-Space/index",
-    "click_text": "logo-new",
-    "click_url": "https://www.digiwin.com.tw/images/logo.svg",
+    "pagePath": "/dsc/industry4/smartFactory",
+    "click_text": "level1-服務-new",
+    "click_url": "(not set)",
     "count": 10
   },
   {
@@ -4087,13 +4417,7 @@
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-知識-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-行業-old",
+    "click_text": "level1-服務-old",
     "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
     "count": 10
   },
@@ -4110,8 +4434,14 @@
     "count": 10
   },
   {
-    "pagePath": "/dsc/solution/WB002554/WB00255401",
-    "click_text": "level1-行業-old",
+    "pagePath": "/dsc/solution/WB002476/WB00247601",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 10
+  },
+  {
+    "pagePath": "/dsc/solution/WB002553/WB00255301",
+    "click_text": "level1-知識-old",
     "click_url": "(not set)",
     "count": 10
   },
@@ -4123,55 +4453,37 @@
   },
   {
     "pagePath": "/dsc/solution/WB002595/WB00259501",
-    "click_text": "level2-產品與軟體-old",
+    "click_text": "level2-應用領域-old",
     "click_url": "(not set)",
     "count": 10
   },
   {
     "pagePath": "/dsc/solution/WB002595/WB00259501",
     "click_text": "level2-產品與軟體-old",
-    "click_url": "javascript:;",
+    "click_url": "(not set)",
     "count": 10
   },
   {
-    "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level1-服務-old",
+    "pagePath": "/dsc/solution/WB002741/case",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
+    "count": 10
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/case",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 10
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-OT應用-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-新零售-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/mobile",
-    "click_text": "level1-行業-old",
+    "click_text": "level2-應用領域-old",
     "click_url": "(not set)",
     "count": 10
   },
   {
     "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301#",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/solution/WB002785/WB00278501",
-    "click_text": "level1-服務-old",
+    "click_text": "level2-智能+應用-old",
     "click_url": "(not set)",
     "count": 10
   },
@@ -4182,20 +4494,8 @@
     "count": 10
   },
   {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-其他行業-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/manufacture",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/solution",
-    "click_text": "level1-案例-old",
+    "pagePath": "/dsc/solution/WB002839/barcode",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 10
   },
@@ -4206,9 +4506,9 @@
     "count": 10
   },
   {
-    "pagePath": "/dsc/solution/WB002972/index",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002972/index#mmenu",
+    "pagePath": "/dsc/solution/WB002953/WB00295301",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
     "count": 10
   },
   {
@@ -4218,20 +4518,38 @@
     "count": 10
   },
   {
-    "pagePath": "/resources",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
+    "pagePath": "/service",
+    "click_text": "level1-服務-new",
+    "click_url": "",
+    "count": 10
+  },
+  {
+    "pagePath": "/service",
+    "click_text": "level1-聯絡我們-new",
+    "click_url": "https://www.digiwin.com.tw/servicepoint",
+    "count": 10
+  },
+  {
+    "pagePath": "/service/",
+    "click_text": "level1-聯絡我們-new",
+    "click_url": "https://www.digiwin.com.tw/contact/eform",
     "count": 10
   },
   {
     "pagePath": "/servicepoint",
-    "click_text": "level1-知識-old",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 10
+  },
+  {
+    "pagePath": "/software/696.html",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 10
   },
   {
     "pagePath": "/software/708.html",
-    "click_text": "level1-服務-old",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 10
   },
@@ -4243,14 +4561,14 @@
   },
   {
     "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-案例-old",
-    "click_url": "",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM#BPM",
     "count": 10
   },
   {
     "pagePath": "/software/BPM/BPM",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "(not set)",
+    "click_text": "level1-案例-old",
+    "click_url": "",
     "count": 10
   },
   {
@@ -4260,9 +4578,27 @@
     "count": 10
   },
   {
+    "pagePath": "/software/PLM/index",
+    "click_text": "level1-方案-old",
+    "click_url": "",
+    "count": 10
+  },
+  {
     "pagePath": "/software/WF/WF",
-    "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF#case",
+    "count": 10
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-服務-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
+    "count": 10
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-活動-old",
+    "click_url": "javascript:;",
     "count": 10
   },
   {
@@ -4273,27 +4609,15 @@
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level2-應用領域-old",
-    "click_url": "",
+    "click_text": "level2-流通業-old",
+    "click_url": "(not set)",
     "count": 10
   },
   {
     "pagePath": "/solution/ListDetail5983",
-    "click_text": "level1-行業-old",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 10
-  },
-  {
-    "pagePath": "/userservice",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 10
-  },
-  {
-    "pagePath": "/",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/708.html",
-    "count": 9
   },
   {
     "pagePath": "/",
@@ -4310,18 +4634,42 @@
   {
     "pagePath": "/",
     "click_text": "level1-聯繫我們-old",
+    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "count": 9
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-聯繫我們-old",
     "click_url": "https://www.digiwin.com.tw/aboutdsc",
     "count": 9
   },
   {
     "pagePath": "/",
-    "click_text": "level1-行業-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "click_text": "level2-流通業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002553/WB00255301",
+    "count": 9
+  },
+  {
+    "pagePath": "/ERP/financial",
+    "click_text": "level1-服務-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/ERP/financial",
+    "click_text": "level1-活動-old",
+    "click_url": "(not set)",
     "count": 9
   },
   {
     "pagePath": "/about/prizes",
     "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/about/prizes",
+    "click_text": "level1-聯繫我們-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4335,6 +4683,12 @@
     "pagePath": "/activity",
     "click_text": "level1-知識-old",
     "click_url": "javascript:;",
+    "count": 9
+  },
+  {
+    "pagePath": "/activity",
+    "click_text": "level1-關於-old",
+    "click_url": "(not set)",
     "count": 9
   },
   {
@@ -4357,12 +4711,6 @@
   },
   {
     "pagePath": "/blog/erp/3581.html",
-    "click_text": "level1-活動與學習-new",
-    "click_url": "(not set)",
-    "count": 9
-  },
-  {
-    "pagePath": "/blog/erp/3581.html",
     "click_text": "level1-行業-new",
     "click_url": "",
     "count": 9
@@ -4381,25 +4729,25 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF",
-    "count": 9
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-活動-old",
-    "click_url": "https://www.digiwin.com.tw/course",
-    "count": 9
-  },
-  {
-    "pagePath": "/case",
     "click_text": "level1-知識-old",
     "click_url": "https://www.digiwin.com.tw/case#",
     "count": 9
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-應用領域-old",
+    "click_text": "level2-新零售-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "https://www.digiwin.com.tw/case#",
+    "count": 9
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-案例-old",
     "click_url": "javascript:;",
     "count": 9
   },
@@ -4434,6 +4782,18 @@
     "count": 9
   },
   {
+    "pagePath": "/dsc/industry4/smartFactory",
+    "click_text": "level1-案例-new",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/dsc/industry4/smartFactory",
+    "click_text": "level1-行業-new",
+    "click_url": "",
+    "count": 9
+  },
+  {
     "pagePath": "/dsc/project/ESG/index",
     "click_text": "level1-知識-old",
     "click_url": "(not set)",
@@ -4441,20 +4801,14 @@
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/service",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
     "count": 9
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level1-聯繫我們-old",
-    "click_url": "",
-    "count": 9
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-關於-old",
-    "click_url": "javascript:;",
+    "click_url": "https://www.digiwin.com.tw/contact/eform",
     "count": 9
   },
   {
@@ -4476,8 +4830,8 @@
     "count": 9
   },
   {
-    "pagePath": "/dsc/solution/WB002553/WB00255301",
-    "click_text": "level1-知識-old",
+    "pagePath": "/dsc/service/WB002736/WB00273601",
+    "click_text": "level1-服務-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4488,8 +4842,8 @@
     "count": 9
   },
   {
-    "pagePath": "/dsc/solution/WB002595/WB00259501",
-    "click_text": "level2-應用領域-old",
+    "pagePath": "/dsc/solution/WB002554/WB00255401",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4508,7 +4862,13 @@
   {
     "pagePath": "/dsc/solution/WB002675/WB00267501",
     "click_text": "level2-流通業-old",
-    "click_url": "(not set)",
+    "click_url": "javascript:;",
+    "count": 9
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/case",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/case#",
     "count": 9
   },
   {
@@ -4518,50 +4878,50 @@
     "count": 9
   },
   {
-    "pagePath": "/dsc/solution/WB002741/case",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
     "count": 9
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/index?utm_term=%E9%BC%8E%E6%96%B0hr%E7%B3%BB%E7%B5%",
-    "count": 9
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-方案-old",
+    "click_text": "level1-服務-old",
     "click_url": "javascript:;",
     "count": 9
   },
   {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-行業-old",
-    "click_url": "javascript:;",
-    "count": 9
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-應用領域-old",
+    "pagePath": "/dsc/solution/WB002741/shift",
+    "click_text": "level1-服務-old",
     "click_url": "(not set)",
     "count": 9
   },
   {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-雲平台/雲應用-old",
+    "pagePath": "/dsc/solution/WB002741/shift",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 9
   },
   {
     "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-案例-old",
-    "click_url": "",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
     "count": 9
   },
   {
-    "pagePath": "/dsc/solution/WB002839/barcode",
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/T100/",
+    "count": 9
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-活動-old",
+    "click_url": "javascript:;",
+    "count": 9
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level2-了解智能+全方案-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4584,6 +4944,18 @@
     "count": 9
   },
   {
+    "pagePath": "/dsc/solution/WB002839/iso",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/manufacture",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
     "pagePath": "/dsc/solution/WB002899/WB00289901",
     "click_text": "level1-行業-old",
     "click_url": "",
@@ -4592,6 +4964,18 @@
   {
     "pagePath": "/dsc/solution/WB002899/WB00289901",
     "click_text": "level2-其他行業-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/dsc/solution/WB002899/operation",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/dsc/solution/WB002953/WB00295301",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4620,15 +5004,15 @@
     "count": 9
   },
   {
-    "pagePath": "/dsc/solution/article/informationsecurity",
-    "click_text": "level1-聯繫我們-old",
+    "pagePath": "/news",
+    "click_text": "level1-行業-old",
     "click_url": "(not set)",
     "count": 9
   },
   {
-    "pagePath": "/news",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
+    "pagePath": "/search",
+    "click_text": "level1-方案-old",
+    "click_url": "",
     "count": 9
   },
   {
@@ -4657,7 +5041,7 @@
   },
   {
     "pagePath": "/software/696.html",
-    "click_text": "level1-關於-old",
+    "click_text": "level1-聯繫我們-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4668,8 +5052,8 @@
     "count": 9
   },
   {
-    "pagePath": "/software/717.html",
-    "click_text": "level1-行業-old",
+    "pagePath": "/software/721.html",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4681,8 +5065,26 @@
   },
   {
     "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/BPM/BPM#BPM",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "",
+    "count": 9
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level1-聯繫我們-old",
+    "click_url": "javascript:;",
+    "count": 9
+  },
+  {
+    "pagePath": "/software/BPM/BPM",
+    "click_text": "level2-OT應用-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/software/CM/CM",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "javascript:;",
     "count": 9
   },
   {
@@ -4692,21 +5094,15 @@
     "count": 9
   },
   {
-    "pagePath": "/software/PLM/index",
-    "click_text": "level1-案例-old",
+    "pagePath": "/software/DOP/DOP",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 9
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93%81%E5%AD%97",
-    "count": 9
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-活動-old",
-    "click_url": "javascript:;",
+    "click_text": "level2-其他行業-old",
+    "click_url": "(not set)",
     "count": 9
   },
   {
@@ -4723,13 +5119,25 @@
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level2-流通業-old",
-    "click_url": "(not set)",
+    "click_text": "level2-雲平台/雲應用-old",
+    "click_url": "",
     "count": 9
   },
   {
     "pagePath": "/software/mes/mes",
-    "click_text": "level1-案例-old",
+    "click_text": "level2-智能+應用-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/solution/ListDetail5983",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
+    "count": 9
+  },
+  {
+    "pagePath": "/userservice",
+    "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 9
   },
@@ -4742,13 +5150,31 @@
   {
     "pagePath": "/",
     "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/case",
+    "click_url": "https://www.digiwin.com.tw/userservice",
     "count": 8
   },
   {
     "pagePath": "/",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/METIS/ChatFile/index",
+    "click_text": "level1-知識-old",
+    "click_url": "https://www.digiwin.com.tw/enewspaper",
+    "count": 8
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
+    "count": 8
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/semiconductor/index",
+    "count": 8
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-關於-old",
+    "click_url": "https://www.digiwin.com.tw/servicepoint",
     "count": 8
   },
   {
@@ -4759,14 +5185,14 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level2-流通業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002553/WB00255301",
+    "click_text": "level3-其他行業總覽-old",
+    "click_url": "javascript:;",
     "count": 8
   },
   {
     "pagePath": "/",
-    "click_text": "level3-其他行業總覽-old",
-    "click_url": "javascript:;",
+    "click_text": "行業方案-製造",
+    "click_url": "https://www.digiwin.com.tw/#mmenu",
     "count": 8
   },
   {
@@ -4777,26 +5203,32 @@
   },
   {
     "pagePath": "/ERP/financial",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/about/prizes",
-    "click_text": "level1-聯繫我們-old",
+    "click_text": "level1-知識-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
     "pagePath": "/activity",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
+    "click_text": "level1-活動-old",
+    "click_url": "",
     "count": 8
   },
   {
     "pagePath": "/activity",
     "click_text": "phone-nav-old",
     "click_url": "https://www.digiwin.com.tw/activity#mmenu",
+    "count": 8
+  },
+  {
+    "pagePath": "/blog/artificial-intelligence/3615.html",
+    "click_text": "phone-nav-new",
+    "click_url": "",
+    "count": 8
+  },
+  {
+    "pagePath": "/blog/erp/3247.html",
+    "click_text": "logo-new",
+    "click_url": "https://www.digiwin.com.tw/images/logo.svg",
     "count": 8
   },
   {
@@ -4809,6 +5241,12 @@
     "pagePath": "/blog/erp/3581.html",
     "click_text": "logo-new",
     "click_url": "https://www.digiwin.com.tw/images/logo.svg",
+    "count": 8
+  },
+  {
+    "pagePath": "/blog/index",
+    "click_text": "level1-服務-old",
+    "click_url": "http://dsa.dsc.com.tw/",
     "count": 8
   },
   {
@@ -4826,12 +5264,6 @@
   {
     "pagePath": "/case",
     "click_text": "level1-方案-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 8
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-方案-old",
     "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
     "count": 8
   },
@@ -4843,26 +5275,56 @@
   },
   {
     "pagePath": "/case",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "https://www.digiwin.com.tw/contact/eform",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002513/WB00251301",
     "count": 8
   },
   {
     "pagePath": "/case",
-    "click_text": "level2-其他行業-old",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002553/WB00255301",
+    "count": 8
+  },
+  {
+    "pagePath": "/case",
+    "click_text": "level2-智働家族-old",
+    "click_url": "javascript:;",
+    "count": 8
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level1-服務-old",
+    "click_url": "javascript:;",
+    "count": 8
+  },
+  {
+    "pagePath": "/contact/eform",
+    "click_text": "level2-了解智能+全方案-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
-    "pagePath": "/case",
-    "click_text": "level2-新零售-old",
+    "pagePath": "/contact/eform",
+    "click_text": "level2-應用領域-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
-    "pagePath": "/case",
+    "pagePath": "/contact/eform",
     "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "https://www.digiwin.com.tw/case#",
+    "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/course",
+    "click_text": "level1-活動-old",
+    "click_url": "https://www.digiwin.com.tw/course",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/Agent-Space/index",
+    "click_text": "level1-服務-new",
+    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index#",
     "count": 8
   },
   {
@@ -4879,26 +5341,8 @@
   },
   {
     "pagePath": "/dsc/industry4/smartFactory",
-    "click_text": "level1-服務-new",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/industry4/smartFactory",
-    "click_text": "level1-案例-new",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/industry4/smartFactory",
     "click_text": "level1-案例-new",
     "click_url": "https://www.digiwin.com.tw/case",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/industry4/smartFactory",
-    "click_text": "level1-行業-new",
-    "click_url": "",
     "count": 8
   },
   {
@@ -4921,14 +5365,20 @@
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
+    "click_text": "level1-關於-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
     "count": 8
   },
   {
     "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
     "click_text": "level2-智働家族-old",
     "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
+    "click_text": "search-btn-old",
+    "click_url": "",
     "count": 8
   },
   {
@@ -4945,6 +5395,24 @@
   },
   {
     "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level2-AI 解決方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai#",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
+    "click_text": "level2-了解智能+全方案-old",
+    "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/project/ai-solution/private-ai",
     "click_text": "level2-產品與軟體-old",
     "click_url": "(not set)",
     "count": 8
@@ -4956,15 +5424,15 @@
     "count": 8
   },
   {
-    "pagePath": "/dsc/service/WB002736/WB00273601",
+    "pagePath": "/dsc/solution/WB002476/WB00247601",
     "click_text": "level1-服務-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
     "pagePath": "/dsc/solution/WB002476/WB00247601",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
     "count": 8
   },
   {
@@ -4999,25 +5467,19 @@
   },
   {
     "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level2-流通業-old",
-    "click_url": "javascript:;",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/solution/WB002675/WB00267501_1",
+    "click_text": "level1-方案-old",
+    "click_url": "(not set)",
     "count": 8
   },
   {
     "pagePath": "/dsc/solution/WB002675/WB00267501_1",
     "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/case",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002741/case#",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/case",
-    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 8
   },
@@ -5029,13 +5491,7 @@
   },
   {
     "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-服務-old",
+    "click_text": "level1-知識-old",
     "click_url": "",
     "count": 8
   },
@@ -5046,26 +5502,20 @@
     "count": 8
   },
   {
-    "pagePath": "/dsc/solution/WB002741/shift",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/shift",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/shift",
-    "click_text": "level1-案例-old",
+    "pagePath": "/dsc/solution/WB002741/index",
+    "click_text": "level2-了解智能+全方案-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
     "pagePath": "/dsc/solution/WB002741/shift",
     "click_text": "level1-活動-old",
+    "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/solution/WB002741/shift",
+    "click_text": "level1-行業-old",
     "click_url": "(not set)",
     "count": 8
   },
@@ -5078,18 +5528,24 @@
   {
     "pagePath": "/dsc/solution/WB002783/WB00278301",
     "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level1-方案-old",
     "click_url": "https://www.digiwin.com.tw/software/WF/WF",
     "count": 8
   },
   {
     "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level2-智能+應用-old",
+    "click_text": "level1-服務-old",
+    "click_url": "",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/solution/WB002783/WB00278301",
+    "click_text": "level2-產品與軟體-old",
+    "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/solution/WB002785/WB00278501",
+    "click_text": "level1-活動-old",
     "click_url": "(not set)",
     "count": 8
   },
@@ -5102,6 +5558,12 @@
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
     "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93",
+    "count": 8
+  },
+  {
+    "pagePath": "/dsc/solution/WB002839/AISM",
+    "click_text": "level1-方案-old",
     "click_url": "javascript:;",
     "count": 8
   },
@@ -5113,7 +5575,7 @@
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-活動-old",
+    "click_text": "level1-知識-old",
     "click_url": "javascript:;",
     "count": 8
   },
@@ -5125,14 +5587,8 @@
   },
   {
     "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-AI 解決方案-old",
+    "click_text": "level2-智能+應用-old",
     "click_url": "",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "(not set)",
     "count": 8
   },
   {
@@ -5142,20 +5598,8 @@
     "count": 8
   },
   {
-    "pagePath": "/dsc/solution/WB002839/iso",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
     "pagePath": "/dsc/solution/WB002839/manufacture",
     "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/manufacture",
-    "click_text": "level1-行業-old",
     "click_url": "(not set)",
     "count": 8
   },
@@ -5178,32 +5622,32 @@
     "count": 8
   },
   {
-    "pagePath": "/dsc/solution/WB002899/operation",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
     "pagePath": "/dsc/solution/WB002899/solution",
     "click_text": "level1-方案-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
-    "pagePath": "/dsc/solution/WB002953/WB00295301",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/dsc/solution/WB002953/WB00295301",
-    "click_text": "level1-服務-old",
-    "click_url": "(not set)",
+    "pagePath": "/dsc/solution/WB003302/v2/index",
+    "click_text": "level1-行業-old",
+    "click_url": "",
     "count": 8
   },
   {
     "pagePath": "/dsc/solution/article/informationsecurity",
     "click_text": "level1-行業-old",
+    "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/erp/manufacture",
+    "click_text": "level1-案例-old",
+    "click_url": "(not set)",
+    "count": 8
+  },
+  {
+    "pagePath": "/grievance",
+    "click_text": "level1-關於-old",
     "click_url": "(not set)",
     "count": 8
   },
@@ -5227,12 +5671,6 @@
   },
   {
     "pagePath": "/search",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 8
-  },
-  {
-    "pagePath": "/search",
     "click_text": "level2-AI 解決方案-old",
     "click_url": "(not set)",
     "count": 8
@@ -5240,36 +5678,60 @@
   {
     "pagePath": "/service",
     "click_text": "level1-服務-new",
+    "click_url": "https://www.digiwin.com.tw/service",
+    "count": 8
+  },
+  {
+    "pagePath": "/service",
+    "click_text": "level1-行業-new",
     "click_url": "",
     "count": 8
   },
   {
     "pagePath": "/service",
-    "click_text": "level1-聯絡我們-new",
-    "click_url": "https://www.digiwin.com.tw/servicepoint",
+    "click_text": "level1-關於-new",
+    "click_url": "",
+    "count": 8
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/servicepoint#",
+    "count": 8
+  },
+  {
+    "pagePath": "/servicepoint",
+    "click_text": "level1-案例-old",
+    "click_url": "https://www.digiwin.com.tw/case",
     "count": 8
   },
   {
     "pagePath": "/servicepoint",
     "click_text": "level1-活動-old",
+    "click_url": "javascript:;",
+    "count": 8
+  },
+  {
+    "pagePath": "/software/710.html",
+    "click_text": "level1-行業-old",
+    "click_url": "",
+    "count": 8
+  },
+  {
+    "pagePath": "/software/717.html",
+    "click_text": "level2-AI 解決方案-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
-    "pagePath": "/software/696.html",
-    "click_text": "level1-活動-old",
+    "pagePath": "/software/731.html",
+    "click_text": "level2-AI 解決方案-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
-    "pagePath": "/software/708.html",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/software/721.html",
-    "click_text": "level1-案例-old",
+    "pagePath": "/software/731.html",
+    "click_text": "level2-智能+應用-old",
     "click_url": "(not set)",
     "count": 8
   },
@@ -5293,14 +5755,8 @@
   },
   {
     "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "",
-    "count": 8
-  },
-  {
-    "pagePath": "/software/BPM/BPM",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
+    "click_text": "level2-新零售-old",
+    "click_url": "(not set)",
     "count": 8
   },
   {
@@ -5311,8 +5767,8 @@
   },
   {
     "pagePath": "/software/CM/CM",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "javascript:;",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/software/T100/",
     "count": 8
   },
   {
@@ -5346,24 +5802,6 @@
     "count": 8
   },
   {
-    "pagePath": "/software/DOP/DOP",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 8
-  },
-  {
-    "pagePath": "/software/PLM/index",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 8
-  },
-  {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/WF/WF#case",
-    "count": 8
-  },
-  {
     "pagePath": "/software/WF/WF",
     "click_text": "level1-方案-old",
     "click_url": "https://www.digiwin.com.tw/software/WF/WF#why",
@@ -5383,8 +5821,26 @@
   },
   {
     "pagePath": "/software/WF/WF",
-    "click_text": "level2-其他行業-old",
-    "click_url": "(not set)",
+    "click_text": "level1-知識-old",
+    "click_url": "https://www.digiwin.com.tw/blog/index",
+    "count": 8
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/software/WF/WF#",
+    "count": 8
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-新零售-old",
+    "click_url": "",
+    "count": 8
+  },
+  {
+    "pagePath": "/software/WF/WF",
+    "click_text": "level2-智働家族-old",
+    "click_url": "",
     "count": 8
   },
   {
@@ -5396,13 +5852,13 @@
   {
     "pagePath": "/software/WF/WF",
     "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "",
+    "click_url": "javascript:;",
     "count": 8
   },
   {
-    "pagePath": "/software/WF/WF",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "javascript:;",
+    "pagePath": "/solution/ListDetail5945",
+    "click_text": "level1-行業-old",
+    "click_url": "(not set)",
     "count": 8
   },
   {
@@ -5412,16 +5868,16 @@
     "count": 8
   },
   {
-    "pagePath": "/solution/ListDetail5983",
-    "click_text": "level1-方案-old",
+    "pagePath": "/userservice",
+    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 8
   },
   {
-    "pagePath": "/solution/ListDetail5983",
-    "click_text": "level1-案例-old",
-    "click_url": "(not set)",
-    "count": 8
+    "pagePath": "/",
+    "click_text": "level1-方案-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
+    "count": 7
   },
   {
     "pagePath": "/",
@@ -5431,8 +5887,26 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level1-知識-old",
-    "click_url": "https://www.digiwin.com.tw/enewspaper",
+    "click_text": "level1-服務-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/service/WB002736/WB00273601",
+    "count": 7
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-活動-old",
+    "click_url": "https://www.digiknow.com.tw/activity?__hstc=267284369.bb47a1f7af71b484ab463abb9a4786d3.1770781957820",
+    "count": 7
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-活動-old",
+    "click_url": "https://www.digiknow.com.tw/activity?__hstc=267284369.e544bac4e7b9ac72fcf512ba347565a6.1772498742243",
+    "count": 7
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-活動-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud",
     "count": 7
   },
   {
@@ -5443,14 +5917,20 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/project/ESG/index",
     "count": 7
   },
   {
     "pagePath": "/",
     "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/Agent-Space/index",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB003295/WB00329502",
+    "count": 7
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level1-行業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB003302/v2/index",
     "count": 7
   },
   {
@@ -5461,8 +5941,14 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level1-關於-old",
-    "click_url": "https://www.digiwin.com.tw/servicepoint",
+    "click_text": "level2-OT應用-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/OT-IaaS/01_3/index.html",
+    "count": 7
+  },
+  {
+    "pagePath": "/",
+    "click_text": "level2-其他行業-old",
+    "click_url": "",
     "count": 7
   },
   {
@@ -5479,20 +5965,14 @@
   },
   {
     "pagePath": "/",
-    "click_text": "level3-企業營運管理-old",
-    "click_url": "javascript:;",
+    "click_text": "level2-製造業-old",
+    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002783/WB00278301",
     "count": 7
   },
   {
     "pagePath": "/",
-    "click_text": "行業方案-製造",
-    "click_url": "https://www.digiwin.com.tw/#mmenu",
-    "count": 7
-  },
-  {
-    "pagePath": "/ERP/financial",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
+    "click_text": "level3-企業營運管理-old",
+    "click_url": "javascript:;",
     "count": 7
   },
   {
@@ -5516,486 +5996,6 @@
   {
     "pagePath": "/activity",
     "click_text": "level1-服務-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/activity",
-    "click_text": "level1-活動-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/activity",
-    "click_text": "logo-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 7
-  },
-  {
-    "pagePath": "/activity_report",
-    "click_text": "level1-關於-old",
-    "click_url": "https://www.digiwin.com.tw/news",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/10/index/3354.html",
-    "click_text": "level1-活動與學習-new",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/artificial-intelligence/3615.html",
-    "click_text": "level1-方案-new",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/erp/3246.html",
-    "click_text": "level1-方案-new",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/erp/3247.html",
-    "click_text": "level1-方案-new",
-    "click_url": "https://www.digiwin.com.tw/blog/erp/3247.html#",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/erp/3247.html",
-    "click_text": "level1-服務-new",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/erp/3247.html",
-    "click_text": "logo-new",
-    "click_url": "https://www.digiwin.com.tw/images/logo.svg",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/erp/3581.html",
-    "click_text": "level1-方案-new",
-    "click_url": "https://www.digiwin.com.tw/blog/erp/3581.html#",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/erp/3581.html",
-    "click_text": "level1-服務-new",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/erp/3626.html",
-    "click_text": "level1-方案-new",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/blog/index",
-    "click_text": "level1-服務-old",
-    "click_url": "http://dsa.dsc.com.tw/",
-    "count": 7
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-活動-old",
-    "click_url": "https://www.digiwin.com.tw/case#",
-    "count": 7
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002513/WB00251301",
-    "count": 7
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level1-行業-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002553/WB00255301",
-    "count": 7
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-其他行業-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-智働家族-old",
-    "click_url": "https://www.digiwin.com.tw/case#",
-    "count": 7
-  },
-  {
-    "pagePath": "/case",
-    "click_text": "level2-智働家族-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-服務-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-案例-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-知識-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level1-關於-old",
-    "click_url": "https://www.digiwin.com.tw/hr/school/",
-    "count": 7
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level2-應用領域-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/contact/eform",
-    "click_text": "level2-雲平台/雲應用-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/course",
-    "click_text": "level1-活動-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/course",
-    "click_text": "logo-old",
-    "click_url": "https://static.digiwin.com.tw/upload/admin/20241122/767198509feb8ceee16567f0876e38fa.png",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/METIS/ChatFile/index",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/METIS/ChatFile/index",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/METIS/AIassist/index.html",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/METIS/ChatFile/index",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ESG/index",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ESG/index",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-服務-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level1-關於-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ServiceCloud/ServiceCloud",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ServiceCloud/ServiceCloud#",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/WB002940/index",
-    "click_text": "level1-方案-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/WB002940/index",
-    "click_text": "level2-OT應用-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/project/ai-solution/private-ai#",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level2-OT應用-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/project/ai-solution/private-ai",
-    "click_text": "level2-新零售-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/service/WB002736/WB00273601",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002521/WB00252103",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002595/WB00259501",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002595/WB00259501?campaign=03GS%E5%BB%B6%E4%BC%B8%E7%94%A2",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level1-案例-old",
-    "click_url": "https://www.digiwin.com.tw/case",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level1-關於-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002675/WB00267501",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002675/WB00267501_1",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002711/WB00271101",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/health",
-    "click_text": "level1-方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/index",
-    "click_text": "level2-了解智能+全方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/shift",
-    "click_text": "level1-知識-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002741/shift",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002783/WB00278301",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002785/WB00278501",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002785/WB00278501#",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002785/WB00278501",
-    "click_text": "level1-活動-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002785/WB00278501",
-    "click_text": "level2-應用領域-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002785/WB00278501",
-    "click_text": "level2-產品與軟體-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002521/WB00252103",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/AISM?campaign=02GS%E9%97%9C%E9%8D%B5%E7%94%A2%E5%93",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-方案-old",
-    "click_url": "https://www.digiwin.com.tw/software/T100/",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-案例-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level1-知識-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/AISM",
-    "click_text": "level2-智能+應用-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/barcode",
-    "click_text": "level1-案例-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/barcode",
-    "click_text": "level1-聯繫我們-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/manufacture",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/manufacture#",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/merchandise",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002839/merchandise",
-    "click_text": "phone-nav-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002839/merchandise#mmenu",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002899/WB00289901",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002899/WB00289901",
-    "click_text": "level2-AI 解決方案-old",
-    "click_url": "https://www.digiwin.com.tw/dsc/solution/WB002899/WB00289901?campaign=09GS%E8%A1%8C%E6%A5%AD%E5%AD%97",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002899/WB00289901",
-    "click_text": "level2-製造業-old",
-    "click_url": "javascript:;",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB002899/income",
-    "click_text": "level1-行業-old",
-    "click_url": "(not set)",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/WB003302/v2/index",
-    "click_text": "level1-行業-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/dsc/solution/article/informationsecurity",
-    "click_text": "level1-服務-old",
-    "click_url": "",
-    "count": 7
-  },
-  {
-    "pagePath": "/erp/manufacture",
-    "click_text": "level1-案例-old",
     "click_url": "(not set)",
     "count": 7
   }
